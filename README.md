@@ -12,6 +12,12 @@
 * [国家天文台邹虎主页](http://batc.bao.ac.cn/~zouhu/doku.php?id=projects:start): 内有地外行星python处理教程
 * [Astroplotlib](http://astroplotlib.stsci.edu/): 天文图像范例
 * [宇宙学计算器](https://ned.ipac.caltech.edu/help/cosmology_calc.html)
+* [系外天文学课程资料](http://people.virginia.edu/~dmw8f/astr5630/Topic07/Lecture_7.html): 来自弗吉尼亚大学  
+* [AstroBetter](https://www.astrobetter.com/): 专业天文学家的技巧分享
+* [AstroBites](https://astrobites.org/): 天文读者文摘
+
+
+
 
 ## Python
 * [Python字符串格式化输出的文档](https://pyformat.info/)
@@ -21,10 +27,10 @@
 
 ## Others
 * [AI对对联](https://ai.binwang.me/couplet/)
-* [漂亮地打印网页：printfriendly](https://www.printfriendly.com/)
-* [虚拟地球仪：Google Earth](https://www.google.com/earth/)
+* [printfriendly](https://www.printfriendly.com/): 漂亮地打印网页  
+* [Google Earth](https://www.google.com/earth/): 虚拟地球仪  
 * [影响因子数据库](https://academic-accelerator.com/Impact-Factor-IF/zh-CN/The-Astrophysical-Journal-Supplement-Series)
 
 ## Acknowledgements
-感谢北京大学：张路路，周泰，庄明阳  
+感谢北京大学：张路路，周泰，庄明阳, 吕澈秋 
 感谢国家天文台：何勃亮，郑捷，邹虎，任致远，陶一寒
