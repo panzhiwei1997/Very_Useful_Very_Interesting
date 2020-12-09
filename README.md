@@ -36,8 +36,13 @@
 >### Others
 >>* [清华大学操作系统课程实验 (OS Kernel Labs)](https://github.com/kiukotsu/ucore) 
 >>* [上海交通大学课程分享](https://github.com/c-hj/SJTU-Courses) 
+>>* [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course) 
+>>* [清华大学计算机系课程](https://github.com/PKUanonym/REKCARC-TSC-UHT) 
 >>* [GitHub中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)   
-
+>>* [HelloGitHub](https://github.com/521xueweihan/HelloGitHub): GitHub 上有趣、入门级的开源项目 
+>>* [C++算法大全](https://github.com/TheAlgorithms/C-Plus-Plus)  
+>>* [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer): A guide on how to be a Programmer - originally published by Robert L Read
+>>* [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
 
  
 
@@ -48,10 +53,21 @@
 >>* [Google Earth](https://www.google.com/earth/): 虚拟地球仪  
 >>* [BiliBili Evolved](https://github.com/the1812/Bilibili-Evolved/blob/master/features.md)
 
->### Others
+>### Tutorials 
+>>* [买房购房知识](https://github.com/houshanren/hangzhou_house_knowledge)
+
+
+>### Resources
 >>* [IPTV资源](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8): 直播源相关资源汇总
+>>* [科技爱好者周刊](https://github.com/ruanyf/weekly)
+>>* [免费电子书](https://github.com/ruanyf/free-books)
+>>* [免费音乐](https://github.com/ruanyf/weekly/blob/master/docs/free-music.md)
+>>* [免费照片](https://github.com/ruanyf/weekly/blob/master/docs/free-photos.md)
+>>* [免费软件](https://github.com/ruanyf/weekly/blob/master/docs/free-software.md)
 
 ## Acknowledgements
 感谢北京大学：张路路，周泰，庄明阳, 吕澈秋   
 
 感谢国家天文台：何勃亮，郑捷，邹虎，任致远，陶一寒
+
+感谢以上网站所有作者！
