@@ -73,7 +73,7 @@
 
 >### Resources
 >>* [贵校课程资料民间整理](https://github.com/lib-pku/libpku) 
->>* [天文课程笔记](https://github.com/slowdivePTG/Notes) 
+>>* [北大天文课程笔记](https://github.com/slowdivePTG/Notes) 
 >>* [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles) 
 >>* [上海交通大学课程分享](https://github.com/c-hj/SJTU-Courses) 
 >>* [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course) 
