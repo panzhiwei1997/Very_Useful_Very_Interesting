@@ -3,7 +3,7 @@
 >### Database
 >>* [ADS](https://ui.adsabs.harvard.edu/): astrophysics data system
 >>* [Arxiv](http://cn.arxiv.org/): e-print archive
->>* [AstroBites](https://physics.nist.gov/PhysRefData/ASD/lines_form.html): ASD原子光谱数据库,可用于查谱线
+>>* [ASD原子光谱数据库](https://physics.nist.gov/PhysRefData/ASD/lines_form.html):可用于查谱线
 >>* [影响因子数据库](https://academic-accelerator.com/Impact-Factor-IF/zh-CN/The-Astrophysical-Journal-Supplement-Series)
 >>* [Strasbourg(CDS数据库)](http://cdsportal.u-strasbg.fr/)
 
@@ -86,6 +86,11 @@
 
 >### Tutorials 
 >>* [买房购房知识](https://github.com/houshanren/hangzhou_house_knowledge)
+
+>### Games
+>>* [小霸王在线游戏](https://www.yikm.net/)
+>>* [网易云游戏平台](https://cg.163.com/#/mobile)
+
 
 
 ## Acknowledgements
