@@ -95,7 +95,7 @@
 >### Entertainments
 >>* [小霸王在线游戏](https://www.yikm.net/)
 >>* [网易云游戏平台](https://cg.163.com/#/mobile)
->>* [岳云鹏孙越爆笑相声合辑]https://www.ximalaya.com/xiangsheng/11219907/)
+>>* [岳云鹏孙越爆笑相声合辑](https://www.ximalaya.com/xiangsheng/11219907/)
 
 
 
