@@ -7,7 +7,10 @@
 [image匹配天区位置的软件：SCAMP](https://www.astromatic.net/software/scamp)   
 [image匹配天区位置的网站：Astrometry.net](http://astrometry.net/)   
 [天文数据基础与Python天文技术培训](https://hebl.china-vo.org/course/PIA2020/)  
-[天文数据基础与Python天文技术培训](https://hebl.china-vo.org/course/PIA2020/)  
+[天文数据基础与Python天文技术培训](https://hebl.china-vo.org/course/PIA2020/)   
+[天文图像范例：Astroplotlib](http://astroplotlib.stsci.edu/)  
+
+
 
 ## Others
 [AI对对联](https://ai.binwang.me/couplet/)
