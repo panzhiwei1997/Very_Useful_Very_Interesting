@@ -1,5 +1,3 @@
-# You can recommend some websites on wiki or PR!
-
 # Useful Websites for Astronomers
 ## Astronomy
 >### Database
@@ -96,3 +94,7 @@
 感谢国家天文台：何勃亮，郑捷，邹虎，任致远，陶一寒
 
 感谢以上网站所有作者！
+
+## To be continued
+
+# Welcome for recommending some websites through Wiki or PR!
