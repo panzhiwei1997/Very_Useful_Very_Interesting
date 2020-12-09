@@ -5,7 +5,7 @@
 >>* [Arxiv](http://cn.arxiv.org/): e-print archive
 >>* [ASD原子光谱数据库](https://physics.nist.gov/PhysRefData/ASD/lines_form.html):可用于查谱线
 >>* [影响因子数据库](https://academic-accelerator.com/Impact-Factor-IF/zh-CN/The-Astrophysical-Journal-Supplement-Series)
->>* [Strasbourg(CDS数据库)](http://cdsportal.u-strasbg.fr/)
+>>* [Strasbourg(CDS数据库)](http://cdsportal.u-strasbg.fr/): SIMBAD, VIZIER...
 
 >### Infos & Blogs
 >>* [CSST信息概述](https://github.com/CSSTsci/GalaxyAGN_science_discussion/wiki/CSST-Summary)
