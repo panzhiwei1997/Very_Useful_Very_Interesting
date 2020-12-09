@@ -6,10 +6,11 @@
 [国家天文台邹虎主页,内有地外行星python处理教程](http://batc.bao.ac.cn/~zouhu/doku.php?id=projects:start)   
 [image匹配天区位置的软件：SCAMP](https://www.astromatic.net/software/scamp)   
 [image匹配天区位置的网站：Astrometry.net](http://astrometry.net/)   
-[天文数据基础与Python天文技术培训](https://hebl.china-vo.org/course/PIA2020/)  
-[天文数据基础与Python天文技术培训](https://hebl.china-vo.org/course/PIA2020/)   
 [天文图像范例：Astroplotlib](http://astroplotlib.stsci.edu/)  
 
+## Python
+[天文数据基础与Python天文技术培训](https://hebl.china-vo.org/course/PIA2020/)  
+[Python字符串格式化输出的文档](https://pyformat.info/)   
 
 
 ## Others
