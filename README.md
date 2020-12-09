@@ -1,6 +1,6 @@
 # You can recommend some websites on wiki or PR!
 
-# Useful Websites
+# Useful Websites for Astronomers
 ## Astronomy
 >### Infos & Blogs
 >>* [COSMOS](https://astronomy.swin.edu.au/cosmos/): Cosmos is a unique astronomy reference written by research astronomers.
@@ -23,6 +23,7 @@
 >>* [AstroBites](https://physics.nist.gov/PhysRefData/ASD/lines_form.html): ASD原子光谱数据库,可用于查谱线
 >>* [影响因子数据库](https://academic-accelerator.com/Impact-Factor-IF/zh-CN/The-Astrophysical-Journal-Supplement-Series)
 >>* [Strasbourg(CDS数据库)](http://cdsportal.u-strasbg.fr/)
+>>* [Zotero](https://www.zotero.org/): a free, easy-to-use tool to help you collect, organize, cite, and share research
 
 
 
@@ -35,16 +36,14 @@
 
 >### Others
 >>* [清华大学操作系统课程实验 (OS Kernel Labs)](https://github.com/kiukotsu/ucore) 
->>* [上海交通大学课程分享](https://github.com/c-hj/SJTU-Courses) 
->>* [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course) 
 >>* [清华大学计算机系课程](https://github.com/PKUanonym/REKCARC-TSC-UHT) 
 >>* [GitHub中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)   
 >>* [HelloGitHub](https://github.com/521xueweihan/HelloGitHub): GitHub 上有趣、入门级的开源项目 
 >>* [C++算法大全](https://github.com/TheAlgorithms/C-Plus-Plus)  
 >>* [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer): A guide on how to be a Programmer - originally published by Robert L Read
 >>* [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
-
- 
+>>* [Vim 从入门到精通](https://github.com/wsdjeg/vim-galore-zh_cn)
+>>* [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 
 ## Others
 >### Tools
@@ -58,12 +57,17 @@
 
 
 >### Resources
+>>* [贵校课程资料民间整理](https://github.com/lib-pku/libpku) 
+>>* [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles) 
+>>* [上海交通大学课程分享](https://github.com/c-hj/SJTU-Courses) 
+>>* [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course) 
 >>* [IPTV资源](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8): 直播源相关资源汇总
 >>* [科技爱好者周刊](https://github.com/ruanyf/weekly)
 >>* [免费电子书](https://github.com/ruanyf/free-books)
 >>* [免费音乐](https://github.com/ruanyf/weekly/blob/master/docs/free-music.md)
 >>* [免费照片](https://github.com/ruanyf/weekly/blob/master/docs/free-photos.md)
 >>* [免费软件](https://github.com/ruanyf/weekly/blob/master/docs/free-software.md)
+>>* [最全中文诗歌古典文集数据库](https://github.com/chinese-poetry/chinese-poetry) 
 
 ## Acknowledgements
 感谢北京大学：张路路，周泰，庄明阳, 吕澈秋   
