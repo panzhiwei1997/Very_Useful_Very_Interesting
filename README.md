@@ -10,3 +10,7 @@
 
 ## Others
 [AI对对联](https://ai.binwang.me/couplet/)
+
+
+## Acknowledgements
+感谢周泰
