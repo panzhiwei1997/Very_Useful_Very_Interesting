@@ -43,6 +43,7 @@
 >>* [Python Linestyle、marker、颜色表](https://www.cnblogs.com/darkknightzh/p/6117528.html)
 >>* [Python Colormap表](https://blog.csdn.net/lly1122334/article/details/88535217)
 >>* [天文数据基础与Python天文技术培训](https://hebl.china-vo.org/course/PIA2020/)
+>>* [PyGame教程](https://eyehere.net/2011/python-pygame-novice-professional-1/)
 
 >### Others
 >>* [清华大学操作系统课程实验 (OS Kernel Labs)](https://github.com/kiukotsu/ucore) 
@@ -55,7 +56,9 @@
 >>* [Vim 从入门到精通](https://github.com/wsdjeg/vim-galore-zh_cn)
 >>* [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 >>* [Latex: Binary Relation Operators](http://www.access2science.com/latex/Binary.html)
+>>* [Symbols in LaTeX](https://latex.wikia.org/wiki/List_of_LaTeX_symbols)
 >>* [Symbols in LaTeX and HTML](http://www.stevesque.com/symbols/)
+>>* [Special_Characters in LaTeX](https://en.wikibooks.org/wiki/LaTeX/Special_Characters)
 
 
 
@@ -64,6 +67,7 @@
 
 ## Others
 >### Tools
+>>* [英语近义词在线词典](https://www.thesaurus.com/)
 >>* [AI对对联](https://ai.binwang.me/couplet/)
 >>* [printfriendly](https://www.printfriendly.com/): 漂亮地打印网页  
 >>* [Google Earth](https://www.google.com/earth/): 虚拟地球仪  
@@ -86,6 +90,7 @@
 
 >### Tutorials 
 >>* [买房购房知识](https://github.com/houshanren/hangzhou_house_knowledge)
+>>* [围棋教程](https://tieba.baidu.com/p/3413670740?red_tag=0900211857)
 
 >### Games
 >>* [小霸王在线游戏](https://www.yikm.net/)
@@ -94,9 +99,9 @@
 
 
 ## Acknowledgements
-感谢北京大学：张路路，周泰，庄明阳，吕澈秋，李立新   
+感谢北京大学：张路路，周泰，庄明阳，吕澈秋，李立新，余捻坤   
 
-感谢国家天文台：何勃亮，郑捷，邹虎，任致远，陶一寒
+感谢国家天文台：何勃亮，郑捷，邹虎，任致远，陶一寒，Greg
 
 感谢以上网站所有作者！
 
