@@ -52,5 +52,6 @@
 >>* [IPTV资源](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8): 直播源相关资源汇总
 
 ## Acknowledgements
-感谢北京大学：张路路，周泰，庄明阳, 吕澈秋 
+感谢北京大学：张路路，周泰，庄明阳, 吕澈秋   
+
 感谢国家天文台：何勃亮，郑捷，邹虎，任致远，陶一寒
