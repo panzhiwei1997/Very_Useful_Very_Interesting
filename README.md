@@ -6,7 +6,7 @@
 [国家天文台邹虎主页,内有地外行星python处理教程](http://batc.bao.ac.cn/~zouhu/doku.php?id=projects:start)   
 [image匹配天区位置的软件：SCAMP](https://www.astromatic.net/software/scamp)   
 [image匹配天区位置的网站：Astrometry.net](http://astrometry.net/)   
-[天文图像范例：Astroplotlib](http://astroplotlib.stsci.edu/)
+[天文图像范例：Astroplotlib](http://astroplotlib.stsci.edu/)   
 [CSST信息概述](https://github.com/CSSTsci/GalaxyAGN_science_discussion/wiki/CSST-Summary)
 
 
@@ -16,7 +16,9 @@
 
 
 ## Others
-[AI对对联](https://ai.binwang.me/couplet/)
+[AI对对联](https://ai.binwang.me/couplet/)  
+[虚拟地球仪：Google Earth](https://www.google.com/earth/)
+
 
 
 ## Acknowledgements
