@@ -21,7 +21,9 @@
 
 ## Others
 * [AI对对联](https://ai.binwang.me/couplet/)
+* [漂亮地打印网页：printfriendly](https://www.printfriendly.com/)
 * [虚拟地球仪：Google Earth](https://www.google.com/earth/)
+* [影响因子数据库](https://academic-accelerator.com/Impact-Factor-IF/zh-CN/The-Astrophysical-Journal-Supplement-Series)
 
 ## Acknowledgements
 感谢北京大学：张路路，周泰，庄明阳
