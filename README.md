@@ -13,7 +13,7 @@
 ## Python
 [天文数据基础与Python天文技术培训](https://hebl.china-vo.org/course/PIA2020/)  
 [Python字符串格式化输出的文档](https://pyformat.info/)   
-
+[Python Linestyle、marker、颜色表](https://www.cnblogs.com/darkknightzh/p/6117528.html)   
 
 ## Others
 [AI对对联](https://ai.binwang.me/couplet/)  
@@ -22,5 +22,5 @@
 
 
 ## Acknowledgements
-感谢北京大学：张路路，周泰
+感谢北京大学：张路路，周泰，庄明阳
 感谢国家天文台：何勃亮，郑捷，邹虎，任致远，陶一寒
