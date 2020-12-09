@@ -15,7 +15,7 @@
 * [系外天文学课程资料](http://people.virginia.edu/~dmw8f/astr5630/Topic07/Lecture_7.html): 来自弗吉尼亚大学  
 * [AstroBetter](https://www.astrobetter.com/): 专业天文学家的技巧分享
 * [AstroBites](https://astrobites.org/): 天文读者文摘
-
+* [AstroBites](https://physics.nist.gov/PhysRefData/ASD/lines_form.html): ASD原子光谱数据库,可用于查谱线
 
 
 
