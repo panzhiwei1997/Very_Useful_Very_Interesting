@@ -1,4 +1,4 @@
-# You can recommend some websites on wiki!
+# You can recommend some websites on wiki or PR!
 
 # Useful Websites
 ## Astronomy
@@ -7,6 +7,7 @@
 >>* [CSST信息概述](https://github.com/CSSTsci/GalaxyAGN_science_discussion/wiki/CSST-Summary)
 >>* [AAS Job Register](https://jobregister.aas.org): Find and post astronomy related jobs!
 >>* [AstroBites](https://astrobites.org/): 天文读者文摘
+>>* [Astropy](https://www.astropy.org/)
 
 >### Tutorials & Courses
 >>* [国家天文台邹虎主页](http://batc.bao.ac.cn/~zouhu/doku.php?id=projects:start): 内有地外行星python处理教程
@@ -33,15 +34,22 @@
 >>* [天文数据基础与Python天文技术培训](https://hebl.china-vo.org/course/PIA2020/)
 
 >### Others
->>* [清华大学操作系统课程实验 (OS Kernel Labs)](https://github.com/kiukotsu/ucore)
+>>* [清华大学操作系统课程实验 (OS Kernel Labs)](https://github.com/kiukotsu/ucore) 
+>>* [上海交通大学课程分享](https://github.com/c-hj/SJTU-Courses) 
+>>* [GitHub中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)   
+
+
+ 
 
 ## Others
 >### Tools
 >>* [AI对对联](https://ai.binwang.me/couplet/)
 >>* [printfriendly](https://www.printfriendly.com/): 漂亮地打印网页  
 >>* [Google Earth](https://www.google.com/earth/): 虚拟地球仪  
+>>* [BiliBili Evolved](https://github.com/the1812/Bilibili-Evolved/blob/master/features.md)
 
 >### Others
+>>* [IPTV资源](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8): 直播源相关资源汇总
 
 ## Acknowledgements
 感谢北京大学：张路路，周泰，庄明阳, 吕澈秋 
