@@ -11,6 +11,7 @@
 
 >### Infos & Blogs
 >>* [CSST信息概述](https://github.com/CSSTsci/GalaxyAGN_science_discussion/wiki/CSST-Summary)
+>>* [Physical Constants and Astronomical Data](http://www.astro.wisc.edu/~dolan/constants.html)
 >>* [COSMOS](https://astronomy.swin.edu.au/cosmos/): Cosmos is a unique astronomy reference written by research astronomers.
 >>* [Encyclopedia of Astronomy and Astrophysics](http://eaa.crcpress.com/default.asp)
 >>* [Handbook of Space Astronomy and Astrophysics](http://ads.harvard.edu/books/hsaa/toc.html)
@@ -72,6 +73,7 @@
 
 >### Resources
 >>* [贵校课程资料民间整理](https://github.com/lib-pku/libpku) 
+>>* [天文课程笔记](https://github.com/slowdivePTG/Notes) 
 >>* [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles) 
 >>* [上海交通大学课程分享](https://github.com/c-hj/SJTU-Courses) 
 >>* [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course) 
