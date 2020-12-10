@@ -112,7 +112,6 @@
 >>* [HelloGitHub](https://github.com/521xueweihan/HelloGitHub): GitHub 上有趣、入门级的开源项目 
 >>* [C++算法大全](https://github.com/TheAlgorithms/C-Plus-Plus)  
 
-
 >### Tutorials
 >>* [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer): A guide on how to be a Programmer - originally published by Robert L Read
 >>* [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
@@ -143,6 +142,7 @@
 
 ## Others
 >### Tools
+>>* [秘塔写作猫](https://xiezuocat.com/#/editor?docId=6131737&new=true): 一个不可多得的AI智能写作工具，支持实时错误提示，全文改写，翻译，甚至古文改写
 >>* [Aconvert](https://www.aconvert.com/pdf): 在线格式转换工具，比如转pdf
 >>* [Time.is](https://www.thesaurus.com/): 所有时区的精确时间
 >>* [printfriendly](https://www.printfriendly.com/): 漂亮地打印网页  
@@ -167,6 +167,7 @@
 >>* [PPT超级市场](http://ppt.sotary.com/web/wxapp/index.html): 一个很干净的免费ppt下载网站
 >>* [Greasy Fork](https://a.maorx.cn/): 一个提供浏览器用户脚本的网站。
 >>* [Wallhaven](https://wallhaven.cc/): Awesome wallpapers
+>>* [联图云光盘](http://discx.yuntu.io/): 一个宝藏书籍光盘网站，它收录了126450张书籍光盘
 >>* [IPTV资源](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8): 直播源相关资源汇总
 >>* [科技爱好者周刊](https://github.com/ruanyf/weekly)
 >>* [免费电子书](https://github.com/ruanyf/free-books)
