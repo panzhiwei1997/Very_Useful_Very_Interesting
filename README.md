@@ -6,7 +6,7 @@
 * [Astronomy](#astronomy)
 * [Programs](#programs)
 * [English](#english)
-* [Chemistry](#cheistry)
+* [Chemistry](#chemistry)
 * [Others](#others)
 * [Acknowledgements](#acknowledgements)
 * [To be continued](#to-be-continued)
