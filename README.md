@@ -31,6 +31,8 @@
 >>* [Astrometry.net](http://astrometry.net/): image匹配天区位置的网站  
 >>* [宇宙学计算器](https://ned.ipac.caltech.edu/help/cosmology_calc.html)
 >>* [在线积分计算器](https://www.wolframalpha.com/calculators/integral-calculator)
+>>* [Desmos](https://www.desmos.com/calculator?lang=zh-CN): 在线函数画图
+>>* [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/): 在线提取图像中的数据点
 >>* [Zotero](https://www.zotero.org/): a free, easy-to-use tool to help you collect, organize, cite, and share research
 
 
@@ -101,7 +103,7 @@
 
 
 ## Acknowledgements
-感谢北京大学：张路路，周泰，庄明阳，吕澈秋，李立新，余捻坤   
+感谢北京大学：张路路，周泰，庄明阳，吕澈秋，李立新，余捻坤，刘畅，林小婧，徐伟伟  
 
 感谢国家天文台：何勃亮，郑捷，邹虎，任致远，陶一寒，Greg
 
