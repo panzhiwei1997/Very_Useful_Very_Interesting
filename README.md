@@ -18,6 +18,7 @@
 >>* [ASD原子光谱数据库](https://physics.nist.gov/PhysRefData/ASD/lines_form.html):可用于查谱线
 >>* [影响因子数据库](https://academic-accelerator.com/Impact-Factor-IF/zh-CN/The-Astrophysical-Journal-Supplement-Series)
 >>* [JINAbase](https://jinabase.pythonanywhere.com/index): A database for metal-poor stars
+>>* [LASD](http://lasd.lyman-alpha.com/): Lyman Alpha Spectral Database
 
 >### Online Tools 
 >>* [CMD](http://stev.oapd.inaf.it/cgi-bin/cmd): A web interface dealing with stellar isochrones and their derivatives.
@@ -49,13 +50,19 @@
 
 
 ## Programs
->### Python
->>* [Astropy](https://www.astropy.org/)
+>### Python docs
 >>* [Python字符串格式化输出的文档](https://pyformat.info/)
 >>* [Python Linestyle、marker、颜色表](https://www.cnblogs.com/darkknightzh/p/6117528.html)
 >>* [Python Colormap表](https://blog.csdn.net/lly1122334/article/details/88535217)
 >>* [天文数据基础与Python天文技术培训](https://hebl.china-vo.org/course/PIA2020/)
 >>* [PyGame教程](https://eyehere.net/2011/python-pygame-novice-professional-1/)
+
+>### Python packages
+>>* [Astropy](https://www.astropy.org/)
+>>* [VoigtFit](https://voigtfit.readthedocs.io/en/latest/): VoigtFit is written to make absorption line fitting a breeze.
+>>* [ParaMonte: Parallel Monte Carlo Library](https://www.cdslab.org/paramonte/notes/overview/preface/)
+>>* [PyHammer](https://github.com/BU-hammerTeam/PyHammer): a tool developed to allow rapid and automatic spectral classification of stars.
+>>* [DESK: Dusty-Evolved-Star-Kit](https://github.com/s-goldman/Dusty-Evolved-Star-Kit): an SED-fitting python package for fitting data from evolved stars (photometry or spectra) 
 
 >### Latex
 >>* [Latex: Binary Relation Operators](http://www.access2science.com/latex/Binary.html)
@@ -63,16 +70,20 @@
 >>* [Symbols in LaTeX and HTML](http://www.stevesque.com/symbols/)
 >>* [Special_Characters in LaTeX](https://en.wikibooks.org/wiki/LaTeX/Special_Characters)
 
->### Others
+>### Courses & Resources
+>>* [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 >>* [清华大学操作系统课程实验 (OS Kernel Labs)](https://github.com/kiukotsu/ucore) 
 >>* [清华大学计算机系课程](https://github.com/PKUanonym/REKCARC-TSC-UHT) 
 >>* [GitHub中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)   
 >>* [HelloGitHub](https://github.com/521xueweihan/HelloGitHub): GitHub 上有趣、入门级的开源项目 
 >>* [C++算法大全](https://github.com/TheAlgorithms/C-Plus-Plus)  
+>>* [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
+
+>### Tutorials
 >>* [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer): A guide on how to be a Programmer - originally published by Robert L Read
 >>* [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
->>* [Vim 从入门到精通](https://github.com/wsdjeg/vim-galore-zh_cn)
->>* [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
+>>* [Vim 从入门到精通](https://github.com/wsdjeg/vim-galore-zh_cn)  
+>>* [The Markov-chain Monte Carlo Interactive Gallery](http://chi-feng.github.io/mcmc-demo/)  
 
 
 
@@ -88,10 +99,11 @@
 >>* [Imagecyborg](https://imagecyborg.com/): download images from any website, webpage via url or link
 >>* [Google Earth](https://www.google.com/earth/): 虚拟地球仪  
 >>* [青柠起始页](https://a.maorx.cn/)：好用的主页
+>>* [Greasy Fork](https://a.maorx.cn/)：一个提供浏览器用户脚本的网站。
 >>* [BiliBili Evolved](https://github.com/the1812/Bilibili-Evolved/blob/master/features.md)
 >>* [AI对对联](https://ai.binwang.me/couplet/)
 
->### Resources
+>### Courses & Resources
 >>* [贵校课程资料民间整理](https://github.com/lib-pku/libpku) 
 >>* [北大天文课程笔记](https://github.com/slowdivePTG/Notes) 
 >>* [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles) 
@@ -108,6 +120,7 @@
 
 
 >### Tutorials 
+>>* [博弈论游戏大全](https://www.cs.cmu.edu/afs/cs/academic/class/15859-f01/www/notes/comb.pdf)
 >>* [买房购房知识](https://github.com/houshanren/hangzhou_house_knowledge)
 >>* [围棋教程](https://tieba.baidu.com/p/3413670740?red_tag=0900211857)
 
@@ -120,7 +133,7 @@
 
 
 ## Acknowledgements
-感谢北京大学：张路路，周泰，庄明阳，吕澈秋，李立新，余捻坤，刘畅，林小婧，李嘉轩，徐伟伟，邱钰  
+感谢北京大学：周泰，张路路，庄明阳，吕澈秋，李立新，余捻坤，刘畅，林小婧，李嘉轩，徐伟伟，邱钰，傅煜铭
 
 感谢国家天文台：何勃亮，郑捷，邹虎，任致远，陶一寒，Greg
 
