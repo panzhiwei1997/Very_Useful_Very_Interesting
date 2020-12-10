@@ -34,6 +34,8 @@
 >>* [Desmos](https://www.desmos.com/calculator?lang=zh-CN): 函数画图
 >>* [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/): 提取图像中的数据点
 >>* [nbviewer](https://nbviewer.jupyter.org/): Github打开notebook经常会卡或者失败，把链接复制到这个网站可以很快打开。
+>>* [overleaf](https://www.overleaf.com/): The easy to use, online, collaborative LaTeX editor
+
 
 >### Tutorials & Courses
 >>* [Astroplotlib](http://astroplotlib.stsci.edu/): 天文图像范例
@@ -145,16 +147,13 @@
 >>* [小霸王在线游戏](https://www.yikm.net/)
 >>* [网易云游戏平台](https://cg.163.com/#/mobile)
 >>* [岳云鹏孙越爆笑相声合辑](https://www.ximalaya.com/xiangsheng/11219907/)
-
+>>* [daniwell official website](https://aidn.jp/)
 
 
 
 ## Acknowledgements
-感谢北京大学：周泰，张路路，庄明阳，吕澈秋，李立新，余捻坤，刘畅，林小靖，李嘉轩，徐伟伟，邱钰，傅煜铭，吴晋
+感谢周泰，黄崧，李立新，张路路，庄明阳，吕澈秋，余捻坤，刘畅，林小靖，李嘉轩，徐伟伟，邱钰，傅煜铭，吴晋,何勃亮，郑捷，邹虎，任致远，陶一寒，Greg，韩耕愚，张茂森，陈天翔。
 
-感谢国家天文台：何勃亮，郑捷，邹虎，任致远，陶一寒，Greg
-
-感谢黄崧
 
 感谢以上网站所有作者！
 
