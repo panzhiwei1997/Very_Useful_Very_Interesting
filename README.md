@@ -47,10 +47,13 @@
 >### Homepages
 >>* [江林华](http://kavli.pku.edu.cn/~jiang/index.html)
 >>* [李立新](http://kavli.pku.edu.cn/~lxl/professional/html/links.html):内有丰富的推荐网站
+>>* [邵立晶](https://friendshao.github.io/about/)
 >>* [Yue Shen](http://quasar.astro.illinois.edu/)
 >>* [邹虎](http://batc.bao.ac.cn/~zouhu/doku.php?id=projects:start): 内有地外行星python处理教程
 >>* [黄崧](http://dr-guangtou.github.io/)
 >>* [吴晋的Github](https://github.com/fmajor)
+>>* [KIAAGravity](https://kiaagravity.github.io/)
+
 
 >### Softwares 
 >>* [SCAMP](https://www.astromatic.net/software/scamp): image匹配天区位置  
@@ -147,7 +150,7 @@
 
 
 ## Acknowledgements
-感谢北京大学：周泰，张路路，庄明阳，吕澈秋，李立新，余捻坤，刘畅，林小婧，李嘉轩，徐伟伟，邱钰，傅煜铭，吴晋
+感谢北京大学：周泰，张路路，庄明阳，吕澈秋，李立新，余捻坤，刘畅，林小靖，李嘉轩，徐伟伟，邱钰，傅煜铭，吴晋
 
 感谢国家天文台：何勃亮，郑捷，邹虎，任致远，陶一寒，Greg
 
