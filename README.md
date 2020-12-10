@@ -145,7 +145,8 @@
 >>* [秘塔写作猫](https://xiezuocat.com/#/editor?docId=6131737&new=true): 一个不可多得的AI智能写作工具，支持实时错误提示，全文改写，翻译，甚至古文改写
 >>* [Aconvert](https://www.aconvert.com/pdf): 在线格式转换工具，比如转pdf
 >>* [Time.is](https://www.thesaurus.com/): 所有时区的精确时间
->>* [printfriendly](https://www.printfriendly.com/): 漂亮地打印网页  
+>>* [printfriendly](https://www.printfriendly.com/): 漂亮地打印网页 
+>>* [拷贝兔](https://cp.anyknew.com/): 一个完全免费的轻量级跨平台文件传输工具，非常实用并且好用。
 >>* [图形方格纸](https://www.mygraphpaper.com/index.php?lang=zh-hans): 在线制作自己的方格笔记本
 >>* [Imagecyborg](https://imagecyborg.com/): download images from any website, webpage via url or link
 >>* [Google Earth](https://www.google.com/earth/): 虚拟地球仪  
@@ -166,14 +167,15 @@
 >>* [Library Genesis](http://gen.lib.rus.ec/): 一个很强大的电子书下载网站
 >>* [PPT超级市场](http://ppt.sotary.com/web/wxapp/index.html): 一个很干净的免费ppt下载网站
 >>* [Greasy Fork](https://a.maorx.cn/): 一个提供浏览器用户脚本的网站。
->>* [Wallhaven](https://wallhaven.cc/): Awesome wallpapers
 >>* [联图云光盘](http://discx.yuntu.io/): 一个宝藏书籍光盘网站，它收录了126450张书籍光盘
 >>* [IPTV资源](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8): 直播源相关资源汇总
 >>* [科技爱好者周刊](https://github.com/ruanyf/weekly)
 >>* [免费电子书](https://github.com/ruanyf/free-books)
 >>* [免费音乐](https://github.com/ruanyf/weekly/blob/master/docs/free-music.md)
 >>* [免费照片](https://github.com/ruanyf/weekly/blob/master/docs/free-photos.md)
+>>* [Wallhaven](https://wallhaven.cc/): Awesome wallpapers
 >>* [免费软件](https://github.com/ruanyf/weekly/blob/master/docs/free-software.md)
+>>* [Fosshub](https://www.fosshub.com/): Safe, Fast and Free Software Download Hub
 >>* [最全中文诗歌古典文集数据库](https://github.com/chinese-poetry/chinese-poetry) 
 
 >### Tutorials 
