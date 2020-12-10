@@ -6,6 +6,7 @@
 >>* [Physical Constants and Astronomical Data](http://www.astro.wisc.edu/~dolan/constants.html)
 >>* [COSMOS](https://astronomy.swin.edu.au/cosmos/): Cosmos is a unique astronomy reference written by research astronomers.
 >>* [Encyclopedia of Astronomy and Astrophysics](http://eaa.crcpress.com/default.asp)
+>>* [astroparticle.online: standard model](https://astroparticle.online/standard-model/)  
 >>* [Academictree](https://academictree.org/): 可以查询学者之间的师承关系。
 >>* [Handbook of Space Astronomy and Astrophysics](http://ads.harvard.edu/books/hsaa/toc.html)
 >>* [AAS Job Register](https://jobregister.aas.org): Find and post astronomy related jobs!
@@ -21,6 +22,7 @@
 >>* [LASD](http://lasd.lyman-alpha.com/): Lyman Alpha Spectral Database
 
 >### Online Tools 
+>>* [SDSSDR16 explorer](http://skyserver.sdss.org/dr16/en/tools/explore/summary.aspx)
 >>* [CMD](http://stev.oapd.inaf.it/cgi-bin/cmd): A web interface dealing with stellar isochrones and their derivatives.
 >>* [Astrometry.net](http://astrometry.net/): image匹配天区位置
 >>* [Altitude/Azimuth of Stars](https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/horizontal_rhip_en.cgi)  
@@ -28,6 +30,7 @@
 >>* [积分计算器](https://www.wolframalpha.com/calculators/integral-calculator)
 >>* [Desmos](https://www.desmos.com/calculator?lang=zh-CN): 函数画图
 >>* [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/): 提取图像中的数据点
+>>* [nbviewer](https://nbviewer.jupyter.org/): Github打开notebook经常会卡或者失败，把链接复制到这个网站可以很快打开。
 
 >### Tutorials & Courses
 >>* [Astroplotlib](http://astroplotlib.stsci.edu/): 天文图像范例
@@ -40,8 +43,10 @@
 
 >### Homepages
 >>* [李立新](http://kavli.pku.edu.cn/~lxl/professional/html/links.html):内有丰富的推荐网站
+>>* [Yue Shen](http://quasar.astro.illinois.edu/)
 >>* [邹虎](http://batc.bao.ac.cn/~zouhu/doku.php?id=projects:start): 内有地外行星python处理教程
 >>* [黄崧](http://dr-guangtou.github.io/)
+>>* [吴晋的Github](https://github.com/fmajor)
 
 >### Softwares 
 >>* [SCAMP](https://www.astromatic.net/software/scamp): image匹配天区位置  
@@ -59,6 +64,8 @@
 
 >### Python packages
 >>* [Astropy](https://www.astropy.org/)
+>>* [sfdmap](https://github.com/kbarbary/sfdmap): A minimal, fast, MIT-licensed Python module for getting E(B-V) values from Schlegel, Finkbeiner & Davis (1998) dust map FITS files.
+>>* [Kapteyn](https://www.astro.rug.nl/software/kapteyn/index.html): provide tools for the development of astronomical applications with Python.
 >>* [VoigtFit](https://voigtfit.readthedocs.io/en/latest/): VoigtFit is written to make absorption line fitting a breeze.
 >>* [ParaMonte: Parallel Monte Carlo Library](https://www.cdslab.org/paramonte/notes/overview/preface/)
 >>* [PyHammer](https://github.com/BU-hammerTeam/PyHammer): a tool developed to allow rapid and automatic spectral classification of stars.
@@ -133,7 +140,7 @@
 
 
 ## Acknowledgements
-感谢北京大学：周泰，张路路，庄明阳，吕澈秋，李立新，余捻坤，刘畅，林小婧，李嘉轩，徐伟伟，邱钰，傅煜铭
+感谢北京大学：周泰，张路路，庄明阳，吕澈秋，李立新，余捻坤，刘畅，林小婧，李嘉轩，徐伟伟，邱钰，傅煜铭，吴晋
 
 感谢国家天文台：何勃亮，郑捷，邹虎，任致远，陶一寒，Greg
 
@@ -143,4 +150,4 @@
 
 ## To be continued
 
-# Welcome for recommending some websites through Wiki or PR!
+# Welcome for recommending some websites through Wiki or PR! If you don't want me to cite your homepage or github, please contact me!
