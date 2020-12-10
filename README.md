@@ -123,7 +123,7 @@
 
 ## English
 >>* [英语近义词在线词典](https://www.thesaurus.com/)  
->>* [English-corpora](htt.english-corporaps://www.english-corpora.org/coca/): 可以确保你的英语词组搭配不chinglish
+>>* [English-corpora](https://www.english-corpora.org/coca/): 可以确保你的英语词组搭配不chinglish
 >>* [杜克大学学术写作课程](https://sites.duke.edu/scientificwriting/)
 
 
