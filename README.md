@@ -6,6 +6,7 @@
 * [Astronomy](#astronomy)
 * [Programs](#programs)
 * [English](#english)
+* [Chemistry](#cheistry)
 * [Others](#others)
 * [Acknowledgements](#acknowledgements)
 * [To be continued](#to-be-continued)
@@ -124,8 +125,16 @@
 ## English
 >>* [英语近义词在线词典](https://www.thesaurus.com/)  
 >>* [English-corpora](https://www.english-corpora.org/coca/): 可以确保你的英语词组搭配不chinglish
+>>* [A collection of English corpora](http://corpus.leeds.ac.uk/protected/query.html)
 >>* [杜克大学学术写作课程](https://sites.duke.edu/scientificwriting/)
 
+
+
+
+
+
+## Chemistry
+>>* [AIST](https://sdbs.db.aist.go.jp/sdbs/cgi-bin/direct_frame_top.cgi): Spectral Database for Organic Compounds, SDBS
 
 
 
@@ -152,7 +161,7 @@
 >>* [IPTV资源](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8): 直播源相关资源汇总
 >>* [科技爱好者周刊](https://github.com/ruanyf/weekly)
 >>* [免费电子书](https://github.com/ruanyf/free-books)
->>* [Library Genesis](http://gen.lib.rus.ec/)
+>>* [Library Genesis](http://gen.lib.rus.ec/): 一个很强大的电子书下载网站
 >>* [免费音乐](https://github.com/ruanyf/weekly/blob/master/docs/free-music.md)
 >>* [免费照片](https://github.com/ruanyf/weekly/blob/master/docs/free-photos.md)
 >>* [Wallhaven](https://wallhaven.cc/): Awesome wallpapers
@@ -174,7 +183,8 @@
 
 
 ## Acknowledgements
-感谢周泰，黄崧，李立新，张路路，庄明阳，吕澈秋，余捻坤，刘畅，林小靖，李嘉轩，徐伟伟，邱钰，傅煜铭，吴晋,何勃亮，郑捷，邹虎，任致远，陶一寒，Greg，韩耕愚，张茂森，陈天翔。
+感谢周泰，黄崧，李立新，张路路，庄明阳，吕澈秋，余捻坤，刘畅，林小靖，李嘉轩，徐伟伟，邱钰，傅煜铭，吴晋,何勃亮，郑捷，邹虎，任致远，陶一寒，Greg，
+韩耕愚，张茂森，陈天翔，张李佳琦。
 
 
 感谢以上所有网站的作者！
