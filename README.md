@@ -1,4 +1,4 @@
-# Useful and Intresting Websites for Astronomers
+# Useful and Interesting Websites for Astronomers
 ## Astronomy
 >### Infos & Blogs
 >>* [CSST信息概述](https://github.com/CSSTsci/GalaxyAGN_science_discussion/wiki/CSST-Summary)
