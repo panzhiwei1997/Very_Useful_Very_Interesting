@@ -107,10 +107,11 @@
 >>* [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 >>* [清华大学操作系统课程实验 (OS Kernel Labs)](https://github.com/kiukotsu/ucore) 
 >>* [清华大学计算机系课程](https://github.com/PKUanonym/REKCARC-TSC-UHT) 
+>>* [Leetcode](https://leetcode-cn.com/): 全球极客挚爱的技术成长平台   
 >>* [GitHub中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)   
 >>* [HelloGitHub](https://github.com/521xueweihan/HelloGitHub): GitHub 上有趣、入门级的开源项目 
 >>* [C++算法大全](https://github.com/TheAlgorithms/C-Plus-Plus)  
->>* [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
+
 
 >### Tutorials
 >>* [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer): A guide on how to be a Programmer - originally published by Robert L Read
@@ -142,8 +143,10 @@
 
 ## Others
 >### Tools
+>>* [Aconvert](https://www.aconvert.com/pdf): 在线格式转换工具，比如转pdf
 >>* [Time.is](https://www.thesaurus.com/): 所有时区的精确时间
 >>* [printfriendly](https://www.printfriendly.com/): 漂亮地打印网页  
+>>* [图形方格纸](https://www.mygraphpaper.com/index.php?lang=zh-hans): 在线制作自己的方格笔记本
 >>* [Imagecyborg](https://imagecyborg.com/): download images from any website, webpage via url or link
 >>* [Google Earth](https://www.google.com/earth/): 虚拟地球仪  
 >>* [青柠起始页](https://a.maorx.cn/): 好用的主页
