@@ -147,27 +147,30 @@
 >>* [Imagecyborg](https://imagecyborg.com/): download images from any website, webpage via url or link
 >>* [Google Earth](https://www.google.com/earth/): 虚拟地球仪  
 >>* [青柠起始页](https://a.maorx.cn/): 好用的主页
->>* [Greasy Fork](https://a.maorx.cn/): 一个提供浏览器用户脚本的网站。
+>>* [网易见外](https://jianwai.youdao.com/index/0): 一个工具箱，每天2小时免费视频翻译、文档翻译。
 >>* [BiliBili Evolved](https://github.com/the1812/Bilibili-Evolved/blob/master/features.md)
 >>* [AI对对联](https://ai.binwang.me/couplet/)
 >>* [北大财务部](https://cwfw.pku.edu.cn/): 可以查工资奖学金信息
 
->### Courses & Resources
+>### Courses 
 >>* [贵校课程资料民间整理](https://github.com/lib-pku/libpku) 
 >>* [北大天文课程笔记](https://github.com/slowdivePTG/Notes) 
 >>* [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles) 
 >>* [上海交通大学课程分享](https://github.com/c-hj/SJTU-Courses) 
 >>* [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course) 
+
+>### Resources
+>>* [Library Genesis](http://gen.lib.rus.ec/): 一个很强大的电子书下载网站
+>>* [PPT超级市场](http://ppt.sotary.com/web/wxapp/index.html): 一个很干净的免费ppt下载网站
+>>* [Greasy Fork](https://a.maorx.cn/): 一个提供浏览器用户脚本的网站。
+>>* [Wallhaven](https://wallhaven.cc/): Awesome wallpapers
 >>* [IPTV资源](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8): 直播源相关资源汇总
 >>* [科技爱好者周刊](https://github.com/ruanyf/weekly)
 >>* [免费电子书](https://github.com/ruanyf/free-books)
->>* [Library Genesis](http://gen.lib.rus.ec/): 一个很强大的电子书下载网站
 >>* [免费音乐](https://github.com/ruanyf/weekly/blob/master/docs/free-music.md)
 >>* [免费照片](https://github.com/ruanyf/weekly/blob/master/docs/free-photos.md)
->>* [Wallhaven](https://wallhaven.cc/): Awesome wallpapers
 >>* [免费软件](https://github.com/ruanyf/weekly/blob/master/docs/free-software.md)
 >>* [最全中文诗歌古典文集数据库](https://github.com/chinese-poetry/chinese-poetry) 
-
 
 >### Tutorials 
 >>* [博弈论游戏大全](https://www.cs.cmu.edu/afs/cs/academic/class/15859-f01/www/notes/comb.pdf)
