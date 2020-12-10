@@ -1,12 +1,5 @@
 # Useful and Intresting Websites for Astronomers
 ## Astronomy
->### Database
->>* [ADS](https://ui.adsabs.harvard.edu/): astrophysics data system
->>* [Arxiv](http://cn.arxiv.org/): e-print archive
->>* [ASD原子光谱数据库](https://physics.nist.gov/PhysRefData/ASD/lines_form.html):可用于查谱线
->>* [影响因子数据库](https://academic-accelerator.com/Impact-Factor-IF/zh-CN/The-Astrophysical-Journal-Supplement-Series)
->>* [Strasbourg(CDS数据库)](http://cdsportal.u-strasbg.fr/): SIMBAD, VIZIER...
-
 >### Infos & Blogs
 >>* [CSST信息概述](https://github.com/CSSTsci/GalaxyAGN_science_discussion/wiki/CSST-Summary)
 >>* [饕餮](https://taotie.readthedocs.io/en/latest/index.html): 黄崧的一个非常非常非常强的天文资源整理网站。
@@ -18,28 +11,41 @@
 >>* [AAS Job Register](https://jobregister.aas.org): Find and post astronomy related jobs!
 >>* [AstroBites](https://astrobites.org/): 天文读者文摘
 
+>### Database
+>>* [ADS](https://ui.adsabs.harvard.edu/): astrophysics data system
+>>* [Arxiv](http://cn.arxiv.org/): e-print archive
+>>* [Strasbourg(CDS数据库)](http://cdsportal.u-strasbg.fr/): SIMBAD, VIZIER...
+>>* [ASD原子光谱数据库](https://physics.nist.gov/PhysRefData/ASD/lines_form.html):可用于查谱线
+>>* [影响因子数据库](https://academic-accelerator.com/Impact-Factor-IF/zh-CN/The-Astrophysical-Journal-Supplement-Series)
+>>* [JINAbase](https://jinabase.pythonanywhere.com/index): A database for metal-poor stars
+
+>### Online Tools 
+>>* [CMD](http://stev.oapd.inaf.it/cgi-bin/cmd): A web interface dealing with stellar isochrones and their derivatives.
+>>* [Astrometry.net](http://astrometry.net/): image匹配天区位置
+>>* [Altitude/Azimuth of Stars](https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/horizontal_rhip_en.cgi)  
+>>* [宇宙学计算器](https://ned.ipac.caltech.edu/help/cosmology_calc.html)
+>>* [积分计算器](https://www.wolframalpha.com/calculators/integral-calculator)
+>>* [Desmos](https://www.desmos.com/calculator?lang=zh-CN): 函数画图
+>>* [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/): 提取图像中的数据点
 
 >### Tutorials & Courses
 >>* [Astroplotlib](http://astroplotlib.stsci.edu/): 天文图像范例
 >>* [系外天文学课程资料](http://people.virginia.edu/~dmw8f/astr5630/Topic07/Lecture_7.html): 来自弗吉尼亚大学  
+>>* [杜克大学学术写作课程](https://sites.duke.edu/scientificwriting/)
 >>* [AstroBetter](https://www.astrobetter.com/): 专业天文学家的技巧分享
 
->### Tools 
->>* [CMD](http://stev.oapd.inaf.it/cgi-bin/cmd): A web interface dealing with stellar isochrones and their derivatives.
->>* [SCAMP](https://www.astromatic.net/software/scamp): image匹配天区位置的软件  
->>* [Astrometry.net](http://astrometry.net/): image匹配天区位置的网站  
->>* [宇宙学计算器](https://ned.ipac.caltech.edu/help/cosmology_calc.html)
->>* [在线积分计算器](https://www.wolframalpha.com/calculators/integral-calculator)
->>* [Desmos](https://www.desmos.com/calculator?lang=zh-CN): 在线函数画图
->>* [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/): 在线提取图像中的数据点
->>* [Zotero](https://www.zotero.org/): a free, easy-to-use tool to help you collect, organize, cite, and share research
+>### Instruments & Surveys
+>>* [DESI](https://www.desi.lbl.gov/)
 
 >### Homepages
 >>* [李立新](http://kavli.pku.edu.cn/~lxl/professional/html/links.html):内有丰富的推荐网站
 >>* [邹虎](http://batc.bao.ac.cn/~zouhu/doku.php?id=projects:start): 内有地外行星python处理教程
 >>* [黄崧](http://dr-guangtou.github.io/)
 
-
+>### Softwares 
+>>* [SCAMP](https://www.astromatic.net/software/scamp): image匹配天区位置  
+>>* [Zotero](https://www.zotero.org/): a free, easy-to-use tool to help you collect, organize, cite, and share research
+>>* [ClickHouse](https://clickhouse.tech/): a fast open-source OLAP database management system
 
 
 ## Programs
@@ -77,10 +83,13 @@
 ## Others
 >### Tools
 >>* [英语近义词在线词典](https://www.thesaurus.com/)
->>* [AI对对联](https://ai.binwang.me/couplet/)
+>>* [Time.is](https://www.thesaurus.com/): 所有时区的精确时间
 >>* [printfriendly](https://www.printfriendly.com/): 漂亮地打印网页  
+>>* [Imagecyborg](https://imagecyborg.com/): download images from any website, webpage via url or link
 >>* [Google Earth](https://www.google.com/earth/): 虚拟地球仪  
+>>* [青柠起始页](https://a.maorx.cn/)：好用的主页
 >>* [BiliBili Evolved](https://github.com/the1812/Bilibili-Evolved/blob/master/features.md)
+>>* [AI对对联](https://ai.binwang.me/couplet/)
 
 >### Resources
 >>* [贵校课程资料民间整理](https://github.com/lib-pku/libpku) 
@@ -93,6 +102,7 @@
 >>* [免费电子书](https://github.com/ruanyf/free-books)
 >>* [免费音乐](https://github.com/ruanyf/weekly/blob/master/docs/free-music.md)
 >>* [免费照片](https://github.com/ruanyf/weekly/blob/master/docs/free-photos.md)
+>>* [Wallhaven](https://wallhaven.cc/): Awesome wallpapers
 >>* [免费软件](https://github.com/ruanyf/weekly/blob/master/docs/free-software.md)
 >>* [最全中文诗歌古典文集数据库](https://github.com/chinese-poetry/chinese-poetry) 
 
