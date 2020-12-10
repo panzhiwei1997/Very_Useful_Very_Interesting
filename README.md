@@ -16,6 +16,7 @@
 >>* [ADS](https://ui.adsabs.harvard.edu/): astrophysics data system
 >>* [Arxiv](http://cn.arxiv.org/): e-print archive
 >>* [Strasbourg(CDS数据库)](http://cdsportal.u-strasbg.fr/): SIMBAD, VIZIER...
+>>* [SDSS SAS](https://data.sdss.org/sas/): SDSS Science Archive Server
 >>* [ASD原子光谱数据库](https://physics.nist.gov/PhysRefData/ASD/lines_form.html):可用于查谱线
 >>* [影响因子数据库](https://academic-accelerator.com/Impact-Factor-IF/zh-CN/The-Astrophysical-Journal-Supplement-Series)
 >>* [JINAbase](https://jinabase.pythonanywhere.com/index): A database for metal-poor stars
@@ -23,6 +24,7 @@
 
 >### Online Tools 
 >>* [SDSSDR16 explorer](http://skyserver.sdss.org/dr16/en/tools/explore/summary.aspx)
+>>* [SDSS casjob](http://skyserver.sdss.org/CasJobs/)
 >>* [CMD](http://stev.oapd.inaf.it/cgi-bin/cmd): A web interface dealing with stellar isochrones and their derivatives.
 >>* [Astrometry.net](http://astrometry.net/): image匹配天区位置
 >>* [Altitude/Azimuth of Stars](https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/horizontal_rhip_en.cgi)  
@@ -42,6 +44,7 @@
 >>* [DESI](https://www.desi.lbl.gov/)
 
 >### Homepages
+>>* [江林华](http://kavli.pku.edu.cn/~jiang/index.html)
 >>* [李立新](http://kavli.pku.edu.cn/~lxl/professional/html/links.html):内有丰富的推荐网站
 >>* [Yue Shen](http://quasar.astro.illinois.edu/)
 >>* [邹虎](http://batc.bao.ac.cn/~zouhu/doku.php?id=projects:start): 内有地外行星python处理教程
@@ -63,7 +66,9 @@
 >>* [PyGame教程](https://eyehere.net/2011/python-pygame-novice-professional-1/)
 
 >### Python packages
+>>* [Numpy](https://numpy.org/)
 >>* [Astropy](https://www.astropy.org/)
+>>* [Astroquery](https://astroquery.readthedocs.io/en/latest/index.html): a set of tools for querying astronomical web forms and databases.
 >>* [sfdmap](https://github.com/kbarbary/sfdmap): A minimal, fast, MIT-licensed Python module for getting E(B-V) values from Schlegel, Finkbeiner & Davis (1998) dust map FITS files.
 >>* [Kapteyn](https://www.astro.rug.nl/software/kapteyn/index.html): provide tools for the development of astronomical applications with Python.
 >>* [VoigtFit](https://voigtfit.readthedocs.io/en/latest/): VoigtFit is written to make absorption line fitting a breeze.
@@ -105,10 +110,11 @@
 >>* [printfriendly](https://www.printfriendly.com/): 漂亮地打印网页  
 >>* [Imagecyborg](https://imagecyborg.com/): download images from any website, webpage via url or link
 >>* [Google Earth](https://www.google.com/earth/): 虚拟地球仪  
->>* [青柠起始页](https://a.maorx.cn/)：好用的主页
->>* [Greasy Fork](https://a.maorx.cn/)：一个提供浏览器用户脚本的网站。
+>>* [青柠起始页](https://a.maorx.cn/): 好用的主页
+>>* [Greasy Fork](https://a.maorx.cn/): 一个提供浏览器用户脚本的网站。
 >>* [BiliBili Evolved](https://github.com/the1812/Bilibili-Evolved/blob/master/features.md)
 >>* [AI对对联](https://ai.binwang.me/couplet/)
+>>* [北大财务部](https://cwfw.pku.edu.cn/): 可以查工资奖学金信息
 
 >### Courses & Resources
 >>* [贵校课程资料民间整理](https://github.com/lib-pku/libpku) 
