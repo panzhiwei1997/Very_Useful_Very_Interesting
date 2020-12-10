@@ -1,4 +1,4 @@
-# Useful Websites for Astronomers
+# Useful and Intresting Websites for Astronomers
 ## Astronomy
 >### Database
 >>* [ADS](https://ui.adsabs.harvard.edu/): astrophysics data system
@@ -13,6 +13,7 @@
 >>* [Physical Constants and Astronomical Data](http://www.astro.wisc.edu/~dolan/constants.html)
 >>* [COSMOS](https://astronomy.swin.edu.au/cosmos/): Cosmos is a unique astronomy reference written by research astronomers.
 >>* [Encyclopedia of Astronomy and Astrophysics](http://eaa.crcpress.com/default.asp)
+>>* [Academictree](https://academictree.org/): 可以查询学者之间的师承关系。
 >>* [Handbook of Space Astronomy and Astrophysics](http://ads.harvard.edu/books/hsaa/toc.html)
 >>* [AAS Job Register](https://jobregister.aas.org): Find and post astronomy related jobs!
 >>* [AstroBites](https://astrobites.org/): 天文读者文摘
@@ -34,7 +35,7 @@
 >>* [Zotero](https://www.zotero.org/): a free, easy-to-use tool to help you collect, organize, cite, and share research
 
 >### Homepages
->>* [李立新](http://kavli.pku.edu.cn/~lxl/professional/html/links.html):内涵丰富的推荐网站
+>>* [李立新](http://kavli.pku.edu.cn/~lxl/professional/html/links.html):内有丰富的推荐网站
 >>* [邹虎](http://batc.bao.ac.cn/~zouhu/doku.php?id=projects:start): 内有地外行星python处理教程
 >>* [黄崧](http://dr-guangtou.github.io/)
 
@@ -109,7 +110,7 @@
 
 
 ## Acknowledgements
-感谢北京大学：张路路，周泰，庄明阳，吕澈秋，李立新，余捻坤，刘畅，林小婧，李嘉轩，徐伟伟  
+感谢北京大学：张路路，周泰，庄明阳，吕澈秋，李立新，余捻坤，刘畅，林小婧，李嘉轩，徐伟伟，邱钰  
 
 感谢国家天文台：何勃亮，郑捷，邹虎，任致远，陶一寒，Greg
 
