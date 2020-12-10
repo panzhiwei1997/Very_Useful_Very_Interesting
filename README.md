@@ -152,6 +152,7 @@
 >>* [IPTV资源](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8): 直播源相关资源汇总
 >>* [科技爱好者周刊](https://github.com/ruanyf/weekly)
 >>* [免费电子书](https://github.com/ruanyf/free-books)
+>>* [Library Genesis](http://gen.lib.rus.ec/)
 >>* [免费音乐](https://github.com/ruanyf/weekly/blob/master/docs/free-music.md)
 >>* [免费照片](https://github.com/ruanyf/weekly/blob/master/docs/free-photos.md)
 >>* [Wallhaven](https://wallhaven.cc/): Awesome wallpapers
