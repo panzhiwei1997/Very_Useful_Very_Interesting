@@ -9,18 +9,16 @@
 
 >### Infos & Blogs
 >>* [CSST信息概述](https://github.com/CSSTsci/GalaxyAGN_science_discussion/wiki/CSST-Summary)
+>>* [饕餮](https://taotie.readthedocs.io/en/latest/index.html): 黄崧的一个非常非常非常强的天文资源整理网站。
 >>* [Physical Constants and Astronomical Data](http://www.astro.wisc.edu/~dolan/constants.html)
 >>* [COSMOS](https://astronomy.swin.edu.au/cosmos/): Cosmos is a unique astronomy reference written by research astronomers.
 >>* [Encyclopedia of Astronomy and Astrophysics](http://eaa.crcpress.com/default.asp)
 >>* [Handbook of Space Astronomy and Astrophysics](http://ads.harvard.edu/books/hsaa/toc.html)
 >>* [AAS Job Register](https://jobregister.aas.org): Find and post astronomy related jobs!
 >>* [AstroBites](https://astrobites.org/): 天文读者文摘
->>* [李立新老师个人主页](http://kavli.pku.edu.cn/~lxl/professional/html/links.html)
-
 
 
 >### Tutorials & Courses
->>* [国家天文台邹虎主页](http://batc.bao.ac.cn/~zouhu/doku.php?id=projects:start): 内有地外行星python处理教程
 >>* [Astroplotlib](http://astroplotlib.stsci.edu/): 天文图像范例
 >>* [系外天文学课程资料](http://people.virginia.edu/~dmw8f/astr5630/Topic07/Lecture_7.html): 来自弗吉尼亚大学  
 >>* [AstroBetter](https://www.astrobetter.com/): 专业天文学家的技巧分享
@@ -35,6 +33,11 @@
 >>* [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/): 在线提取图像中的数据点
 >>* [Zotero](https://www.zotero.org/): a free, easy-to-use tool to help you collect, organize, cite, and share research
 
+>### Homepages
+>>* [李立新](http://kavli.pku.edu.cn/~lxl/professional/html/links.html):内涵丰富的推荐网站
+>>* [邹虎](http://batc.bao.ac.cn/~zouhu/doku.php?id=projects:start): 内有地外行星python处理教程
+>>* [黄崧](http://dr-guangtou.github.io/)
+
 
 
 
@@ -47,6 +50,12 @@
 >>* [天文数据基础与Python天文技术培训](https://hebl.china-vo.org/course/PIA2020/)
 >>* [PyGame教程](https://eyehere.net/2011/python-pygame-novice-professional-1/)
 
+>### Latex
+>>* [Latex: Binary Relation Operators](http://www.access2science.com/latex/Binary.html)
+>>* [Symbols in LaTeX](https://latex.wikia.org/wiki/List_of_LaTeX_symbols)
+>>* [Symbols in LaTeX and HTML](http://www.stevesque.com/symbols/)
+>>* [Special_Characters in LaTeX](https://en.wikibooks.org/wiki/LaTeX/Special_Characters)
+
 >### Others
 >>* [清华大学操作系统课程实验 (OS Kernel Labs)](https://github.com/kiukotsu/ucore) 
 >>* [清华大学计算机系课程](https://github.com/PKUanonym/REKCARC-TSC-UHT) 
@@ -57,10 +66,7 @@
 >>* [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
 >>* [Vim 从入门到精通](https://github.com/wsdjeg/vim-galore-zh_cn)
 >>* [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
->>* [Latex: Binary Relation Operators](http://www.access2science.com/latex/Binary.html)
->>* [Symbols in LaTeX](https://latex.wikia.org/wiki/List_of_LaTeX_symbols)
->>* [Symbols in LaTeX and HTML](http://www.stevesque.com/symbols/)
->>* [Special_Characters in LaTeX](https://en.wikibooks.org/wiki/LaTeX/Special_Characters)
+
 
 
 
@@ -103,9 +109,11 @@
 
 
 ## Acknowledgements
-感谢北京大学：张路路，周泰，庄明阳，吕澈秋，李立新，余捻坤，刘畅，林小婧，徐伟伟  
+感谢北京大学：张路路，周泰，庄明阳，吕澈秋，李立新，余捻坤，刘畅，林小婧，李嘉轩，徐伟伟  
 
 感谢国家天文台：何勃亮，郑捷，邹虎，任致远，陶一寒，Greg
+
+感谢黄崧
 
 感谢以上网站所有作者！
 
