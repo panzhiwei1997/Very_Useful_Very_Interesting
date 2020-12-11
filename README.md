@@ -7,7 +7,7 @@
 * [Programs](#programs)
 * [English](#english)
 * [Chemistry](#chemistry)
-* [Others](#others)  即使你对学术工具没有兴趣，你在此处一定能找到相见恨晚的网站或者软件。
+* [Others](#others): 即使你对学术工具没有兴趣，你在此处一定能找到相见恨晚的网站或者软件。
 * [Acknowledgements](#acknowledgements)
 * [To be continued](#to-be-continued)
 
