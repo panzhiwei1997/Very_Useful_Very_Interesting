@@ -4,7 +4,7 @@
 
 ## Contents <!-- omit in toc -->
 * [Astronomy](#astronomy)
->* [Infos & Blogs](#infos&blogs)
+>* [Infos/Blogs](#infos/blogs)
 >* [Database](#database)
 * [Programs](#programs)
 * [English](#english)
@@ -18,7 +18,7 @@
 
 
 ## Astronomy
->### Infos & Blogs
+>### Infos/Blogs
 >>* [CSST信息概述](https://github.com/CSSTsci/GalaxyAGN_science_discussion/wiki/CSST-Summary)
 >>* [饕餮](https://taotie.readthedocs.io/en/latest/index.html): 黄崧的一个非常非常非常强的天文资源整理网站。
 >>* [Physical Constants and Astronomical Data](http://www.astro.wisc.edu/~dolan/constants.html)
