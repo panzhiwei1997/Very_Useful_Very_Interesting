@@ -1,7 +1,6 @@
 # 揽尽天下妙网
-今日世界，已臻新元。网络互通，人机互联。数据杂多，信息驳繁。纵千般甄别，小有所获，终其萤火，微薄甚焉。故余生宏愿，与诸君共勉：集万人之力揽尽妙网，以效始皇，收天下之兵，聚之咸阳！
+今日世界，已臻新元。网络互通，人机互联。数据杂多，信息驳繁。纵千般甄别，小有所获，终其萤火，微薄甚焉。故余生宏愿，与诸君共勉：集万人之力揽尽妙网，以效始皇，收天下之兵，聚之咸阳！    
 [Change to English version](https://github.com/panzhiwei1997/Useful_Website/blob/main/VUVI_English.md)
-&nbsp;  
 &nbsp;  
 &nbsp;  
 &nbsp;  
@@ -34,7 +33,7 @@
 &nbsp;  
 &nbsp;  
 &nbsp;  
-&nbsp;  
+
 
 ## 天文
 * ### 获取信息
@@ -226,7 +225,7 @@
 &nbsp;  
 &nbsp;  
 &nbsp;  
-&nbsp;  
+
  
 
 # 欢迎大家利用Wiki，PR，微信推荐网站！
