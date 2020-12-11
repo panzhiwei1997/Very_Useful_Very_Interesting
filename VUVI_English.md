@@ -34,7 +34,7 @@ Today, we live in a world full of information, data, tools, and so on. However, 
 &nbsp;  
 &nbsp;  
 &nbsp;  
-&nbsp;  
+ 
 
 
 ## Astronomy
@@ -227,7 +227,7 @@ Today, we live in a world full of information, data, tools, and so on. However, 
 &nbsp;  
 &nbsp;  
 &nbsp;  
-&nbsp;  
+
 
 
 
