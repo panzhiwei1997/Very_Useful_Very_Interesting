@@ -1,50 +1,33 @@
 # V.U.V.I
-Today, we live in a world full of information, data, tools, and so on. However, it's very hard to pick up those useful or interesting things by one person himself. This website is aimed to collect those very useful or very interesting websites for more efficient and convinient life.  
+Today, we live in a world full of information, data, tools, and so on. However, it's very hard to pick up those useful or interesting things by one person himself. This website is aimed to collect those very useful or very interesting websites for more efficient and convinient life.
 [Change to Chinese version](https://github.com/panzhiwei1997/Useful_Website/blob/main/VUVI_Chinese.md)
-&nbsp;  
-&nbsp;  
-&nbsp;  
+&nbsp;
+&nbsp;
+&nbsp;
 
 
 ## Contents <!-- omit in toc -->
 * [Astronomy](#astronomy)
-  * [Infos & Blogs](#infos--blogs)
-  * [Database](#database)
-  * [Online Tools](#online-tools)
-  * [Tutorials & Courses](#tutorials--courses)
-  * [Instruments & Surveys](#instruments--surveys)
-  * [Homepages](#homepages)
-  * [Softwares](#softwares)
 * [Programs](#programs)
-  * [Python docs](#python-docs)
-  * [Python packages](#python-packages)
-  * [Latex](#latex)
-  * [Courses & Resources](#courses--resources)
-  * [Tutorials](#tutorials)
 * [English](#english)
 * [Chemistry](#chemistry)
-* [Others](#others): Even if you are not interested in research tools, you can also find something you like here.
-  * [Tools](#tools)
-  * [Courses](#courses)
-  * [Resources](#resources)
-  * [Tutorials](#tutorials)
-  * [Entertainments](#entertainments)
+* [Others](#others)
 * [Acknowledgements](#acknowledgements)
 * [To be continued](#to-be-continued)
-&nbsp;  
-&nbsp;  
-&nbsp;  
- 
+&nbsp;
+&nbsp;
+&nbsp;
+
 
 
 ## Astronomy
 * ### Infos & Blogs
   * [CSST summary](https://github.com/CSSTsci/GalaxyAGN_science_discussion/wiki/CSST-Summary)
-  * [饕餮](https://taotie.readthedocs.io/en/latest/index.html): A very very powerful website with many useful information and websites 
+  * [饕餮](https://taotie.readthedocs.io/en/latest/index.html): A very very powerful website with many useful information and websites
   * [Physical Constants and Astronomical Data](http://www.astro.wisc.edu/~dolan/constants.html)
   * [COSMOS](https://astronomy.swin.edu.au/cosmos/): Cosmos is a unique astronomy reference written by research astronomers.
   * [Encyclopedia of Astronomy and Astrophysics](http://eaa.crcpress.com/default.asp)
-  * [astroparticle.online: standard model](https://astroparticle.online/standard-model/)  
+  * [astroparticle.online: standard model](https://astroparticle.online/standard-model/)
   * [Academictree](https://academictree.org/): query the relationship betwwen scientists
   * [Handbook of Space Astronomy and Astrophysics](http://ads.harvard.edu/books/hsaa/toc.html)
   * [AAS Job Register](https://jobregister.aas.org): Find and post astronomy related jobs!
@@ -60,26 +43,29 @@ Today, we live in a world full of information, data, tools, and so on. However, 
   * [JINAbase](https://jinabase.pythonanywhere.com/index): A database for metal-poor stars
   * [LASD](http://lasd.lyman-alpha.com/): Lyman Alpha Spectral Database
 
-* ### Online Tools 
+* ### Online Tools
   * [SDSSDR16 explorer](http://skyserver.sdss.org/dr16/en/tools/explore/summary.aspx)
   * [SDSS casjob](http://skyserver.sdss.org/CasJobs/)
   * [CMD](http://stev.oapd.inaf.it/cgi-bin/cmd): A web interface dealing with stellar isochrones and their derivatives.
   * [Astrometry.net](http://astrometry.net/): image to match astrometry
-  * [Altitude/Azimuth of Stars](https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/horizontal_rhip_en.cgi)  
+  * [Altitude/Azimuth of Stars](https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/horizontal_rhip_en.cgi)
   * [宇宙学计算器](https://ned.ipac.caltech.edu/help/cosmology_calc.html)
   * [积分计算器](https://www.wolframalpha.com/calculators/integral-calculator)
   * [Desmos](https://www.desmos.com/calculator?lang=zh-CN): plot functions online
   * [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/): digitilize data points from iamge online
   * [nbviewer](https://nbviewer.jupyter.org/): quickly open notebook, in case for bugs in github
- 
+
 * ### Tutorials & Courses
   * [Astroplotlib](http://astroplotlib.stsci.edu/): examples of astroplot
   * [Exogalactic Astronomy](http://people.virginia.edu/~dmw8f/astr5630/Topic07/Lecture_7.html): From Virginia University
   * [AstroBetter](https://www.astrobetter.com/): Tips for becoming better
-  * [Press release guidelines for scientists](https://www.spacetelescope.org/about_us/scientist_guidelines/#1)  
+  * [Press release guidelines for scientists](https://www.spacetelescope.org/about_us/scientist_guidelines/#1)
 
 * ### Instruments & Surveys
   * [DESI](https://www.desi.lbl.gov/)
+  * [LIGO](https://ligo.org)
+  * [SKA](https://www.skatelescope.org)
+  * [TMT](https://www.tmt.org)
 
 * ### Homepages
   * [Linhua Jiang](http://kavli.pku.edu.cn/~jiang/index.html)
@@ -91,8 +77,8 @@ Today, we live in a world full of information, data, tools, and so on. However, 
   * [Jin Wu's Github](https://github.com/fmajor)
   * [KIAAGravity](https://kiaagravity.github.io/)
 
-* ### Softwares 
-  * [SCAMP](https://www.astromatic.net/software/scamp): image to match astrometry  
+* ### Softwares
+  * [SCAMP](https://www.astromatic.net/software/scamp): image to match astrometry
   * [Zotero](https://www.zotero.org/): a free, easy-to-use tool to help you collect, organize, cite, and share research
   * [ClickHouse](https://clickhouse.tech/): a fast open-source OLAP database management system
 
@@ -117,7 +103,7 @@ Today, we live in a world full of information, data, tools, and so on. However, 
   * [VoigtFit](https://voigtfit.readthedocs.io/en/latest/): VoigtFit is written to make absorption line fitting a breeze.
   * [ParaMonte: Parallel Monte Carlo Library](https://www.cdslab.org/paramonte/notes/overview/preface/)
   * [PyHammer](https://github.com/BU-hammerTeam/PyHammer): a tool developed to allow rapid and automatic spectral classification of stars.
-  * [DESK: Dusty-Evolved-Star-Kit](https://github.com/s-goldman/Dusty-Evolved-Star-Kit): an SED-fitting python package for fitting data from evolved stars (photometry or spectra) 
+  * [DESK: Dusty-Evolved-Star-Kit](https://github.com/s-goldman/Dusty-Evolved-Star-Kit): an SED-fitting python package for fitting data from evolved stars (photometry or spectra)
 
 * ### Latex
   * [overleaf](https://www.overleaf.com/): The easy to use, online, collaborative LaTeX editor
@@ -128,26 +114,26 @@ Today, we live in a world full of information, data, tools, and so on. However, 
 
 * ### Courses & Resources
   * [free programming ebooks index](https://github.com/justjavac/free-programming-books-zh_CN)
-  * [OS Kernel Labs from THU](https://github.com/kiukotsu/ucore) 
-  * [THU programming courses](https://github.com/PKUanonym/REKCARC-TSC-UHT) 
-  * [Leetcode](https://leetcode-cn.com/): a website full of programming problems  
-  * [GitHub Chinese rankings](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)   
-  * [HelloGitHub](https://github.com/521xueweihan/HelloGitHub): simple GitHub projects 
-  * [C++ Alogrithms](https://github.com/TheAlgorithms/C-Plus-Plus)  
+  * [OS Kernel Labs from THU](https://github.com/kiukotsu/ucore)
+  * [THU programming courses](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+  * [Leetcode](https://leetcode-cn.com/): a website full of programming problems
+  * [GitHub Chinese rankings](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
+  * [HelloGitHub](https://github.com/521xueweihan/HelloGitHub): simple GitHub projects
+  * [C++ Alogrithms](https://github.com/TheAlgorithms/C-Plus-Plus)
 
 * ### Tutorials
   * [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer): A guide on how to be a Programmer - originally published by Robert L Read
   * [The guide of CHinese technical document](https://github.com/ruanyf/document-style-guide)
-  * [Vim tutorial](https://github.com/wsdjeg/vim-galore-zh_cn)  
-  * [The Markov-chain Monte Carlo Interactive Gallery](http://chi-feng.github.io/mcmc-demo/)  
+  * [Vim tutorial](https://github.com/wsdjeg/vim-galore-zh_cn)
+  * [The Markov-chain Monte Carlo Interactive Gallery](http://chi-feng.github.io/mcmc-demo/)
 
 
 
 
 
 ## English
-  * [Thesaurus](https://www.thesaurus.com/)  
-  * [English-corpora](https://www.english-corpora.org/coca/): 
+  * [Thesaurus](https://www.thesaurus.com/)
+  * [English-corpora](https://www.english-corpora.org/coca/):
   * [A collection of English corpora](http://corpus.leeds.ac.uk/protected/query.html)
   * [Writing courses from Duke](https://sites.duke.edu/scientificwriting/)
 
@@ -168,23 +154,23 @@ Today, we live in a world full of information, data, tools, and so on. However, 
   * [秘塔写作猫](https://xiezuocat.com/#/editor?docId=6131737&new=true): 一个不可多得的AI智能写作工具，支持实时错误提示，全文改写，翻译，甚至古文改写
   * [Aconvert](https://www.aconvert.com/pdf): 在线格式转换工具，比如转pdf
   * [Time.is](https://www.thesaurus.com/): 所有时区的精确时间
-  * [printfriendly](https://www.printfriendly.com/): 漂亮地打印网页 
+  * [printfriendly](https://www.printfriendly.com/): 漂亮地打印网页
   * [拷贝兔](https://cp.anyknew.com/): 一个完全免费的轻量级跨平台文件传输工具，非常实用并且好用。
   * [图形方格纸](https://www.mygraphpaper.com/index.php?lang=zh-hans): 在线制作自己的方格笔记本
   * [Imagecyborg](https://imagecyborg.com/): download images from any website, webpage via url or link
-  * [Google Earth](https://www.google.com/earth/): 虚拟地球仪  
+  * [Google Earth](https://www.google.com/earth/): 虚拟地球仪
   * [青柠起始页](https://a.maorx.cn/): 好用的主页
   * [网易见外](https://jianwai.youdao.com/index/0): 一个工具箱，每天2小时免费视频翻译、文档翻译。
   * [BiliBili Evolved](https://github.com/the1812/Bilibili-Evolved/blob/master/features.md)
   * [AI对对联](https://ai.binwang.me/couplet/)
   * [北大财务部](https://cwfw.pku.edu.cn/): 可以查工资奖学金信息
 
-* ### Courses 
-  * [贵校课程资料民间整理](https://github.com/lib-pku/libpku) 
-  * [北大天文课程笔记](https://github.com/slowdivePTG/Notes) 
-  * [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles) 
-  * [上海交通大学课程分享](https://github.com/c-hj/SJTU-Courses) 
-  * [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course) 
+* ### Courses
+  * [贵校课程资料民间整理](https://github.com/lib-pku/libpku)
+  * [北大天文课程笔记](https://github.com/slowdivePTG/Notes)
+  * [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
+  * [上海交通大学课程分享](https://github.com/c-hj/SJTU-Courses)
+  * [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
 
 * ### Resources
   * [Library Genesis](http://gen.lib.rus.ec/): 一个很强大的电子书下载网站
@@ -199,9 +185,9 @@ Today, we live in a world full of information, data, tools, and so on. However, 
   * [Wallhaven](https://wallhaven.cc/): Awesome wallpapers
   * [免费软件](https://github.com/ruanyf/weekly/blob/master/docs/free-software.md)
   * [Fosshub](https://www.fosshub.com/): Safe, Fast and Free Software Download Hub
-  * [最全中文诗歌古典文集数据库](https://github.com/chinese-poetry/chinese-poetry) 
+  * [最全中文诗歌古典文集数据库](https://github.com/chinese-poetry/chinese-poetry)
 
-* ### Tutorials 
+* ### Tutorials
   * [博弈论游戏大全](https://www.cs.cmu.edu/afs/cs/academic/class/15859-f01/www/notes/comb.pdf)
   * [买房购房知识](https://github.com/houshanren/hangzhou_house_knowledge)
   * [围棋教程](https://tieba.baidu.com/p/3413670740?red_tag=0900211857)
@@ -224,9 +210,9 @@ Today, we live in a world full of information, data, tools, and so on. However, 
 
 
 ## To be continued
-&nbsp;  
-&nbsp;  
-&nbsp;  
+&nbsp;
+&nbsp;
+&nbsp;
 
 
 

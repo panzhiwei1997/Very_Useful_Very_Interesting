@@ -1,9 +1,9 @@
 # 揽尽天下妙网
-今日世界，已臻新元。网络互通，人机互联。数据杂多，信息驳繁。纵千般甄别，小有所获，终其萤火，微薄甚焉。故余生宏愿，与诸君共勉：集万人之力揽尽妙网，以效始皇，收天下之兵，聚之咸阳！    
+今日世界，已臻新元。网络互通，人机互联。数据杂多，信息驳繁。纵千般甄别，小有所获，终其萤火，微薄甚焉。故余生宏愿，与诸君共勉：集万人之力揽尽妙网，以效始皇，收天下之兵，聚之咸阳！
 [切换到英文版](https://github.com/panzhiwei1997/Useful_Website/blob/main/VUVI_English.md)
-&nbsp;  
-&nbsp;  
-&nbsp;  
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## 目录 <!-- omit in toc -->
 * [天文](#天文)
@@ -30,9 +30,9 @@
   * [娱乐](#娱乐)
 * [致谢](#致谢)
 * [未完待续](#未完待续)
-&nbsp;  
-&nbsp;  
-&nbsp;  
+&nbsp;
+&nbsp;
+&nbsp;
 
 
 ## 天文
@@ -42,7 +42,7 @@
   * [物理、天文学常数](http://www.astro.wisc.edu/~dolan/constants.html)
   * [COSMOS](https://astronomy.swin.edu.au/cosmos/): 一个类似天文学词典的网站
   * [天体物理词典](http://eaa.crcpress.com/default.asp)
-  * [astroparticle.online](https://astroparticle.online/standard-model/)：标准粒子模型  
+  * [astroparticle.online](https://astroparticle.online/standard-model/)：标准粒子模型
   * [Academictree](https://academictree.org/): 可以查询学者之间的师承关系。
   * [空间天文手册](http://ads.harvard.edu/books/hsaa/toc.html)
   * [AAS Job Register](https://jobregister.aas.org): 找天文学工作
@@ -58,12 +58,12 @@
   * [JINAbase](https://jinabase.pythonanywhere.com/index): 贫金属恒星数据库
   * [LASD](http://lasd.lyman-alpha.com/): Lyman Alpha 星系数据库
 
-* ### 在线工具 
+* ### 在线工具
   * [SDSSDR16 explorer](http://skyserver.sdss.org/dr16/en/tools/explore/summary.aspx)
   * [SDSS casjob](http://skyserver.sdss.org/CasJobs/)
   * [CMD](http://stev.oapd.inaf.it/cgi-bin/cmd): 恒星演化轨迹
   * [Astrometry.net](http://astrometry.net/): 图像匹配天区位置
-  * [Altitude/Azimuth of Stars](https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/horizontal_rhip_en.cgi)  
+  * [Altitude/Azimuth of Stars](https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/horizontal_rhip_en.cgi)
   * [宇宙学计算器](https://ned.ipac.caltech.edu/help/cosmology_calc.html)
   * [积分计算器](https://www.wolframalpha.com/calculators/integral-calculator)
   * [Desmos](https://www.desmos.com/calculator?lang=zh-CN): 函数画图
@@ -72,12 +72,15 @@
 
 * ### 教程与课程
   * [Astroplotlib](http://astroplotlib.stsci.edu/): 天文图像范例
-  * [系外天文学课程资料](http://people.virginia.edu/~dmw8f/astr5630/Topic07/Lecture_7.html): 来自弗吉尼亚大学  
+  * [系外天文学课程资料](http://people.virginia.edu/~dmw8f/astr5630/Topic07/Lecture_7.html): 来自弗吉尼亚大学
   * [AstroBetter](https://www.astrobetter.com/): 专业天文学家的技巧分享
-  * [Press release的指导](https://www.spacetelescope.org/about_us/scientist_guidelines/#1)  
+  * [Press release的指导](https://www.spacetelescope.org/about_us/scientist_guidelines/#1)
 
 * ### 望远镜与巡天
   * [DESI](https://www.desi.lbl.gov/)
+  * [LIGO](https://ligo.org)
+  * [SKA](https://www.skatelescope.org)
+  * [TMT](https://www.tmt.org)
 
 * ### 天文学者主页
   * [江林华](http://kavli.pku.edu.cn/~jiang/index.html)
@@ -89,8 +92,8 @@
   * [吴晋的Github](https://github.com/fmajor)
   * [KIAAGravity](https://kiaagravity.github.io/)
 
-* ### 软件 
-  * [SCAMP](https://www.astromatic.net/software/scamp): image匹配天区位置  
+* ### 软件
+  * [SCAMP](https://www.astromatic.net/software/scamp): image匹配天区位置
   * [Zotero](https://www.zotero.org/): 一个文献管理软件，标签系统很好用
   * [ClickHouse](https://clickhouse.tech/): 一个数据库软件
 
@@ -126,25 +129,25 @@
 
 * ### 课程与资源
   * [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
-  * [清华大学操作系统课程实验 (OS Kernel Labs)](https://github.com/kiukotsu/ucore) 
-  * [清华大学计算机系课程](https://github.com/PKUanonym/REKCARC-TSC-UHT) 
-  * [Leetcode](https://leetcode-cn.com/): 全球极客挚爱的技术成长平台   
-  * [GitHub中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)   
-  * [HelloGitHub](https://github.com/521xueweihan/HelloGitHub): GitHub 上有趣、入门级的开源项目 
-  * [C++算法大全](https://github.com/TheAlgorithms/C-Plus-Plus)  
+  * [清华大学操作系统课程实验 (OS Kernel Labs)](https://github.com/kiukotsu/ucore)
+  * [清华大学计算机系课程](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+  * [Leetcode](https://leetcode-cn.com/): 全球极客挚爱的技术成长平台
+  * [GitHub中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
+  * [HelloGitHub](https://github.com/521xueweihan/HelloGitHub): GitHub 上有趣、入门级的开源项目
+  * [C++算法大全](https://github.com/TheAlgorithms/C-Plus-Plus)
 
 * ### 教程
   * [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer): 程序员指导
   * [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
-  * [Vim 从入门到精通](https://github.com/wsdjeg/vim-galore-zh_cn)  
-  * [The Markov-chain Monte Carlo Interactive Gallery](http://chi-feng.github.io/mcmc-demo/)：MCMC演示  
+  * [Vim 从入门到精通](https://github.com/wsdjeg/vim-galore-zh_cn)
+  * [The Markov-chain Monte Carlo Interactive Gallery](http://chi-feng.github.io/mcmc-demo/)：MCMC演示
 
 
 
 
 
 ## 英语
-  * [英语近义词在线词典](https://www.thesaurus.com/)  
+  * [英语近义词在线词典](https://www.thesaurus.com/)
   * [English-corpora](https://www.english-corpora.org/coca/): 可以确保你的英语词组搭配不chinglish
   * [A collection of English corpora](http://corpus.leeds.ac.uk/protected/query.html)
   * [杜克大学学术写作课程](https://sites.duke.edu/scientificwriting/)
@@ -166,11 +169,11 @@
   * [秘塔写作猫](https://xiezuocat.com/#/editor?docId=6131737&new=true): 一个不可多得的AI智能写作工具，支持实时错误提示，全文改写，翻译，甚至古文改写
   * [Aconvert](https://www.aconvert.com/pdf): 在线格式转换工具，比如转pdf
   * [Time.is](https://www.thesaurus.com/): 所有时区的精确时间
-  * [printfriendly](https://www.printfriendly.com/): 漂亮地打印网页 
+  * [printfriendly](https://www.printfriendly.com/): 漂亮地打印网页
   * [拷贝兔](https://cp.anyknew.com/): 一个完全免费的轻量级跨平台文件传输工具，非常实用并且好用。
   * [图形方格纸](https://www.mygraphpaper.com/index.php?lang=zh-hans): 在线制作自己的方格笔记本
   * [Imagecyborg](https://imagecyborg.com/): 从url下载图片
-  * [Google Earth](https://www.google.com/earth/): 虚拟地球仪  
+  * [Google Earth](https://www.google.com/earth/): 虚拟地球仪
   * [青柠起始页](https://a.maorx.cn/): 好用的主页
   * [网易见外](https://jianwai.youdao.com/index/0): 一个工具箱，每天2小时免费视频翻译、文档翻译。
   * [BiliBili Evolved](https://github.com/the1812/Bilibili-Evolved/blob/master/features.md)
@@ -178,11 +181,11 @@
   * [北大财务部](https://cwfw.pku.edu.cn/): 可以查工资奖学金信息
 
 * ### 课程
-  * [贵校课程资料民间整理](https://github.com/lib-pku/libpku) 
-  * [北大天文课程笔记](https://github.com/slowdivePTG/Notes) 
-  * [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles) 
-  * [上海交通大学课程分享](https://github.com/c-hj/SJTU-Courses) 
-  * [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course) 
+  * [贵校课程资料民间整理](https://github.com/lib-pku/libpku)
+  * [北大天文课程笔记](https://github.com/slowdivePTG/Notes)
+  * [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
+  * [上海交通大学课程分享](https://github.com/c-hj/SJTU-Courses)
+  * [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
 
 * ### 资源
   * [Library Genesis](http://gen.lib.rus.ec/): 一个很强大的电子书下载网站
@@ -198,7 +201,7 @@
   * [Wallhaven](https://wallhaven.cc/): 免费壁纸
   * [免费软件](https://github.com/ruanyf/weekly/blob/master/docs/free-software.md)
   * [Fosshub](https://www.fosshub.com/): 免费软件
-  * [最全中文诗歌古典文集数据库](https://github.com/chinese-poetry/chinese-poetry) 
+  * [最全中文诗歌古典文集数据库](https://github.com/chinese-poetry/chinese-poetry)
 
 * ### 教程
   * [博弈论游戏大全](https://www.cs.cmu.edu/afs/cs/academic/class/15859-f01/www/notes/comb.pdf)
@@ -223,10 +226,10 @@
 
 
 ## 未完待续
-&nbsp;  
-&nbsp;  
-&nbsp;  
+&nbsp;
+&nbsp;
+&nbsp;
 
- 
+
 
 # 欢迎大家利用Wiki，PR，微信推荐网站！
