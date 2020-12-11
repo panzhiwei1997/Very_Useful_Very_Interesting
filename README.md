@@ -4,7 +4,7 @@
 
 ## Contents <!-- omit in toc -->
 * [Astronomy](#astronomy)
->*  [Infos & Blogs](##Infos & Blogs)
+>*  [Infos & Blogs](#Infos & Blogs)
 * [Programs](#programs)
 * [English](#english)
 * [Chemistry](#chemistry)
