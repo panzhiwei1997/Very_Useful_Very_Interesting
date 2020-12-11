@@ -39,30 +39,30 @@
 * ### 获取信息
   * [CSST信息概述](https://github.com/CSSTsci/GalaxyAGN_science_discussion/wiki/CSST-Summary)
   * [饕餮](https://taotie.readthedocs.io/en/latest/index.html): 黄崧的一个非常非常非常强的天文资源整理网站。
-  * [Physical Constants and Astronomical Data](http://www.astro.wisc.edu/~dolan/constants.html)
-  * [COSMOS](https://astronomy.swin.edu.au/cosmos/): Cosmos is a unique astronomy reference written by research astronomers.
-  * [Encyclopedia of Astronomy and Astrophysics](http://eaa.crcpress.com/default.asp)
-  * [astroparticle.online: standard model](https://astroparticle.online/standard-model/)  
+  * [物理、天文学常数](http://www.astro.wisc.edu/~dolan/constants.html)
+  * [COSMOS](https://astronomy.swin.edu.au/cosmos/): 一个类似天文学词典的网站
+  * [天体物理词典](http://eaa.crcpress.com/default.asp)
+  * [astroparticle.online](https://astroparticle.online/standard-model/)：标准粒子模型  
   * [Academictree](https://academictree.org/): 可以查询学者之间的师承关系。
-  * [Handbook of Space Astronomy and Astrophysics](http://ads.harvard.edu/books/hsaa/toc.html)
-  * [AAS Job Register](https://jobregister.aas.org): Find and post astronomy related jobs!
+  * [空间天文手册](http://ads.harvard.edu/books/hsaa/toc.html)
+  * [AAS Job Register](https://jobregister.aas.org): 找天文学工作
   * [AstroBites](https://astrobites.org/): 天文读者文摘
 
 * ### 数据库
-  * [ADS](https://ui.adsabs.harvard.edu/): astrophysics data system
-  * [Arxiv](http://cn.arxiv.org/): e-print archive
+  * [ADS](https://ui.adsabs.harvard.edu/): 天文文献网站
+  * [Arxiv](http://cn.arxiv.org/): 文献预印本网站
   * [Strasbourg(CDS数据库)](http://cdsportal.u-strasbg.fr/): SIMBAD, VIZIER...
-  * [SDSS SAS](https://data.sdss.org/sas/): SDSS Science Archive Server
+  * [SDSS SAS](https://data.sdss.org/sas/): SDSS 数据存储网站
   * [ASD原子光谱数据库](https://physics.nist.gov/PhysRefData/ASD/lines_form.html):可用于查谱线
   * [影响因子数据库](https://academic-accelerator.com/Impact-Factor-IF/zh-CN/The-Astrophysical-Journal-Supplement-Series)
-  * [JINAbase](https://jinabase.pythonanywhere.com/index): A database for metal-poor stars
-  * [LASD](http://lasd.lyman-alpha.com/): Lyman Alpha Spectral Database
+  * [JINAbase](https://jinabase.pythonanywhere.com/index): 贫金属恒星数据库
+  * [LASD](http://lasd.lyman-alpha.com/): Lyman Alpha 星系数据库
 
 * ### 在线工具 
   * [SDSSDR16 explorer](http://skyserver.sdss.org/dr16/en/tools/explore/summary.aspx)
   * [SDSS casjob](http://skyserver.sdss.org/CasJobs/)
-  * [CMD](http://stev.oapd.inaf.it/cgi-bin/cmd): A web interface dealing with stellar isochrones and their derivatives.
-  * [Astrometry.net](http://astrometry.net/): image匹配天区位置
+  * [CMD](http://stev.oapd.inaf.it/cgi-bin/cmd): 恒星演化轨迹
+  * [Astrometry.net](http://astrometry.net/): 图像匹配天区位置
   * [Altitude/Azimuth of Stars](https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/horizontal_rhip_en.cgi)  
   * [宇宙学计算器](https://ned.ipac.caltech.edu/help/cosmology_calc.html)
   * [积分计算器](https://www.wolframalpha.com/calculators/integral-calculator)
@@ -74,7 +74,7 @@
   * [Astroplotlib](http://astroplotlib.stsci.edu/): 天文图像范例
   * [系外天文学课程资料](http://people.virginia.edu/~dmw8f/astr5630/Topic07/Lecture_7.html): 来自弗吉尼亚大学  
   * [AstroBetter](https://www.astrobetter.com/): 专业天文学家的技巧分享
-  * [Press release guidelines for scientists](https://www.spacetelescope.org/about_us/scientist_guidelines/#1)  
+  * [Press release的指导](https://www.spacetelescope.org/about_us/scientist_guidelines/#1)  
 
 * ### 望远镜与巡天
   * [DESI](https://www.desi.lbl.gov/)
@@ -91,8 +91,8 @@
 
 * ### 软件 
   * [SCAMP](https://www.astromatic.net/software/scamp): image匹配天区位置  
-  * [Zotero](https://www.zotero.org/): a free, easy-to-use tool to help you collect, organize, cite, and share research
-  * [ClickHouse](https://clickhouse.tech/): a fast open-source OLAP database management system
+  * [Zotero](https://www.zotero.org/): 一个文献管理软件，标签系统很好用
+  * [ClickHouse](https://clickhouse.tech/): 一个数据库软件
 
 
 
@@ -109,20 +109,20 @@
 * ### Python包
   * [Numpy](https://numpy.org/)
   * [Astropy](https://www.astropy.org/)
-  * [Astroquery](https://astroquery.readthedocs.io/en/latest/index.html): a set of tools for querying astronomical web forms and databases.
-  * [sfdmap](https://github.com/kbarbary/sfdmap): A minimal, fast, MIT-licensed Python module for getting E(B-V) values from Schlegel, Finkbeiner & Davis (1998) dust map FITS files.
-  * [Kapteyn](https://www.astro.rug.nl/software/kapteyn/index.html): provide tools for the development of astronomical applications with Python.
-  * [VoigtFit](https://voigtfit.readthedocs.io/en/latest/): VoigtFit is written to make absorption line fitting a breeze.
+  * [Astroquery](https://astroquery.readthedocs.io/en/latest/index.html): 写query
+  * [sfdmap](https://github.com/kbarbary/sfdmap): 消光map
+  * [Kapteyn](https://www.astro.rug.nl/software/kapteyn/index.html): 一系列工具
+  * [VoigtFit](https://voigtfit.readthedocs.io/en/latest/)
   * [ParaMonte: Parallel Monte Carlo Library](https://www.cdslab.org/paramonte/notes/overview/preface/)
-  * [PyHammer](https://github.com/BU-hammerTeam/PyHammer): a tool developed to allow rapid and automatic spectral classification of stars.
-  * [DESK: Dusty-Evolved-Star-Kit](https://github.com/s-goldman/Dusty-Evolved-Star-Kit): an SED-fitting python package for fitting data from evolved stars (photometry or spectra) 
+  * [PyHammer](https://github.com/BU-hammerTeam/PyHammer)：恒星光谱证认
+  * [DESK: Dusty-Evolved-Star-Kit](https://github.com/s-goldman/Dusty-Evolved-Star-Kit): 拟合DES
 
 * ### Latex
-  * [overleaf](https://www.overleaf.com/): The easy to use, online, collaborative LaTeX editor
-  * [Latex: Binary Relation Operators](http://www.access2science.com/latex/Binary.html)
-  * [Symbols in LaTeX](https://latex.wikia.org/wiki/List_of_LaTeX_symbols)
-  * [Symbols in LaTeX and HTML](http://www.stevesque.com/symbols/)
-  * [Special_Characters in LaTeX](https://en.wikibooks.org/wiki/LaTeX/Special_Characters)
+  * [overleaf](https://www.overleaf.com/): 在线Latex编辑
+  * [Latex: 二元关系符](http://www.access2science.com/latex/Binary.html)
+  * [LaTeX符号](https://latex.wikia.org/wiki/List_of_LaTeX_symbols)
+  * [LaTeX and HTML中的特殊符号](http://www.stevesque.com/symbols/)
+  * [LaTeX中的特殊符号](https://en.wikibooks.org/wiki/LaTeX/Special_Characters)
 
 * ### 课程与资源
   * [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
@@ -134,10 +134,10 @@
   * [C++算法大全](https://github.com/TheAlgorithms/C-Plus-Plus)  
 
 * ### 教程
-  * [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer): A guide on how to be a Programmer - originally published by Robert L Read
+  * [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer): 程序员指导
   * [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
   * [Vim 从入门到精通](https://github.com/wsdjeg/vim-galore-zh_cn)  
-  * [The Markov-chain Monte Carlo Interactive Gallery](http://chi-feng.github.io/mcmc-demo/)  
+  * [The Markov-chain Monte Carlo Interactive Gallery](http://chi-feng.github.io/mcmc-demo/)：MCMC演示  
 
 
 
@@ -155,7 +155,7 @@
 
 
 ## 化学
-  * [AIST](https://sdbs.db.aist.go.jp/sdbs/cgi-bin/direct_frame_top.cgi): Spectral Database for Organic Compounds, SDBS
+  * [AIST](https://sdbs.db.aist.go.jp/sdbs/cgi-bin/direct_frame_top.cgi): 有机物光谱数据库
 
 
 
@@ -169,7 +169,7 @@
   * [printfriendly](https://www.printfriendly.com/): 漂亮地打印网页 
   * [拷贝兔](https://cp.anyknew.com/): 一个完全免费的轻量级跨平台文件传输工具，非常实用并且好用。
   * [图形方格纸](https://www.mygraphpaper.com/index.php?lang=zh-hans): 在线制作自己的方格笔记本
-  * [Imagecyborg](https://imagecyborg.com/): download images from any website, webpage via url or link
+  * [Imagecyborg](https://imagecyborg.com/): 从url下载图片
   * [Google Earth](https://www.google.com/earth/): 虚拟地球仪  
   * [青柠起始页](https://a.maorx.cn/): 好用的主页
   * [网易见外](https://jianwai.youdao.com/index/0): 一个工具箱，每天2小时免费视频翻译、文档翻译。
@@ -194,9 +194,9 @@
   * [免费电子书](https://github.com/ruanyf/free-books)
   * [免费音乐](https://github.com/ruanyf/weekly/blob/master/docs/free-music.md)
   * [免费照片](https://github.com/ruanyf/weekly/blob/master/docs/free-photos.md)
-  * [Wallhaven](https://wallhaven.cc/): Awesome wallpapers
+  * [Wallhaven](https://wallhaven.cc/): 免费壁纸
   * [免费软件](https://github.com/ruanyf/weekly/blob/master/docs/free-software.md)
-  * [Fosshub](https://www.fosshub.com/): Safe, Fast and Free Software Download Hub
+  * [Fosshub](https://www.fosshub.com/): 免费软件
   * [最全中文诗歌古典文集数据库](https://github.com/chinese-poetry/chinese-poetry) 
 
 * ### 教程
