@@ -1,10 +1,10 @@
 # 揽尽天下妙网
-今日世界，已臻新元。网络互通，人机互联。数据杂多，信息驳繁。纵千般甄别，小有所获，终其萤火，微薄甚焉。故余生宏愿，与诸君共勉：集万人之力揽尽妙网，以效始皇，收天下之兵，聚之咸阳！       
+Today, we live in a world full of information, data, tools, and so on. However, it's very hard to pick up those useful or interesting things by one person himself. This website is aimed to collect those very useful or very interesting websites for more efficient and convinient life.  
 [Change to Chinese version](https://github.com/panzhiwei1997/Useful_Website/blob/main/VUVI_Chinese.md)
 &nbsp;  
 &nbsp;  
 &nbsp;  
-&nbsp;  
+
 
 ## Contents <!-- omit in toc -->
 * [Astronomy](#astronomy)
@@ -23,7 +23,7 @@
   * [Tutorials](#tutorials)
 * [English](#english)
 * [Chemistry](#chemistry)
-* [Others](#others): 即使你对学术工具没有兴趣，你在此处一定能找到相见恨晚的网站或者软件。
+* [Others](#others): Even if you are not interested in research tools, you can also find something you like here.
   * [Tools](#tools)
   * [Courses](#courses)
   * [Resources](#resources)
@@ -39,24 +39,24 @@
 
 ## Astronomy
 * ### Infos & Blogs
-  * [CSST信息概述](https://github.com/CSSTsci/GalaxyAGN_science_discussion/wiki/CSST-Summary)
-  * [饕餮](https://taotie.readthedocs.io/en/latest/index.html): 黄崧的一个非常非常非常强的天文资源整理网站。
+  * [CSST summary](https://github.com/CSSTsci/GalaxyAGN_science_discussion/wiki/CSST-Summary)
+  * [饕餮](https://taotie.readthedocs.io/en/latest/index.html): A very very powerful website with many useful information and websites 
   * [Physical Constants and Astronomical Data](http://www.astro.wisc.edu/~dolan/constants.html)
   * [COSMOS](https://astronomy.swin.edu.au/cosmos/): Cosmos is a unique astronomy reference written by research astronomers.
   * [Encyclopedia of Astronomy and Astrophysics](http://eaa.crcpress.com/default.asp)
   * [astroparticle.online: standard model](https://astroparticle.online/standard-model/)  
-  * [Academictree](https://academictree.org/): 可以查询学者之间的师承关系。
+  * [Academictree](https://academictree.org/): query the relationship betwwen scientists
   * [Handbook of Space Astronomy and Astrophysics](http://ads.harvard.edu/books/hsaa/toc.html)
   * [AAS Job Register](https://jobregister.aas.org): Find and post astronomy related jobs!
-  * [AstroBites](https://astrobites.org/): 天文读者文摘
+  * [AstroBites](https://astrobites.org/): Articles from astronomers
 
 * ### Database
   * [ADS](https://ui.adsabs.harvard.edu/): astrophysics data system
   * [Arxiv](http://cn.arxiv.org/): e-print archive
-  * [Strasbourg(CDS数据库)](http://cdsportal.u-strasbg.fr/): SIMBAD, VIZIER...
+  * [Strasbourg(CDS database)](http://cdsportal.u-strasbg.fr/): SIMBAD, VIZIER...
   * [SDSS SAS](https://data.sdss.org/sas/): SDSS Science Archive Server
-  * [ASD原子光谱数据库](https://physics.nist.gov/PhysRefData/ASD/lines_form.html):可用于查谱线
-  * [影响因子数据库](https://academic-accelerator.com/Impact-Factor-IF/zh-CN/The-Astrophysical-Journal-Supplement-Series)
+  * [ASD](https://physics.nist.gov/PhysRefData/ASD/lines_form.html): spectrum lines databse
+  * [Academic Accelerator](https://academic-accelerator.com/Impact-Factor-IF/zh-CN/The-Astrophysical-Journal-Supplement-Series): Impact factor databasr
   * [JINAbase](https://jinabase.pythonanywhere.com/index): A database for metal-poor stars
   * [LASD](http://lasd.lyman-alpha.com/): Lyman Alpha Spectral Database
 
@@ -64,35 +64,35 @@
   * [SDSSDR16 explorer](http://skyserver.sdss.org/dr16/en/tools/explore/summary.aspx)
   * [SDSS casjob](http://skyserver.sdss.org/CasJobs/)
   * [CMD](http://stev.oapd.inaf.it/cgi-bin/cmd): A web interface dealing with stellar isochrones and their derivatives.
-  * [Astrometry.net](http://astrometry.net/): image匹配天区位置
+  * [Astrometry.net](http://astrometry.net/): image to match astrometry
   * [Altitude/Azimuth of Stars](https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/horizontal_rhip_en.cgi)  
   * [宇宙学计算器](https://ned.ipac.caltech.edu/help/cosmology_calc.html)
   * [积分计算器](https://www.wolframalpha.com/calculators/integral-calculator)
-  * [Desmos](https://www.desmos.com/calculator?lang=zh-CN): 函数画图
-  * [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/): 提取图像中的数据点
-  * [nbviewer](https://nbviewer.jupyter.org/): Github打开notebook经常会卡或者失败，把链接复制到这个网站可以很快打开。
-
+  * [Desmos](https://www.desmos.com/calculator?lang=zh-CN): plot functions online
+  * [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/): digitilize data points from iamge online
+  * [nbviewer](https://nbviewer.jupyter.org/): quickly open notebook, in case for bugs in github
+ 
 * ### Tutorials & Courses
-  * [Astroplotlib](http://astroplotlib.stsci.edu/): 天文图像范例
-  * [系外天文学课程资料](http://people.virginia.edu/~dmw8f/astr5630/Topic07/Lecture_7.html): 来自弗吉尼亚大学  
-  * [AstroBetter](https://www.astrobetter.com/): 专业天文学家的技巧分享
+  * [Astroplotlib](http://astroplotlib.stsci.edu/): examples of astroplot
+  * [Exogalactic Astronomy](http://people.virginia.edu/~dmw8f/astr5630/Topic07/Lecture_7.html): From Virginia University
+  * [AstroBetter](https://www.astrobetter.com/): Tips for becoming better
   * [Press release guidelines for scientists](https://www.spacetelescope.org/about_us/scientist_guidelines/#1)  
 
 * ### Instruments & Surveys
   * [DESI](https://www.desi.lbl.gov/)
 
 * ### Homepages
-  * [江林华](http://kavli.pku.edu.cn/~jiang/index.html)
-  * [李立新](http://kavli.pku.edu.cn/~lxl/professional/html/links.html):内有丰富的推荐网站
-  * [邵立晶](https://friendshao.github.io/about/)
+  * [Linhua Jiang](http://kavli.pku.edu.cn/~jiang/index.html)
+  * [Lixin Li](http://kavli.pku.edu.cn/~lxl/professional/html/links.html)
+  * [Lijing Shao](https://friendshao.github.io/about/)
   * [Yue Shen](http://quasar.astro.illinois.edu/)
-  * [邹虎](http://batc.bao.ac.cn/~zouhu/doku.php?id=projects:start): 内有地外行星python处理教程
-  * [黄崧](http://dr-guangtou.github.io/)
-  * [吴晋的Github](https://github.com/fmajor)
+  * [Hu Zou](http://batc.bao.ac.cn/~zouhu/doku.php?id=projects:start): has some tutorials about exoplanet data analysis
+  * [Song Huang](http://dr-guangtou.github.io/)
+  * [Jin Wu's Github](https://github.com/fmajor)
   * [KIAAGravity](https://kiaagravity.github.io/)
 
 * ### Softwares 
-  * [SCAMP](https://www.astromatic.net/software/scamp): image匹配天区位置  
+  * [SCAMP](https://www.astromatic.net/software/scamp): image to match astrometry  
   * [Zotero](https://www.zotero.org/): a free, easy-to-use tool to help you collect, organize, cite, and share research
   * [ClickHouse](https://clickhouse.tech/): a fast open-source OLAP database management system
 
@@ -102,11 +102,11 @@
 
 ## Programs
 * ### Python docs
-  * [Python字符串格式化输出的文档](https://pyformat.info/)
-  * [Python Linestyle、marker、颜色表](https://www.cnblogs.com/darkknightzh/p/6117528.html)
-  * [Python Colormap表](https://blog.csdn.net/lly1122334/article/details/88535217)
-  * [天文数据基础与Python天文技术培训](https://hebl.china-vo.org/course/PIA2020/)
-  * [PyGame教程](https://eyehere.net/2011/python-pygame-novice-professional-1/)
+  * [Python string format docs](https://pyformat.info/)
+  * [Python Linestyle、marker、color list](https://www.cnblogs.com/darkknightzh/p/6117528.html)
+  * [Python Colormap list](https://blog.csdn.net/lly1122334/article/details/88535217)
+  * [Python in astronomy from NOA, CAS](https://hebl.china-vo.org/course/PIA2020/)
+  * [PyGame tutorial](https://eyehere.net/2011/python-pygame-novice-professional-1/)
 
 * ### Python packages
   * [Numpy](https://numpy.org/)
@@ -127,18 +127,18 @@
   * [Special_Characters in LaTeX](https://en.wikibooks.org/wiki/LaTeX/Special_Characters)
 
 * ### Courses & Resources
-  * [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
-  * [清华大学操作系统课程实验 (OS Kernel Labs)](https://github.com/kiukotsu/ucore) 
-  * [清华大学计算机系课程](https://github.com/PKUanonym/REKCARC-TSC-UHT) 
-  * [Leetcode](https://leetcode-cn.com/): 全球极客挚爱的技术成长平台   
-  * [GitHub中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)   
-  * [HelloGitHub](https://github.com/521xueweihan/HelloGitHub): GitHub 上有趣、入门级的开源项目 
-  * [C++算法大全](https://github.com/TheAlgorithms/C-Plus-Plus)  
+  * [free programming ebooks index](https://github.com/justjavac/free-programming-books-zh_CN)
+  * [OS Kernel Labs from THU](https://github.com/kiukotsu/ucore) 
+  * [THU programming courses](https://github.com/PKUanonym/REKCARC-TSC-UHT) 
+  * [Leetcode](https://leetcode-cn.com/): a website full of programming problems  
+  * [GitHub Chinese rankings](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)   
+  * [HelloGitHub](https://github.com/521xueweihan/HelloGitHub): simple GitHub projects 
+  * [C++ Alogrithms](https://github.com/TheAlgorithms/C-Plus-Plus)  
 
 * ### Tutorials
   * [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer): A guide on how to be a Programmer - originally published by Robert L Read
-  * [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
-  * [Vim 从入门到精通](https://github.com/wsdjeg/vim-galore-zh_cn)  
+  * [The guide of CHinese technical document](https://github.com/ruanyf/document-style-guide)
+  * [Vim tutorial](https://github.com/wsdjeg/vim-galore-zh_cn)  
   * [The Markov-chain Monte Carlo Interactive Gallery](http://chi-feng.github.io/mcmc-demo/)  
 
 
@@ -146,10 +146,10 @@
 
 
 ## English
-  * [英语近义词在线词典](https://www.thesaurus.com/)  
-  * [English-corpora](https://www.english-corpora.org/coca/): 可以确保你的英语词组搭配不chinglish
+  * [Thesaurus](https://www.thesaurus.com/)  
+  * [English-corpora](https://www.english-corpora.org/coca/): 
   * [A collection of English corpora](http://corpus.leeds.ac.uk/protected/query.html)
-  * [杜克大学学术写作课程](https://sites.duke.edu/scientificwriting/)
+  * [Writing courses from Duke](https://sites.duke.edu/scientificwriting/)
 
 
 
