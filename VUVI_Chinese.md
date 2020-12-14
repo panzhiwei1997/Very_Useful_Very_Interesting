@@ -207,6 +207,7 @@
   * [博弈论游戏大全](https://www.cs.cmu.edu/afs/cs/academic/class/15859-f01/www/notes/comb.pdf)
   * [买房购房知识](https://github.com/houshanren/hangzhou_house_knowledge)
   * [围棋教程](https://tieba.baidu.com/p/3413670740?red_tag=0900211857)
+  * [WallesPKU](https://blog.wallesspku.space/blog/post/hiaoxui/clash-zh): 无障碍浏览国外网站
 
 * ### 娱乐
   * [小霸王在线游戏](https://www.yikm.net/)
@@ -217,8 +218,8 @@
 
 
 ## 致谢
-感谢周泰，黄崧，李立新，张路路，庄明阳，余捻坤，吕澈秋，刘畅，林小靖，李嘉轩，徐伟伟，邱钰，傅煜铭，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，
-韩耕愚，张茂森，陈天翔，张李佳琦。
+感谢周泰，辛依倩，黄崧，李立新，张路路，庄明阳，余捻坤，吕澈秋，刘畅，林小靖，李嘉轩，徐伟伟，邱钰，傅煜铭，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，
+韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺。
 
 感谢以上所有网站的作者！
 
