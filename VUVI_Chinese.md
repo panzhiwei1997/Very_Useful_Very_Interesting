@@ -22,6 +22,7 @@
   * [教程](#教程)
 * [英语](#英语)
 * [化学](#化学)
+* [文学](#文学)
 * [其他](#其他): 即使你对学术工具没有兴趣，你在此处一定能找到相见恨晚的网站或者软件。比如你想下载免费ppt，你想下载免费电子书，你想研究地图。。。。。。
   * [工具](#工具)
   * [课程](#课程)
@@ -164,7 +165,7 @@
   * [AI对对联](https://ai.binwang.me/couplet/)
   
 * ### 数据库与资源
-  * [中文科幻数据库]https://csfdb.scifi-wiki.com/
+  * [中文科幻数据库](https://csfdb.scifi-wiki.com/)
   * [最全中文诗歌古典文集数据库](https://github.com/chinese-poetry/chinese-poetry)
   * [Library Genesis](http://gen.lib.rus.ec/): 一个很强大的电子书下载网站
   * [SciHub](https://tool.yovisun.com/scihub/): 一个文献下载网站的可用网址集合
