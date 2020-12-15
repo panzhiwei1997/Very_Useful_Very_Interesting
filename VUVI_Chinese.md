@@ -154,19 +154,25 @@
 
 
 
-
-
-
 ## 化学
   * [AIST](https://sdbs.db.aist.go.jp/sdbs/cgi-bin/direct_frame_top.cgi): 有机物光谱数据库
 
 
-
+## 文学
+* ### 工具
+  * [秘塔写作猫](https://xiezuocat.com/#/editor?docId=6131737&new=true): 一个不可多得的AI智能写作工具，支持实时错误提示，全文改写，翻译，甚至古文改写
+  * [AI对对联](https://ai.binwang.me/couplet/)
+  
+* ### 数据库与资源
+  * [中文科幻数据库]https://csfdb.scifi-wiki.com/
+  * [最全中文诗歌古典文集数据库](https://github.com/chinese-poetry/chinese-poetry)
+  * [Library Genesis](http://gen.lib.rus.ec/): 一个很强大的电子书下载网站
+  * [SciHub](https://tool.yovisun.com/scihub/): 一个文献下载网站的可用网址集合
+  * [免费电子书](https://github.com/ruanyf/free-books)
 
 
 ## 其他
 * ### 工具
-  * [秘塔写作猫](https://xiezuocat.com/#/editor?docId=6131737&new=true): 一个不可多得的AI智能写作工具，支持实时错误提示，全文改写，翻译，甚至古文改写
   * [Aconvert](https://www.aconvert.com/pdf): 在线格式转换工具，比如转pdf
   * [Time.is](https://www.thesaurus.com/): 所有时区的精确时间
   * [printfriendly](https://www.printfriendly.com/): 漂亮地打印网页
@@ -177,7 +183,6 @@
   * [青柠起始页](https://a.maorx.cn/): 好用的主页
   * [网易见外](https://jianwai.youdao.com/index/0): 一个工具箱，每天2小时免费视频翻译、文档翻译。
   * [BiliBili Evolved](https://github.com/the1812/Bilibili-Evolved/blob/master/features.md)
-  * [AI对对联](https://ai.binwang.me/couplet/)
   * [北大财务部](https://cwfw.pku.edu.cn/): 可以查工资奖学金信息
 
 * ### 课程
@@ -188,20 +193,17 @@
   * [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
 
 * ### 资源
-  * [Library Genesis](http://gen.lib.rus.ec/): 一个很强大的电子书下载网站
-  * [SciHub](https://tool.yovisun.com/scihub/): 一个文献下载网站的可用网址集合
   * [PPT超级市场](http://ppt.sotary.com/web/wxapp/index.html): 一个很干净的免费ppt下载网站
   * [Greasy Fork](https://a.maorx.cn/): 一个提供浏览器用户脚本的网站。
   * [联图云光盘](http://discx.yuntu.io/): 一个宝藏书籍光盘网站，它收录了126450张书籍光盘
   * [IPTV资源](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8): 直播源相关资源汇总
   * [科技爱好者周刊](https://github.com/ruanyf/weekly)
-  * [免费电子书](https://github.com/ruanyf/free-books)
   * [免费音乐](https://github.com/ruanyf/weekly/blob/master/docs/free-music.md)
   * [免费照片](https://github.com/ruanyf/weekly/blob/master/docs/free-photos.md)
   * [Wallhaven](https://wallhaven.cc/): 免费壁纸
   * [免费软件](https://github.com/ruanyf/weekly/blob/master/docs/free-software.md)
   * [Fosshub](https://www.fosshub.com/): 免费软件
-  * [最全中文诗歌古典文集数据库](https://github.com/chinese-poetry/chinese-poetry)
+
 
 * ### 教程
   * [博弈论游戏大全](https://www.cs.cmu.edu/afs/cs/academic/class/15859-f01/www/notes/comb.pdf)
@@ -219,7 +221,7 @@
 
 ## 致谢
 感谢周泰，辛依倩，黄崧，李立新，张路路，庄明阳，余捻坤，吕澈秋，刘畅，林小靖，李嘉轩，徐伟伟，邱钰，傅煜铭，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，
-韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺。
+韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫。
 
 感谢以上所有网站的作者！
 
