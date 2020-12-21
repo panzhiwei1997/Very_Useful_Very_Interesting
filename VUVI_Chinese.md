@@ -93,6 +93,8 @@
   * [黄崧](http://dr-guangtou.github.io/)
   * [吴晋的Github](https://github.com/fmajor)
   * [KIAAGravity](https://kiaagravity.github.io/)
+  * [Antony Lewis](https://cosmologist.info/): 宇宙学相关
+  * [David H. Weinberg](http://www.astronomy.ohio-state.edu/~dhw/): 宇宙学、星系相关
 
 * ### 软件
   * [SCAMP](https://www.astromatic.net/software/scamp): image匹配天区位置
@@ -238,7 +240,7 @@
 
 
 ## 致谢
-感谢周泰，辛依倩，黄崧，李立新，张路路，庄明阳，余捻坤，吕澈秋，刘畅，林小靖，李嘉轩，徐伟伟，邱钰，傅煜铭，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，
+感谢周泰，辛依倩，黄崧，李立新，张路路，林小靖，庄明阳，余捻坤，吕澈秋，刘畅，李嘉轩，徐伟伟，邱钰，傅煜铭，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，
 韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫。
 
 感谢以上所有网站的作者！
