@@ -195,7 +195,7 @@
 
 * ### 资源
   * [PPT超级市场](http://ppt.sotary.com/web/wxapp/index.html): 一个很干净的免费ppt下载网站
-  * [Greasy Fork](https://a.maorx.cn/): 一个提供浏览器用户脚本的网站。
+  * [Greasy Fork](https://greasyfork.org/zh-CN): 一个提供浏览器用户脚本的网站。
   * [联图云光盘](http://discx.yuntu.io/): 一个宝藏书籍光盘网站，它收录了126450张书籍光盘
   * [IPTV资源](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8): 直播源相关资源汇总
   * [科技爱好者周刊](https://github.com/ruanyf/weekly)
