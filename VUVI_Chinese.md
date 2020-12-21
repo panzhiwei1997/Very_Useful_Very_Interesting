@@ -154,8 +154,17 @@
   * [A collection of English corpora](http://corpus.leeds.ac.uk/protected/query.html)
   * [杜克大学学术写作课程](https://sites.duke.edu/scientificwriting/)
 
+
+
+
+
+
+
 ## 数学与统计
   * [李东风的主页](https://www.math.pku.edu.cn/teachers/lidf/)
+  * [博弈论游戏大全](https://www.cs.cmu.edu/afs/cs/academic/class/15859-f01/www/notes/comb.pdf)
+
+
 
 
 
@@ -174,6 +183,11 @@
   * [Library Genesis](http://gen.lib.rus.ec/): 一个很强大的电子书下载网站
   * [SciHub](https://tool.yovisun.com/scihub/): 一个文献下载网站的可用网址集合
   * [免费电子书](https://github.com/ruanyf/free-books)
+
+
+
+
+
 
 
 ## 其他
@@ -211,7 +225,6 @@
 
 
 * ### 教程
-  * [博弈论游戏大全](https://www.cs.cmu.edu/afs/cs/academic/class/15859-f01/www/notes/comb.pdf)
   * [买房购房知识](https://github.com/houshanren/hangzhou_house_knowledge)
   * [围棋教程](https://tieba.baidu.com/p/3413670740?red_tag=0900211857)
   * [WallesPKU](https://blog.wallesspku.space/blog/post/hiaoxui/clash-zh): 无障碍浏览国外网站
