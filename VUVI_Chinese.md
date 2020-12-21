@@ -104,7 +104,7 @@
 
 ## 编程
 * ### Python文档
-  * [Python字符串格式化输出的文档](Python文档)
+  * [Python字符串格式化输出的文档](https://pyformat.info/)
   * [Python Linestyle、marker、颜色表](https://www.cnblogs.com/darkknightzh/p/6117528.html)
   * [Python Colormap表](https://blog.csdn.net/lly1122334/article/details/88535217)
   * [天文数据基础与Python天文技术培训](https://hebl.china-vo.org/course/PIA2020/)
