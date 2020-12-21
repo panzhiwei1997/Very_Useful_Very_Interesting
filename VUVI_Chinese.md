@@ -21,6 +21,7 @@
   * [课程与资源](#课程与资源)
   * [教程](#教程)
 * [英语](#英语)
+* [数学与统计](#数学与统计)
 * [化学](#化学)
 * [文学](#文学)
 * [其他](#其他): 即使你对学术工具没有兴趣，你在此处一定能找到相见恨晚的网站或者软件。比如你想下载免费ppt，你想下载免费电子书，你想研究地图。。。。。。
@@ -152,6 +153,9 @@
   * [English-corpora](https://www.english-corpora.org/coca/): 可以确保你的英语词组搭配不chinglish
   * [A collection of English corpora](http://corpus.leeds.ac.uk/protected/query.html)
   * [杜克大学学术写作课程](https://sites.duke.edu/scientificwriting/)
+
+## 数学与统计
+  * [李东风的主页](https://www.math.pku.edu.cn/teachers/lidf/)
 
 
 
