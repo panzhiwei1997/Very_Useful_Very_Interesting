@@ -17,13 +17,17 @@
 * [编程](#编程)
   * [Python文档](#Python文档)
   * [Python包](#Python包)
-  * [Latex](#latex)
   * [课程与资源](#课程与资源)
+  * [教程](#教程)
+* [文档](#文档)
+  * [Office](#Office)
+  * [Latex](#Latex)
   * [教程](#教程)
 * [英语](#英语)
 * [数学与统计](#数学与统计)
 * [化学](#化学)
 * [文学](#文学)
+* [心理学](#心理学)
 * [其他](#其他): 即使你对学术工具没有兴趣，你在此处一定能找到相见恨晚的网站或者软件。比如你想下载免费ppt，你想下载免费电子书，你想研究地图。。。。。。
   * [工具](#工具)
   * [课程](#课程)
@@ -125,12 +129,6 @@
   * [PyHammer](https://github.com/BU-hammerTeam/PyHammer)：恒星光谱证认
   * [DESK: Dusty-Evolved-Star-Kit](https://github.com/s-goldman/Dusty-Evolved-Star-Kit): 拟合DES
 
-* ### Latex
-  * [overleaf](https://www.overleaf.com/): 在线Latex编辑
-  * [Latex: 二元关系符](http://www.access2science.com/latex/Binary.html)
-  * [LaTeX符号](https://latex.wikia.org/wiki/List_of_LaTeX_symbols)
-  * [LaTeX and HTML中的特殊符号](http://www.stevesque.com/symbols/)
-  * [LaTeX中的特殊符号](https://en.wikibooks.org/wiki/LaTeX/Special_Characters)
 
 * ### 课程与资源
   * [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
@@ -143,9 +141,35 @@
 
 * ### 教程
   * [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer): 程序员指导
-  * [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
   * [Vim 从入门到精通](https://github.com/wsdjeg/vim-galore-zh_cn)
-  * [The Markov-chain Monte Carlo Interactive Gallery](http://chi-feng.github.io/mcmc-demo/)：MCMC演示
+
+
+
+
+
+
+
+
+## 文档
+* ### Office
+  * [PPT超级市场](http://ppt.sotary.com/web/wxapp/index.html): 一个很干净的免费ppt下载网站
+  * [第一PPT](http://www.1ppt.com/): 免费ppt下载网站
+  * [OfficePlus](http://www.officeplus.cn/Template/Home.shtml): 官方模版网站，需要登陆账号
+
+* ### Latex
+  * [overleaf](https://www.overleaf.com/): 在线Latex编辑
+  * [Latex: 二元关系符](http://www.access2science.com/latex/Binary.html)
+  * [LaTeX符号](https://latex.wikia.org/wiki/List_of_LaTeX_symbols)
+  * [LaTeX and HTML中的特殊符号](http://www.stevesque.com/symbols/)
+  * [LaTeX中的特殊符号](https://en.wikibooks.org/wiki/LaTeX/Special_Characters)
+
+* ### 教程
+  * [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
+
+
+
+
+
 
 
 
@@ -163,9 +187,13 @@
 
 
 
+
+
+
 ## 数学与统计
   * [李东风的主页](https://www.math.pku.edu.cn/teachers/lidf/)
   * [博弈论游戏大全](https://www.cs.cmu.edu/afs/cs/academic/class/15859-f01/www/notes/comb.pdf)
+  * [The Markov-chain Monte Carlo Interactive Gallery](http://chi-feng.github.io/mcmc-demo/)：MCMC演示
 
 
 
@@ -173,6 +201,16 @@
 
 ## 化学
   * [AIST](https://sdbs.db.aist.go.jp/sdbs/cgi-bin/direct_frame_top.cgi): 有机物光谱数据库
+
+
+
+
+
+
+
+
+
+
 
 
 ## 文学
@@ -193,12 +231,24 @@
 
 
 
+
+
+
+
+## 心理学
+  * [心晴网](http://www.ixinqing.com/): 7000多本免费心理学电子书籍
+
+
+
+
 ## 其他
 * ### 工具
+  * [在线尺子](http://achizi.com/): 输入屏幕尺寸和分辨率，生成直尺。
   * [Aconvert](https://www.aconvert.com/pdf): 在线格式转换工具，比如转pdf
   * [Time.is](https://www.thesaurus.com/): 所有时区的精确时间
   * [printfriendly](https://www.printfriendly.com/): 漂亮地打印网页
   * [拷贝兔](https://cp.anyknew.com/): 一个完全免费的轻量级跨平台文件传输工具，非常实用并且好用。
+  * [AirPortal](https://airportal.cn/): 类似拷贝兔
   * [图形方格纸](https://www.mygraphpaper.com/index.php?lang=zh-hans): 在线制作自己的方格笔记本
   * [Imagecyborg](https://imagecyborg.com/): 从url下载图片
   * [Google Earth](https://www.google.com/earth/): 虚拟地球仪
@@ -215,7 +265,6 @@
   * [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
 
 * ### 资源
-  * [PPT超级市场](http://ppt.sotary.com/web/wxapp/index.html): 一个很干净的免费ppt下载网站
   * [Greasy Fork](https://greasyfork.org/zh-CN): 一个提供浏览器用户脚本的网站。
   * [联图云光盘](http://discx.yuntu.io/): 一个宝藏书籍光盘网站，它收录了126450张书籍光盘
   * [IPTV资源](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8): 直播源相关资源汇总
@@ -223,8 +272,10 @@
   * [免费音乐](https://github.com/ruanyf/weekly/blob/master/docs/free-music.md)
   * [免费照片](https://github.com/ruanyf/weekly/blob/master/docs/free-photos.md)
   * [Wallhaven](https://wallhaven.cc/): 免费壁纸
+  * [Mixkit](https://mixkit.co/)：网站免费提供了丰富的视频和动画素材
   * [免费软件](https://github.com/ruanyf/weekly/blob/master/docs/free-software.md)
   * [Fosshub](https://www.fosshub.com/): 免费软件
+  * [Slant](https://www.slant.co/): 一个帮助你找到最好的产品和工具的一个实用网站
 
 
 * ### 教程
