@@ -1,6 +1,8 @@
 # 揽尽天下妙网
 今日世界，已臻新元。网络互通，人机互联。数据杂多，信息驳繁。纵千般甄别，小有所获，终其萤火，微薄甚焉。故余生宏愿，与诸君共勉：集万人之力揽尽妙网，以效始皇，收天下之兵，聚之咸阳！
 [切换到英文版](https://github.com/panzhiwei1997/Useful_Website/blob/main/VUVI_English.md)
+
+即使你对学术工具没有兴趣，你也一定能找到相见恨晚的网站或者软件。比如你想下载免费ppt，下载免费电子书，研究地图。。。。。。
 &nbsp;
 &nbsp;
 &nbsp;
@@ -13,6 +15,7 @@
   * [教程与课程](#教程与课程)
   * [望远镜与巡天](#望远镜与巡天)
   * [天文学者主页](#天文学者主页)
+  * [天文学者的Github](#天文学者的Github)
   * [软件](#软件)
 * [编程](#编程)
   * [Python文档](#Python文档)
@@ -30,7 +33,7 @@
   * [工具](#工具)
   * [数据库与资源](#数据库与资源)
 * [心理学](#心理学)
-* [其他](#其他): 即使你对学术工具没有兴趣，你在此处一定能找到相见恨晚的网站或者软件。比如你想下载免费ppt，你想下载免费电子书，你想研究地图。。。。。。
+* [其他](#其他)
   * [工具](#工具)
   * [课程](#课程)
   * [资源](#资源)
@@ -98,10 +101,18 @@
   * [Yue Shen](http://quasar.astro.illinois.edu/)
   * [邹虎](http://batc.bao.ac.cn/~zouhu/doku.php?id=projects:start): 内有地外行星python处理教程
   * [黄崧](http://dr-guangtou.github.io/)
-  * [吴晋的Github](https://github.com/fmajor)
   * [KIAAGravity](https://kiaagravity.github.io/)
   * [Antony Lewis](https://cosmologist.info/): 宇宙学相关
   * [David H. Weinberg](http://www.astronomy.ohio-state.edu/~dhw/): 宇宙学、星系相关
+
+* ### 天文学者的Github
+  * [Zhiwei Pan](https://github.com/panzhiwei1997)
+  * [Jin Wu](https://github.com/fmajor)
+  * [Cheqiu Lv](https://github.com/StickLyu)
+  * [Chang Liu](https://github.com/slowdivePTG/Notes)
+  * [Xiaojing Lin](https://github.com/LittleLin1999)
+
+
 
 * ### 软件
   * [SCAMP](https://www.astromatic.net/software/scamp): image匹配天区位置
@@ -261,7 +272,6 @@
 
 * ### 课程
   * [贵校课程资料民间整理](https://github.com/lib-pku/libpku)
-  * [北大天文课程笔记](https://github.com/slowdivePTG/Notes)
   * [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
   * [上海交通大学课程分享](https://github.com/c-hj/SJTU-Courses)
   * [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
