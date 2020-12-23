@@ -276,6 +276,7 @@
   * [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
   * [上海交通大学课程分享](https://github.com/c-hj/SJTU-Courses)
   * [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
+  * [西安交通大学课程资料共享计划](https://github.com/cantjie/XJTU-Share)
 
 * ### 资源
   * [Greasy Fork](https://greasyfork.org/zh-CN): 一个提供浏览器用户脚本的网站。
