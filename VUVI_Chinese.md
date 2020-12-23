@@ -205,6 +205,7 @@
 
 ## 数学与统计
   * [李东风的主页](https://www.math.pku.edu.cn/teachers/lidf/)
+  * [MIT线性代数笔记](https://github.com/apachecn/mit-18.06-linalg-notes)
   * [博弈论游戏大全](https://www.cs.cmu.edu/afs/cs/academic/class/15859-f01/www/notes/comb.pdf)
   * [The Markov-chain Monte Carlo Interactive Gallery](http://chi-feng.github.io/mcmc-demo/)：MCMC演示
 
