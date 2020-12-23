@@ -5,6 +5,9 @@ Today, we live in a world full of information, data, tools, and so on. However, 
 &nbsp;
 &nbsp;
 
+It's hard to renew immediately, so if you don't want to miss something, you can use the Chinese version and translate the webpage. 
+
+
 
 ## Contents <!-- omit in toc -->
 * [Astronomy](#astronomy)
