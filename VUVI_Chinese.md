@@ -165,6 +165,7 @@
 
 * ## 英语
   * [英语近义词在线词典](https://www.thesaurus.com/)
+  * [Maspeak](https://maspeak.com/):一个让你趣味性学习多种语言单词的实用网站，它支持学习的语言包括：法语、英语、西班牙语、意大利语、德语、阿拉语、俄语、韩语、日语。
   * [English-corpora](https://www.english-corpora.org/coca/): 可以确保你的英语词组搭配不chinglish
   * [A collection of English corpora](http://corpus.leeds.ac.uk/protected/query.html)
   * [杜克大学学术写作课程](https://sites.duke.edu/scientificwriting/)
@@ -251,6 +252,9 @@
   * [LaTeX符号](https://latex.wikia.org/wiki/List_of_LaTeX_symbols)
   * [LaTeX and HTML中的特殊符号](http://www.stevesque.com/symbols/)
   * [LaTeX中的特殊符号](https://en.wikibooks.org/wiki/LaTeX/Special_Characters)
+
+* ## 思维导图
+  * [GitMind](https://gitmind.cn/)
 
 * ## 文档编辑教程
   * [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
