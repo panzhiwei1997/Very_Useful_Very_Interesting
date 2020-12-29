@@ -22,6 +22,7 @@
     * [Python文档](#Python文档)
     * [Python包](#Python包)
     * [课程与资源](#课程与资源)
+    * [可视化](#可视化)
     * [教程](#教程)
   * [英语](#英语)
   * [数学与统计](#数学与统计)
@@ -157,6 +158,12 @@
     * [HelloGitHub](https://github.com/521xueweihan/HelloGitHub): GitHub 上有趣、入门级的开源项目
     * [C++算法大全](https://github.com/TheAlgorithms/C-Plus-Plus)
 
+  * ### 可视化
+    * [花火](https://hanabi.data-viz.cn/index?lang=zh-CN)：中文数据可视化网站，可免费下载为gif和MP4
+    * [Flourish](https://flourish.studio/)：国家数据可视化网站，但不可免费下载为gif和MP4  
+    * [The Markov-chain Monte Carlo Interactive Gallery](http://chi-feng.github.io/mcmc-demo/)：MCMC演示
+    
+    
   * ### 教程
     * [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer): 程序员指导
     * [Vim 从入门到精通](https://github.com/wsdjeg/vim-galore-zh_cn)
@@ -185,7 +192,7 @@
   * [李东风的主页](https://www.math.pku.edu.cn/teachers/lidf/)
   * [MIT线性代数笔记](https://github.com/apachecn/mit-18.06-linalg-notes)
   * [博弈论游戏大全](https://www.cs.cmu.edu/afs/cs/academic/class/15859-f01/www/notes/comb.pdf)
-  * [The Markov-chain Monte Carlo Interactive Gallery](http://chi-feng.github.io/mcmc-demo/)：MCMC演示
+
 
 
 
@@ -254,6 +261,8 @@
 * ## Office
   * [PPT超级市场](http://ppt.sotary.com/web/wxapp/index.html): 一个很干净的免费ppt下载网站
   * [第一PPT](http://www.1ppt.com/): 免费ppt下载网站
+  * [iconfont](https://www.iconfont.cn/): 中国第一个最大且功能最全的矢量图标库，总共有875万个图标。做ppt可插入
+  * [觅元素](http://www.51yuansu.com/): 一家专注做高清png免抠设计的网站。图片可以免费下载。做ppt可插入
   * [OfficePlus](http://www.officeplus.cn/Template/Home.shtml): 官方模版网站，需要登陆账号
   * [懒人Excel](https://www.lanrenexcel.com/): 一个非常好用并且完全免费的 Excel 学习网站
 
@@ -305,12 +314,13 @@
   * [Mixkit](https://mixkit.co/)：网站免费提供了丰富的视频和动画素材
 
 * ## 图片
+  * [在线抠图](https://www.remove.bg/zh/upload)：在线抠图
   * [免费照片](https://github.com/ruanyf/weekly/blob/master/docs/free-photos.md)
   * [Pexels](https://www.pexels.com/zh-cn/): 这也是一个高质量的图片网站，资源非常丰富，免费的，无版权的。这个网站除了可以下载图片，还可以下载视频。
   * [Wallhaven](https://wallhaven.cc/): 免费壁纸
   * [WallpaperHub](https://wallpaperhub.app/): 免费壁纸
   * [Paper Quilling Art](https://pissang.github.io/paper-quilling-art/): 一款衍纸艺术生成器
-  * [iconfont](https://www.iconfont.cn/): 中国第一个最大且功能最全的矢量图标库，总共有875万个图标。
+
 
 
 
@@ -328,6 +338,12 @@
 
 
 # 其他
+* ## 工具箱
+  * [青柠起始页](https://a.maorx.cn/): 好用的主页
+  * [热铁盒](https://www.retiehe.com/):实用工具箱
+  * [网易见外](https://jianwai.youdao.com/index/0): 一个工具箱，每天2小时免费视频翻译、文档翻译。
+  * [毛若昕的主页](https://maorx.cn/): 有一些有趣的工具
+
 * ## 其他工具
   * [在线尺子](http://achizi.com/): 输入屏幕尺寸和分辨率，生成直尺。
   * [Aconvert](https://www.aconvert.com/pdf): 在线格式转换工具，比如转pdf
@@ -338,8 +354,6 @@
   * [图形方格纸](https://www.mygraphpaper.com/index.php?lang=zh-hans): 在线制作自己的方格笔记本
   * [Imagecyborg](https://imagecyborg.com/): 从url下载图片
   * [Google Earth](https://www.google.com/earth/): 虚拟地球仪
-  * [青柠起始页](https://a.maorx.cn/): 好用的主页
-  * [网易见外](https://jianwai.youdao.com/index/0): 一个工具箱，每天2小时免费视频翻译、文档翻译。
   * [BiliBili Evolved](https://github.com/the1812/Bilibili-Evolved/blob/master/features.md)
   * [北大财务部](https://cwfw.pku.edu.cn/): 可以查工资奖学金信息
   * [地铁通](http://www.metroman.cn/)
