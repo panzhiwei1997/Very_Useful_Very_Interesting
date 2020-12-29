@@ -255,7 +255,7 @@
   * [LaTeX中的特殊符号](https://en.wikibooks.org/wiki/LaTeX/Special_Characters)
 
 * ## 思维导图
-  * [GitMind](https://gitmind.cn/)
+  * [GitMind](https://gitmind.cn/):在线思维导图、流程图制作
 
 * ## 文档编辑教程
   * [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
@@ -325,6 +325,7 @@
   * [网易见外](https://jianwai.youdao.com/index/0): 一个工具箱，每天2小时免费视频翻译、文档翻译。
   * [BiliBili Evolved](https://github.com/the1812/Bilibili-Evolved/blob/master/features.md)
   * [北大财务部](https://cwfw.pku.edu.cn/): 可以查工资奖学金信息
+  * [地铁通](http://www.metroman.cn/)
 
 * ## 课程
   * [贵校课程资料民间整理](https://github.com/lib-pku/libpku)
