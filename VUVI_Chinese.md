@@ -212,6 +212,7 @@
 * ## 文学
   * ### 工具
     * [秘塔写作猫](https://xiezuocat.com/#/editor?docId=6131737&new=true): 一个不可多得的AI智能写作工具，支持实时错误提示，全文改写，翻译，甚至古文改写
+    * [微软爱写作](http://aimwriting.mtutor.engkoo.com/): 利用AI对英文作文进行打分和修改的网站。覆盖8种考试类型
     * [AI对对联](https://ai.binwang.me/couplet/)
   
   * ### 数据库
@@ -347,6 +348,7 @@
 * ## 其他工具
   * [在线尺子](http://achizi.com/): 输入屏幕尺寸和分辨率，生成直尺。
   * [Aconvert](https://www.aconvert.com/pdf): 在线格式转换工具，比如转pdf
+  * [白描网页版](https://web.baimiaoapp.com/): 图片文字提取转pdf
   * [Time.is](https://www.thesaurus.com/): 所有时区的精确时间
   * [printfriendly](https://www.printfriendly.com/): 漂亮地打印网页
   * [拷贝兔](https://cp.anyknew.com/): 一个完全免费的轻量级跨平台文件传输工具，非常实用并且好用。
@@ -358,6 +360,7 @@
   * [北大财务部](https://cwfw.pku.edu.cn/): 可以查工资奖学金信息
   * [地铁通](http://www.metroman.cn/)
   * [地图选择器](http://datav.aliyun.com/tools/atlas/)：可以下载到各省，各市，各县的svg格式的地图素材。这些素材导入PPT中都是可以编辑的。可以单独更改颜色和轮廓。
+  * [中国色](http://zhongguose.com/): 中国传统颜色色彩搭配网站
   
   
 
