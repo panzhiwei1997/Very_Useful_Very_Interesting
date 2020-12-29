@@ -306,10 +306,11 @@
 
 * ## 图片
   * [免费照片](https://github.com/ruanyf/weekly/blob/master/docs/free-photos.md)
+  * [Pexels](https://www.pexels.com/zh-cn/): 这也是一个高质量的图片网站，资源非常丰富，免费的，无版权的。这个网站除了可以下载图片，还可以下载视频。
   * [Wallhaven](https://wallhaven.cc/): 免费壁纸
   * [WallpaperHub](https://wallpaperhub.app/): 免费壁纸
   * [Paper Quilling Art](https://pissang.github.io/paper-quilling-art/): 一款衍纸艺术生成器
-
+  * [iconfont](https://www.iconfont.cn/): 中国第一个最大且功能最全的矢量图标库，总共有875万个图标。
 
 
 
