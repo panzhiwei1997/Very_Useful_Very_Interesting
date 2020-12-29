@@ -306,6 +306,8 @@
 * ## 图片
   * [免费照片](https://github.com/ruanyf/weekly/blob/master/docs/free-photos.md)
   * [Wallhaven](https://wallhaven.cc/): 免费壁纸
+  * [WallpaperHub](https://wallpaperhub.app/): 免费壁纸
+
 
 
 
