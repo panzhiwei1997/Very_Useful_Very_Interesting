@@ -34,7 +34,7 @@
   * [文献与电子书](#文献与电子书)
   * [Office](#Office)
   * [Latex](#Latex)
-  * [思维导图](#思维导图)
+  * [思维导图与海报](#思维导图与海报)
   * [教程](#文档编辑教程)
 * [**休闲**](#休闲)
   * [游戏](#游戏)
@@ -264,9 +264,10 @@
   * [LaTeX and HTML中的特殊符号](http://www.stevesque.com/symbols/)
   * [LaTeX中的特殊符号](https://en.wikibooks.org/wiki/LaTeX/Special_Characters)
 
-* ## 思维导图
+* ## 思维导图与海报
   * [GitMind](https://gitmind.cn/):在线思维导图、流程图制作
-
+  * [Canva](https://www.canva.cn/):在线设计平台。这个平台上有大量的设计模板，比如最常用的海报、PPT等模板。
+  
 * ## 文档编辑教程
   * [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
 
@@ -307,6 +308,8 @@
   * [免费照片](https://github.com/ruanyf/weekly/blob/master/docs/free-photos.md)
   * [Wallhaven](https://wallhaven.cc/): 免费壁纸
   * [WallpaperHub](https://wallpaperhub.app/): 免费壁纸
+  * [Paper Quilling Art](https://pissang.github.io/paper-quilling-art/): 一款衍纸艺术生成器
+
 
 
 
