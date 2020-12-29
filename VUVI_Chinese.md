@@ -339,6 +339,9 @@
   * [BiliBili Evolved](https://github.com/the1812/Bilibili-Evolved/blob/master/features.md)
   * [北大财务部](https://cwfw.pku.edu.cn/): 可以查工资奖学金信息
   * [地铁通](http://www.metroman.cn/)
+  * [地图选择器](http://datav.aliyun.com/tools/atlas/)：可以下载到各省，各市，各县的svg格式的地图素材。这些素材导入PPT中都是可以编辑的。可以单独更改颜色和轮廓。
+  
+  
 
 * ## 课程
   * [贵校课程资料民间整理](https://github.com/lib-pku/libpku)
