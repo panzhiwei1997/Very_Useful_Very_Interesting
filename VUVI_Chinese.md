@@ -36,9 +36,10 @@
   * [Latex](#Latex)
   * [思维导图](#思维导图)
   * [教程](#文档编辑教程)
-* [**娱乐**](#娱乐)
+* [**休闲**](#休闲)
   * [游戏](#游戏)
   * [影音](#影音)
+  * [图片](#图片)
 * [**其他**](#其他)
   * [其他工具](#其他工具)
   * [课程](#课程)
@@ -209,7 +210,7 @@
   * ### 数据库
     * [中文科幻数据库](https://csfdb.scifi-wiki.com/)
     * [最全中文诗歌古典文集数据库](https://github.com/chinese-poetry/chinese-poetry)
-
+    * [科技爱好者周刊](https://github.com/ruanyf/weekly)
 
 
 
@@ -243,9 +244,11 @@
 # 文档
 * ## 文献与电子书
   * [Library Genesis](http://gen.lib.rus.ec/): 一个很强大的电子书下载网站
-  * [SciHub](https://tool.yovisun.com/scihub/): 一个文献下载网站的可用网址集合
   * [免费电子书](https://github.com/ruanyf/free-books)
+  * [SciHub](https://tool.yovisun.com/scihub/): 一个文献下载网站的可用网址集合
   * [全国图书馆参考咨询联盟](http://www.ucdrs.superlib.net/):它不仅支持搜索论文，还支持搜索书籍、期刊、论文、报纸、标准、科技报告。它甚至还支持搜索音视频
+  * [Oalib](https://www.oalib.com/): 一个完全免费的论文搜索网站。
+  * [联图云光盘](http://discx.yuntu.io/): 一个宝藏书籍光盘网站，它收录了126450张书籍光盘  
 
 
 * ## Office
@@ -286,7 +289,7 @@
 
 
 
-# 娱乐
+# 休闲
 * ## 游戏
   * [我的桌游收藏](https://github.com/panzhiwei1997/MyBoardGames/blob/main/Introduction.md) 
   * [小霸王在线游戏](https://www.yikm.net/)
@@ -297,11 +300,12 @@
   * [Listen 1](https://github.com/listen1/listen1_chrome_extension)：搜歌听歌，就用Listen1。
   * [岳云鹏孙越爆笑相声合辑](https://www.ximalaya.com/xiangsheng/11219907/)
   * [免费音乐](https://github.com/ruanyf/weekly/blob/master/docs/free-music.md)
+  * [IPTV资源](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8): 直播源相关资源汇总
+  * [Mixkit](https://mixkit.co/)：网站免费提供了丰富的视频和动画素材
 
-
-
-
-
+* ## 图片
+  * [免费照片](https://github.com/ruanyf/weekly/blob/master/docs/free-photos.md)
+  * [Wallhaven](https://wallhaven.cc/): 免费壁纸
 
 
 
@@ -343,12 +347,6 @@
 
 * ## 资源
   * [Greasy Fork](https://greasyfork.org/zh-CN): 一个提供浏览器用户脚本的网站。
-  * [联图云光盘](http://discx.yuntu.io/): 一个宝藏书籍光盘网站，它收录了126450张书籍光盘
-  * [IPTV资源](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8): 直播源相关资源汇总
-  * [科技爱好者周刊](https://github.com/ruanyf/weekly)
-  * [免费照片](https://github.com/ruanyf/weekly/blob/master/docs/free-photos.md)
-  * [Wallhaven](https://wallhaven.cc/): 免费壁纸
-  * [Mixkit](https://mixkit.co/)：网站免费提供了丰富的视频和动画素材
   * [免费软件](https://github.com/ruanyf/weekly/blob/master/docs/free-software.md)
   * [Fosshub](https://www.fosshub.com/): 免费软件
   * [Slant](https://www.slant.co/): 一个帮助你找到最好的产品和工具的一个实用网站
