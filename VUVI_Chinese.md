@@ -28,9 +28,10 @@
   * [化学](#化学)
   * [文学](#文学)
     * [工具](#工具)
-    * [数据库与资源](#数据库与资源)
+    * [数据库](#数据库与资源)
   * [心理学](#心理学)
 * [**文档**](#文档)
+  * [文献与电子书](#文献与电子书)
   * [Office](#Office)
   * [Latex](#Latex)
   * [思维导图](#思维导图)
@@ -170,6 +171,7 @@
   * [English-corpora](https://www.english-corpora.org/coca/): 可以确保你的英语词组搭配不chinglish
   * [A collection of English corpora](http://corpus.leeds.ac.uk/protected/query.html)
   * [杜克大学学术写作课程](https://sites.duke.edu/scientificwriting/)
+  * [英语台词社](http://www.taicishe.com/): 它支持强大的台词分类功能，包括：热门电影台词、豆瓣高分电影台词、热门英文电视剧台词、豆瓣高分英文剧台词。
 
 
 
@@ -204,12 +206,9 @@
     * [秘塔写作猫](https://xiezuocat.com/#/editor?docId=6131737&new=true): 一个不可多得的AI智能写作工具，支持实时错误提示，全文改写，翻译，甚至古文改写
     * [AI对对联](https://ai.binwang.me/couplet/)
   
-  * ### 数据库与资源
+  * ### 数据库
     * [中文科幻数据库](https://csfdb.scifi-wiki.com/)
     * [最全中文诗歌古典文集数据库](https://github.com/chinese-poetry/chinese-poetry)
-    * [Library Genesis](http://gen.lib.rus.ec/): 一个很强大的电子书下载网站
-    * [SciHub](https://tool.yovisun.com/scihub/): 一个文献下载网站的可用网址集合
-    * [免费电子书](https://github.com/ruanyf/free-books)
 
 
 
@@ -242,10 +241,18 @@
 
 
 # 文档
+* ## 文献与电子书
+  * [Library Genesis](http://gen.lib.rus.ec/): 一个很强大的电子书下载网站
+  * [SciHub](https://tool.yovisun.com/scihub/): 一个文献下载网站的可用网址集合
+  * [免费电子书](https://github.com/ruanyf/free-books)
+  * [全国图书馆参考咨询联盟](http://www.ucdrs.superlib.net/):它不仅支持搜索论文，还支持搜索书籍、期刊、论文、报纸、标准、科技报告。它甚至还支持搜索音视频
+
+
 * ## Office
   * [PPT超级市场](http://ppt.sotary.com/web/wxapp/index.html): 一个很干净的免费ppt下载网站
   * [第一PPT](http://www.1ppt.com/): 免费ppt下载网站
   * [OfficePlus](http://www.officeplus.cn/Template/Home.shtml): 官方模版网站，需要登陆账号
+  * [懒人Excel](https://www.lanrenexcel.com/): 一个非常好用并且完全免费的 Excel 学习网站
 
 * ## Latex
   * [overleaf](https://www.overleaf.com/): 在线Latex编辑
