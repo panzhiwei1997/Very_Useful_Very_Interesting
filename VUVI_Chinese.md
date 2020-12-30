@@ -72,6 +72,7 @@
     * [ADS](https://ui.adsabs.harvard.edu/): 天文文献网站
     * [Arxiv](http://cn.arxiv.org/): 文献预印本网站
     * [Strasbourg(CDS数据库)](http://cdsportal.u-strasbg.fr/): SIMBAD, VIZIER...
+    * [Astro Data Lab](https://datalab.noao.edu/)
     * [SDSS SAS](https://data.sdss.org/sas/): SDSS 数据存储网站
     * [ASD原子光谱数据库](https://physics.nist.gov/PhysRefData/ASD/lines_form.html):可用于查谱线
     * [影响因子数据库](https://academic-accelerator.com/Impact-Factor-IF/zh-CN/The-Astrophysical-Journal-Supplement-Series)
@@ -142,6 +143,7 @@
 
   * ### Python包
     * [Numpy](https://numpy.org/)
+    * [Matplotlib](https://matplotlib.org/)
     * [Astropy](https://www.astropy.org/)
     * [Astroquery](https://astroquery.readthedocs.io/en/latest/index.html): 写query
     * [sfdmap](https://github.com/kbarbary/sfdmap): 消光map
@@ -150,6 +152,10 @@
     * [ParaMonte: Parallel Monte Carlo Library](https://www.cdslab.org/paramonte/notes/overview/preface/)
     * [PyHammer](https://github.com/BU-hammerTeam/PyHammer)：恒星光谱证认
     * [DESK: Dusty-Evolved-Star-Kit](https://github.com/s-goldman/Dusty-Evolved-Star-Kit): 拟合DES
+    * [PyQSOFit](https://github.com/legolason/PyQSOFit)：拟合类星体光谱
+    * [RedMonster](https://github.com/timahutchinson/redmonster):测量光谱红移
+
+
 
   * ### 课程与资源
     * [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
@@ -333,6 +339,7 @@
 
 # 学校
 * ## 北京大学
+  * [科维理天体物理研究所：KIAA](http://kiaa.pku.edu.cn/): 
   * [北大财务部](https://cwfw.pku.edu.cn/): 可以查工资奖学金信息
   * [北大空间](https://bdkj.pku.edu.cn/):可以预定小教室
   * [智慧场馆](https://epe.pku.edu.cn/venue/PKU/home):可以预定场地
