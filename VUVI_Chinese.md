@@ -61,6 +61,7 @@
 * ## 天文
   * ### 获取信息
     * [CSST信息概述](https://github.com/CSSTsci/GalaxyAGN_science_discussion/wiki/CSST-Summary)
+    * [Interesting_Astro_Wiki](https://github.com/panzhiwei1997/Very_Useful_Very_Interesting/wiki/Interesting_Astro_Arxiv):分享讨论今日有趣的arxiv文章
     * [饕餮](https://taotie.readthedocs.io/en/latest/index.html): 黄崧的一个非常非常非常强的天文资源整理网站。
     * [物理、天文学常数](http://www.astro.wisc.edu/~dolan/constants.html)
     * [COSMOS](https://astronomy.swin.edu.au/cosmos/): 一个类似天文学词典的网站
