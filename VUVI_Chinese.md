@@ -41,7 +41,8 @@
   * [思维导图与海报](#思维导图与海报)
   * [教程](#文档编辑教程)
 * [**休闲**](#休闲)
-  * [游戏](#游戏)
+  * [桌游](#桌游)
+  * [电子游戏](#电子游戏)
   * [影音](#影音)
   * [图片](#图片)
 * [**学校**](#学校)
@@ -313,8 +314,11 @@
 
 
 # 休闲
-* ## 游戏
-  * [我的桌游收藏](https://github.com/panzhiwei1997/MyBoardGames/blob/main/Introduction.md) 
+* ## 桌游
+  * [我的桌游收藏](https://github.com/panzhiwei1997/MyBoardGames/blob/main/Introduction.md)
+  * [桌游中常见的游戏机制](https://www.gameres.com/313588.html)
+  
+* ## 电子游戏
   * [小霸王在线游戏](https://www.yikm.net/)
   * [网易云游戏平台](https://cg.163.com/#/mobile)
   * [daniwell official website](https://aidn.jp/): 一个莫名其妙的沙雕网站
