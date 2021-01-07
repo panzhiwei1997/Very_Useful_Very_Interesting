@@ -65,6 +65,7 @@
     * [Interesting_Astro_Wiki](https://github.com/panzhiwei1997/Very_Useful_Very_Interesting/wiki/Interesting_Astro_Arxiv):分享讨论今日有趣的arxiv文章
     * [饕餮](https://taotie.readthedocs.io/en/latest/index.html): 黄崧的一个非常非常非常强的天文资源整理网站。
     * [物理、天文学常数](http://www.astro.wisc.edu/~dolan/constants.html)
+    * [天文学名词](https://nadc.china-vo.org/astrodict/): 官方天文英汉词典
     * [COSMOS](https://astronomy.swin.edu.au/cosmos/): 一个类似天文学词典的网站
     * [天体物理词典](http://eaa.crcpress.com/default.asp)
     * [astroparticle.online](https://astroparticle.online/standard-model/)：标准粒子模型
@@ -83,6 +84,8 @@
     * [影响因子数据库](https://academic-accelerator.com/Impact-Factor-IF/zh-CN/The-Astrophysical-Journal-Supplement-Series)
     * [JINAbase](https://jinabase.pythonanywhere.com/index): 贫金属恒星数据库
     * [LASD](http://lasd.lyman-alpha.com/): Lyman Alpha 星系数据库
+    * [火星与冥王星陨石坑](https://nadc.china-vo.org/skyviewer/planet/#/mars)
+
 
   * ### 在线工具
     * [SDSSDR16 explorer](http://skyserver.sdss.org/dr16/en/tools/explore/summary.aspx)
@@ -91,12 +94,14 @@
     * [Astrometry.net](http://astrometry.net/): 图像匹配天区位置
     * [Altitude/Azimuth of Stars](https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/horizontal_rhip_en.cgi)
     * [宇宙学计算器](https://ned.ipac.caltech.edu/help/cosmology_calc.html)
+    * [双星系粒子模拟](https://wienkers.com/resources/particle-simulation/galaxy/)
     * [积分计算器](https://www.wolframalpha.com/calculators/integral-calculator)
     * [Desmos](https://www.desmos.com/calculator?lang=zh-CN): 函数画图
     * [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/): 提取图像中的数据点
     * [nbviewer](https://nbviewer.jupyter.org/): Github打开notebook经常会卡或者失败，把链接复制到这个网站可以很快打开。
 
   * ### 教程与课程
+    * [AstroBaki](https://casper.ssl.berkeley.edu/astrobaki/index.php/Main_Page):有很多天文lecture 
     * [Astroplotlib](http://astroplotlib.stsci.edu/): 天文图像范例
     * [系外天文学课程资料](http://people.virginia.edu/~dmw8f/astr5630/Topic07/Lecture_7.html): 来自弗吉尼亚大学
     * [AstroBetter](https://www.astrobetter.com/): 专业天文学家的技巧分享
@@ -111,6 +116,7 @@
   * ### 天文学者主页
     * [傅煜铭](https://yumingfu.space/)
     * [江林华](http://kavli.pku.edu.cn/~jiang/index.html)
+    * [王然](http://kavli.pku.edu.cn/~rwang/)
     * [李立新](http://kavli.pku.edu.cn/~lxl/professional/html/links.html):内有丰富的推荐网站
     * [邵立晶](https://friendshao.github.io/about/)
     * [Yue Shen](http://quasar.astro.illinois.edu/)
@@ -119,6 +125,7 @@
     * [KIAAGravity](https://kiaagravity.github.io/)
     * [Antony Lewis](https://cosmologist.info/): 宇宙学相关
     * [David H. Weinberg](http://www.astronomy.ohio-state.edu/~dhw/): 宇宙学、星系相关
+    * [Richard W. Pogge](http://www.astronomy.ohio-state.edu/~pogge/): 内有丰富课程资料
 
   * ### 天文学者的Github
     * [Zhiwei Pan](https://github.com/panzhiwei1997)
@@ -193,7 +200,7 @@
   * [A collection of English corpora](http://corpus.leeds.ac.uk/protected/query.html)
   * [杜克大学学术写作课程](https://sites.duke.edu/scientificwriting/)
   * [英语台词社](http://www.taicishe.com/): 它支持强大的台词分类功能，包括：热门电影台词、豆瓣高分电影台词、热门英文电视剧台词、豆瓣高分英文剧台词。
-
+  * [可扩充词库的英语词典软件](http://blog.sina.com.cn/s/blog_71d6b76b0102weeu.html)
 
 
 
@@ -319,6 +326,9 @@
   * [桌游中常见的游戏机制](https://www.gameres.com/313588.html)
   
 * ## 电子游戏
+
+
+  * [steam社区翻墙](https://www.dogfight360.com/blog/686/)
   * [小霸王在线游戏](https://www.yikm.net/)
   * [网易云游戏平台](https://cg.163.com/#/mobile)
   * [daniwell official website](https://aidn.jp/): 一个莫名其妙的沙雕网站
@@ -351,6 +361,7 @@
   * [北大财务部](https://cwfw.pku.edu.cn/): 可以查工资奖学金信息
   * [北大空间](https://bdkj.pku.edu.cn/):可以预定小教室
   * [智慧场馆](https://epe.pku.edu.cn/venue/PKU/home):可以预定场地
+
 
 
 
