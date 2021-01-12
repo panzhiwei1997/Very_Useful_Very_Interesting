@@ -90,6 +90,7 @@
   * ### 在线工具
     * [SDSSDR16 explorer](http://skyserver.sdss.org/dr16/en/tools/explore/summary.aspx)
     * [SDSS casjob](http://skyserver.sdss.org/CasJobs/)
+    * [SciServer](https://www.sciserver.org/about/)：是上面那个casjob的主页，还支持在线计算，分享文件等功能。[pdf](https://ui.adsabs.harvard.edu/abs/2020A%26C....3300412T/abstract)
     * [CMD](http://stev.oapd.inaf.it/cgi-bin/cmd): 恒星演化轨迹
     * [Astrometry.net](http://astrometry.net/): 图像匹配天区位置
     * [Altitude/Azimuth of Stars](https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/horizontal_rhip_en.cgi)
@@ -425,7 +426,7 @@
 
 
 ## 致谢
-感谢周泰，辛依倩，黄崧，李立新，张路路，余捻坤，林小靖，庄明阳，吕澈秋，刘畅，李嘉轩，徐伟伟，傅煜铭，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，
+感谢周泰，辛依倩，黄崧，李立新，张路路，余捻坤，林小靖，庄明阳，吕澈秋，徐伟伟，刘畅，李嘉轩，傅煜铭，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，
 韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫。
 
 感谢以上所有网站的作者！
