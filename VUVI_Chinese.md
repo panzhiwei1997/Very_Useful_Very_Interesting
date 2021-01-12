@@ -166,6 +166,15 @@
     * [DESK: Dusty-Evolved-Star-Kit](https://github.com/s-goldman/Dusty-Evolved-Star-Kit): 拟合DES
     * [PyQSOFit](https://github.com/legolason/PyQSOFit)：拟合类星体光谱
     * [RedMonster](https://github.com/timahutchinson/redmonster):测量光谱红移
+    * [Michele Cappellari Python and IDL Programs](https://www-astro.physics.ox.ac.uk/~mxc/software/):
+      * 1MgeFit: to fit Multi-Gaussian Expansion (MGE) models to galaxy images, to be used as a parametrization for galaxy photometry
+      * JAM: to construct Jeans Anisotropic Models for the stellar kinematics of axisymmetric galaxies
+      * VorBin: to perform adaptive Voronoi spatial binning of Integral-Field Spectroscopy, X-ray or imaging data, to reach a chosen constant signal-to-noise ratio           per bin
+      * pPXF: to extract the galaxy stellar or gas kinematics or stellar population from absorption-line spectra
+      * PaFit: to measure the global galaxy kinematical axis from integral field observations
+      * LtsFit: to robustly fit a plane or a line to data with intrinsic scatter
+      * LOESS: to uncover mean trends from noisy one-dimensional or two-dimensional data using the LOESS approach.
+      * AdaMet: An Adaptive Metropolis package for Bayesian analisys.
 
 
 
