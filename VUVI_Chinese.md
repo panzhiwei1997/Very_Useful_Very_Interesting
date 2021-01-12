@@ -90,7 +90,7 @@
   * ### 在线工具
     * [SDSSDR16 explorer](http://skyserver.sdss.org/dr16/en/tools/explore/summary.aspx)
     * [SDSS casjob](http://skyserver.sdss.org/CasJobs/)
-    * [SciServer](https://www.sciserver.org/about/)：是上面那个casjob的主页，还支持在线计算，分享文件等功能。[pdf](https://ui.adsabs.harvard.edu/abs/2020A%26C....3300412T/abstract)
+    * [SciServer](https://www.sciserver.org/about/)：是上面那个casjob的主页，还支持在线计算，分享文件等功能。[(pdf)](https://ui.adsabs.harvard.edu/abs/2020A%26C....3300412T/abstract)
     * [CMD](http://stev.oapd.inaf.it/cgi-bin/cmd): 恒星演化轨迹
     * [Astrometry.net](http://astrometry.net/): 图像匹配天区位置
     * [Altitude/Azimuth of Stars](https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/horizontal_rhip_en.cgi)
