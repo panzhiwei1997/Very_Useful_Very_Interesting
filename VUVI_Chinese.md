@@ -282,11 +282,13 @@
 # 文档
 * ## 文献与电子书
   * [Library Genesis](http://gen.lib.rus.ec/): 一个很强大的电子书下载网站
-  * [免费电子书](https://github.com/ruanyf/free-books)
   * [SciHub](https://tool.yovisun.com/scihub/): 一个文献下载网站的可用网址集合
   * [全国图书馆参考咨询联盟](http://www.ucdrs.superlib.net/):它不仅支持搜索论文，还支持搜索书籍、期刊、论文、报纸、标准、科技报告。它甚至还支持搜索音视频
   * [Oalib](https://www.oalib.com/): 一个完全免费的论文搜索网站。
   * [联图云光盘](http://discx.yuntu.io/): 一个宝藏书籍光盘网站，它收录了126450张书籍光盘  
+  * [免费电子书](https://github.com/ruanyf/free-books)
+  * [鸠摩搜书](https://www.jiumodiary.com/)：电子书搜索引擎
+
 
 
 * ## Office
@@ -427,7 +429,7 @@
 
 ## 致谢
 感谢周泰，辛依倩，黄崧，李立新，张路路，余捻坤，林小靖，庄明阳，吕澈秋，徐伟伟，刘畅，李嘉轩，傅煜铭，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，
-韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫。
+韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东。
 
 感谢以上所有网站的作者！
 
