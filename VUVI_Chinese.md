@@ -51,7 +51,7 @@
   * [其他工具](#其他工具)
   * [课程](#课程)
   * [资源](#资源)
-  * [其他教程](#其他教程)
+  * [攻略](#攻略)
 * [致谢](#致谢)
 * [未完待续](#未完待续)
 &nbsp;
@@ -419,7 +419,8 @@
   * [Fosshub](https://www.fosshub.com/): 免费软件
   * [Slant](https://www.slant.co/): 一个帮助你找到最好的产品和工具的一个实用网站
 
-* ## 其他教程
+* ## 攻略
+  * [MOVIsicOOD](https://github.com/panzhiwei1997/MOVIsicOOD):一个发烧友的影评和食评
   * [买房购房知识](https://github.com/houshanren/hangzhou_house_knowledge)
   * [围棋教程](https://tieba.baidu.com/p/3413670740?red_tag=0900211857)
   * [WallesPKU](https://blog.wallesspku.space/blog/post/hiaoxui/clash-zh): 无障碍浏览国外网站
