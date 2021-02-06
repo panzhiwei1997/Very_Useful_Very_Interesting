@@ -80,6 +80,7 @@
     * [Strasbourg(CDS数据库)](http://cdsportal.u-strasbg.fr/): SIMBAD, VIZIER...
     * [Astro Data Lab](https://datalab.noao.edu/)
     * [SDSS SAS](https://data.sdss.org/sas/): SDSS 数据存储网站
+    * [Filter Profile Service](http://svo2.cab.inta-csic.es/svo/theory/fps/): 望远镜filter数据库
     * [ASD原子光谱数据库](https://physics.nist.gov/PhysRefData/ASD/lines_form.html):可用于查谱线
     * [影响因子数据库](https://academic-accelerator.com/Impact-Factor-IF/zh-CN/The-Astrophysical-Journal-Supplement-Series)
     * [JINAbase](https://jinabase.pythonanywhere.com/index): 贫金属恒星数据库
