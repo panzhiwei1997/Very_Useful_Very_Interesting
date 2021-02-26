@@ -392,6 +392,8 @@
 * ## 其他工具
   * [在线尺子](http://achizi.com/): 输入屏幕尺寸和分辨率，生成直尺。
   * [Aconvert](https://www.aconvert.com/pdf): 在线格式转换工具，比如转pdf
+  * [Convertio](https://convertio.co/zh/): 在线格式转换工具
+  * [office-converter](https://cn.office-converter.com/): 在线格式转换工具
   * [白描网页版](https://web.baimiaoapp.com/): 图片文字提取转pdf
   * [Time.is](https://www.thesaurus.com/): 所有时区的精确时间
   * [printfriendly](https://www.printfriendly.com/): 漂亮地打印网页
