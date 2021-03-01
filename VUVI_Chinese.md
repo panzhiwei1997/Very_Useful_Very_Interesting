@@ -82,6 +82,7 @@
     * [SDSS SAS](https://data.sdss.org/sas/): SDSS 数据存储网站
     * [Filter Profile Service](http://svo2.cab.inta-csic.es/svo/theory/fps/): 望远镜filter数据库
     * [ASD原子光谱数据库](https://physics.nist.gov/PhysRefData/ASD/lines_form.html):可用于查谱线
+    * [Unified Astronomy Thesaurus (UAT)](https://astrothesaurus.org/concept-select/):标准化论文关键词的数据库
     * [影响因子数据库](https://academic-accelerator.com/Impact-Factor-IF/zh-CN/The-Astrophysical-Journal-Supplement-Series)
     * [JINAbase](https://jinabase.pythonanywhere.com/index): 贫金属恒星数据库
     * [LASD](http://lasd.lyman-alpha.com/): Lyman Alpha 星系数据库
@@ -103,6 +104,7 @@
     * [nbviewer](https://nbviewer.jupyter.org/): Github打开notebook经常会卡或者失败，把链接复制到这个网站可以很快打开。
 
   * ### 教程与课程
+    * [AASTeX Guide](https://journals.aas.org/aastexguide/):论文模版教程
     * [AstroBaki](https://casper.ssl.berkeley.edu/astrobaki/index.php/Main_Page):有很多天文lecture 
     * [Astroplotlib](http://astroplotlib.stsci.edu/): 天文图像范例
     * [系外天文学课程资料](http://people.virginia.edu/~dmw8f/astr5630/Topic07/Lecture_7.html): 来自弗吉尼亚大学
