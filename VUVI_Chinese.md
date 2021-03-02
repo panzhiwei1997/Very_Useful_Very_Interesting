@@ -376,7 +376,7 @@
   * [北大财务部](https://cwfw.pku.edu.cn/): 可以查工资奖学金信息
   * [北大空间](https://bdkj.pku.edu.cn/):可以预定小教室
   * [智慧场馆](https://epe.pku.edu.cn/venue/PKU/home):可以预定场地
-
+  * [北大课表](http://dean.pku.edu.cn/pkudean/course/kcbzy.php?xs=001&xn=20-21&xq=2)
 
 
 
