@@ -285,7 +285,8 @@
 # 文档
 * ## 文献与电子书
   * [Library Genesis](http://gen.lib.rus.ec/): 一个很强大的电子书下载网站
-  * [SciHub](https://tool.yovisun.com/scihub/): 一个文献下载网站的可用网址集合
+  * [Springer Link](https://link.springer.com/): 很多免费的电子书
+  * [SciHub](https://tool.yovisun.com/scihub/): 一个文献下载网站Scihub的国内可用网址集合
   * [全国图书馆参考咨询联盟](http://www.ucdrs.superlib.net/):它不仅支持搜索论文，还支持搜索书籍、期刊、论文、报纸、标准、科技报告。它甚至还支持搜索音视频
   * [Oalib](https://www.oalib.com/): 一个完全免费的论文搜索网站。
   * [联图云光盘](http://discx.yuntu.io/): 一个宝藏书籍光盘网站，它收录了126450张书籍光盘  
