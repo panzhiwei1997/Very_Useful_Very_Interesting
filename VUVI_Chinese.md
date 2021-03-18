@@ -48,7 +48,8 @@
 * [**学校**](#学校)
   * [北京大学](#北京大学)
 * [**其他**](#其他)
-  * [其他工具](#其他工具)
+  * [工具箱](#工具箱)
+  * [工具](#工具-1)
   * [课程](#课程)
   * [资源](#资源)
   * [攻略](#攻略)
@@ -392,7 +393,7 @@
   * [网易见外](https://jianwai.youdao.com/index/0): 一个工具箱，每天2小时免费视频翻译、文档翻译。
   * [毛若昕的主页](https://maorx.cn/): 有一些有趣的工具
 
-* ## 其他工具
+* ## 工具
   * [在线尺子](http://achizi.com/): 输入屏幕尺寸和分辨率，生成直尺。
   * [Aconvert](https://www.aconvert.com/pdf): 在线格式转换工具，比如转pdf
   * [Convertio](https://convertio.co/zh/): 在线格式转换工具
@@ -409,7 +410,7 @@
   * [地铁通](http://www.metroman.cn/)
   * [地图选择器](http://datav.aliyun.com/tools/atlas/)：可以下载到各省，各市，各县的svg格式的地图素材。这些素材导入PPT中都是可以编辑的。可以单独更改颜色和轮廓。
   * [中国色](http://zhongguose.com/): 中国传统颜色色彩搭配网站
-  
+  * [世界大学排名查询](https://www.forwardpathway.com/worldranking)
   
 
 * ## 课程
