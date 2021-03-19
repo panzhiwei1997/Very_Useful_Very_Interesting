@@ -74,6 +74,7 @@
     * [空间天文手册](http://ads.harvard.edu/books/hsaa/toc.html)
     * [AAS Job Register](https://jobregister.aas.org): 找天文学工作
     * [AstroBites](https://astrobites.org/): 天文读者文摘
+    * [Observatory Statuses](http://treasuremap.space/status): 疫情期间望远镜信息
 
   * ### 数据库
     * [ADS](https://ui.adsabs.harvard.edu/): 天文文献网站
@@ -109,6 +110,7 @@
     * [AstroBaki](https://casper.ssl.berkeley.edu/astrobaki/index.php/Main_Page):有很多天文lecture 
     * [Astroplotlib](http://astroplotlib.stsci.edu/): 天文图像范例
     * [系外天文学课程资料](http://people.virginia.edu/~dmw8f/astr5630/Topic07/Lecture_7.html): 来自弗吉尼亚大学
+    * [ISM课程资料](http://ganymede.nmsu.edu/cwc/Teaching/ASTR605/read.html): 来自NXMU的CHRISTOPHER W CHURCHILL
     * [AstroBetter](https://www.astrobetter.com/): 专业天文学家的技巧分享
     * [Press release的指导](https://www.spacetelescope.org/about_us/scientist_guidelines/#1)
 
@@ -437,10 +439,12 @@
 
 
 ## 致谢
-感谢周泰，辛依倩，黄崧，李立新，林小靖，张路路，余捻坤，庄明阳，吕澈秋，徐伟伟，刘畅，李嘉轩，傅煜铭，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，
+感谢周泰，林小婧，黄崧，李立新，张路路，余捻坤，庄明阳，吕澈秋，徐伟伟，刘畅，李嘉轩，傅煜铭，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，
 韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东。
 
 感谢以上所有网站的作者！
+
+感谢辛依倩！
 
 
 
