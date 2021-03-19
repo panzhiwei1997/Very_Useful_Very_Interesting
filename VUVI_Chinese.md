@@ -414,6 +414,7 @@
   
 
 * ## 课程
+  * [蔻享](https://www.koushare.com/):很多高校的课程录屏
   * [贵校课程资料民间整理](https://github.com/lib-pku/libpku)
   * [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
   * [上海交通大学课程分享](https://github.com/c-hj/SJTU-Courses)
