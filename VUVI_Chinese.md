@@ -19,7 +19,7 @@
     * [教程与课程](#教程与课程)
     * [望远镜与巡天](#望远镜与巡天)
     * [天文学者主页](#天文学者主页)
-    * [天文学者的Github](#天文学者的Github)
+    * [天文学者/学生的Github](#天文学者/学生的Github)
     * [软件](#软件)
   * [计算机](#计算机)
     * [Python文档](#Python文档)
@@ -132,7 +132,7 @@
     * [David H. Weinberg](http://www.astronomy.ohio-state.edu/~dhw/): 宇宙学、星系相关
     * [Richard W. Pogge](http://www.astronomy.ohio-state.edu/~pogge/): 内有丰富课程资料
 
-  * ### 天文学者的Github
+  * ### 天文学者/学生的Github
     * [Zhiwei Pan](https://github.com/panzhiwei1997)
     * [Jin Wu](https://github.com/fmajor)
     * [Cheqiu Lv](https://github.com/StickLyu)
