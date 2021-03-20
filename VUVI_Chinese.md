@@ -201,6 +201,7 @@
     
     
   * ### 教程
+    * [Data To Fish](https://datatofish.com): 有很多语言具体应用的教程，比如python和r怎么做回归。
     * [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer): 程序员指导
     * [Vim 从入门到精通](https://github.com/wsdjeg/vim-galore-zh_cn)
 
@@ -439,7 +440,7 @@
 
 
 ## 致谢
-感谢周泰，林小婧，黄崧，李立新，张路路，余捻坤，庄明阳，吕澈秋，徐伟伟，刘畅，李嘉轩，傅煜铭，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，
+感谢周泰，林小靖，黄崧，张路路，李立新，余捻坤，庄明阳，吕澈秋，徐伟伟，刘畅，李嘉轩，傅煜铭，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，
 韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东。
 
 感谢以上所有网站的作者！
