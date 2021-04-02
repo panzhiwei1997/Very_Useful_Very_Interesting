@@ -129,6 +129,7 @@
     * [Yue Shen](http://quasar.astro.illinois.edu/)
     * [邹虎](http://batc.bao.ac.cn/~zouhu/doku.php?id=projects:start): 内有地外行星python处理教程
     * [黄崧](http://dr-guangtou.github.io/)
+    * [王凯](https://www.kosmoswalker.com/about_me/resource.html)
     * [KIAAGravity](https://kiaagravity.github.io/)
     * [Antony Lewis](https://cosmologist.info/): 宇宙学相关
     * [David H. Weinberg](http://www.astronomy.ohio-state.edu/~dhw/): 宇宙学、星系相关
