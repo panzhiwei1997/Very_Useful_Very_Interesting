@@ -416,6 +416,8 @@
   * [地图选择器](http://datav.aliyun.com/tools/atlas/)：可以下载到各省，各市，各县的svg格式的地图素材。这些素材导入PPT中都是可以编辑的。可以单独更改颜色和轮廓。
   * [中国色](http://zhongguose.com/): 中国传统颜色色彩搭配网站
   * [世界大学排名查询](https://www.forwardpathway.com/worldranking)
+  * [朋友圈转发截图生成工具](https://akarin.dev/WechatMomentScreenshot/?from=singlemessage#mdui-dialog)
+
   
 
 * ## 课程
