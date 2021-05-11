@@ -165,6 +165,8 @@
     * [Numpy](https://numpy.org/)
     * [Matplotlib](https://matplotlib.org/)
     * [Astropy](https://www.astropy.org/)
+    * [EMCEE](https://emcee.readthedocs.io/en/stable/):MCMC
+    * [ZEUS](https://github.com/minaskar/zeus):MCMC
     * [Astroquery](https://astroquery.readthedocs.io/en/latest/index.html): 写query
     * [sfdmap](https://github.com/kbarbary/sfdmap): 消光map
     * [Kapteyn](https://www.astro.rug.nl/software/kapteyn/index.html): 一系列工具
