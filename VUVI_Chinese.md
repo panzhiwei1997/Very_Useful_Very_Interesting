@@ -304,6 +304,7 @@
 
 
 * ## Office
+  * [Prezi](http://prezi.com/): 比ppt酷炫的文稿演示方法
   * [PPT超级市场](http://ppt.sotary.com/web/wxapp/index.html): 一个很干净的免费ppt下载网站
   * [第一PPT](http://www.1ppt.com/): 免费ppt下载网站
   * [iconfont](https://www.iconfont.cn/): 中国第一个最大且功能最全的矢量图标库，总共有875万个图标。做ppt可插入
