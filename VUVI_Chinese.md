@@ -112,6 +112,7 @@
     * [Astroplotlib](http://astroplotlib.stsci.edu/): 天文图像范例
     * [系外天文学课程资料](http://people.virginia.edu/~dmw8f/astr5630/Topic07/Lecture_7.html): 来自弗吉尼亚大学
     * [ISM课程资料](http://ganymede.nmsu.edu/cwc/Teaching/ASTR605/read.html): 来自NXMU的CHRISTOPHER W CHURCHILL
+    * [Galaxy Morphology](http://ned.ipac.caltech.edu/level5/Sept11/Buta/Buta_contents.html)
     * [AstroBetter](https://www.astrobetter.com/): 专业天文学家的技巧分享
     * [Press release的指导](https://www.spacetelescope.org/about_us/scientist_guidelines/#1)
 
