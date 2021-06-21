@@ -117,6 +117,7 @@
     * [Press release的指导](https://www.spacetelescope.org/about_us/scientist_guidelines/#1)
 
   * ### 望远镜与巡天
+    * [CSST](http://www.nao.cas.cn/csst/)
     * [DESI](https://www.desi.lbl.gov/)
     * [LIGO](https://ligo.org)
     * [SKA](https://www.skatelescope.org)
