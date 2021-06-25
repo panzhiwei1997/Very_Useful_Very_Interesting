@@ -424,6 +424,7 @@
   * [中国色](http://zhongguose.com/): 中国传统颜色色彩搭配网站
   * [世界大学排名查询](https://www.forwardpathway.com/worldranking)
   * [朋友圈转发截图生成工具](https://akarin.dev/WechatMomentScreenshot/?from=singlemessage#mdui-dialog)
+  * [ip查询](https://ip.tool.chinaz.com/)
 
   
 
