@@ -163,6 +163,7 @@
     * [Python Colormap表](https://blog.csdn.net/lly1122334/article/details/88535217)
     * [天文数据基础与Python天文技术培训](https://hebl.china-vo.org/course/PIA2020/)
     * [PyGame教程](https://eyehere.net/2011/python-pygame-novice-professional-1/)
+    * [Cigale教程](https://gitlab.lam.fr/ism-of-galaxies-2021/cigale-hands-on-session)
 
   * ### Python包
     * [Numpy](https://numpy.org/)
