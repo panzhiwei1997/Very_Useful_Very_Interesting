@@ -179,6 +179,7 @@
     * [PyHammer](https://github.com/BU-hammerTeam/PyHammer)：恒星光谱证认
     * [DESK: Dusty-Evolved-Star-Kit](https://github.com/s-goldman/Dusty-Evolved-Star-Kit): 拟合DES
     * [PyQSOFit](https://github.com/legolason/PyQSOFit)：拟合类星体光谱
+    * [QSOGEN](https://github.com/MJTemple/qsogen/)：生成类星体SED
     * [RedMonster](https://github.com/timahutchinson/redmonster):测量光谱红移
     * [Michele Cappellari Python and IDL Programs](https://www-astro.physics.ox.ac.uk/~mxc/software/):
       * 1MgeFit: to fit Multi-Gaussian Expansion (MGE) models to galaxy images, to be used as a parametrization for galaxy photometry
