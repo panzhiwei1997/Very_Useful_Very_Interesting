@@ -223,9 +223,12 @@
   * [Maspeak](https://maspeak.com/):一个让你趣味性学习多种语言单词的实用网站，它支持学习的语言包括：法语、英语、西班牙语、意大利语、德语、阿拉语、俄语、韩语、日语。
   * [English-corpora](https://www.english-corpora.org/coca/): 可以确保你的英语词组搭配不chinglish
   * [A collection of English corpora](http://corpus.leeds.ac.uk/protected/query.html)
+  * [uk-us-spelling-list](http://www.tysto.com/uk-us-spelling-list.html)
   * [杜克大学学术写作课程](https://sites.duke.edu/scientificwriting/)
   * [英语台词社](http://www.taicishe.com/): 它支持强大的台词分类功能，包括：热门电影台词、豆瓣高分电影台词、热门英文电视剧台词、豆瓣高分英文剧台词。
   * [可扩充词库的英语词典软件](http://blog.sina.com.cn/s/blog_71d6b76b0102weeu.html)
+
+
 
 
 
@@ -458,7 +461,7 @@
 
 感谢林小靖分享的大量网站！
 
-感谢张路路，黄崧，李立新，余捻坤，庄明阳，吕澈秋，徐伟伟，刘畅，李嘉轩，傅煜铭，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东！
+感谢张路路，黄崧，余捻坤，李立新，庄明阳，吕澈秋，徐伟伟，刘畅，李嘉轩，傅煜铭，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东！
 
 感谢以上所有网站的作者！
 
