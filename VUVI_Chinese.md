@@ -212,7 +212,7 @@
     * [Data To Fish](https://datatofish.com): 有很多语言具体应用的教程，比如python和r怎么做回归。
     * [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer): 程序员指导
     * [Vim 从入门到精通](https://github.com/wsdjeg/vim-galore-zh_cn)
-
+    * [一个人工智能的诞生](https://jibencaozuo.com/zh-Hans/)：交互式机器学习教程
 
 
 
