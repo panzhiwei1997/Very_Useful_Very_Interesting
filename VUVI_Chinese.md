@@ -107,6 +107,7 @@
     * [nbviewer](https://nbviewer.jupyter.org/): Github打开notebook经常会卡或者失败，把链接复制到这个网站可以很快打开。
 
   * ### 教程与课程
+    * [AstroHammer](https://gitmemory.cn/repo/ChenYangyao/project-astro-hammer):Astro Techniques for Beginners
     * [AASTeX Guide](https://journals.aas.org/aastexguide/):论文模版教程
     * [AstroBaki](https://casper.ssl.berkeley.edu/astrobaki/index.php/Main_Page):有很多天文lecture 
     * [Astroplotlib](http://astroplotlib.stsci.edu/): 天文图像范例
