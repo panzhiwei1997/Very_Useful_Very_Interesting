@@ -80,6 +80,8 @@
   * ### 数据库
     * [ADS](https://ui.adsabs.harvard.edu/): 天文文献网站
     * [Arxiv](http://cn.arxiv.org/): 文献预印本网站
+    * [Benty-Fields](https://benty-fields.com/daily_arXiv): 可以给arxiv文章投票，支持机器学习推送文章
+    * [Iarxiv](https://iarxiv.org/login): arxiv分类看
     * [Strasbourg(CDS数据库)](http://cdsportal.u-strasbg.fr/): SIMBAD, VIZIER...
     * [Astro Data Lab](https://datalab.noao.edu/)
     * [SDSS SAS](https://data.sdss.org/sas/): SDSS 数据存储网站
@@ -120,6 +122,7 @@
   * ### 望远镜与巡天
     * [CSST](http://www.nao.cas.cn/csst/)
     * [DESI](https://www.desi.lbl.gov/)
+    * [JWST for scientists](https://www.stsci.edu/jwst/)
     * [LIGO](https://ligo.org)
     * [SKA](https://www.skatelescope.org)
     * [TMT](https://www.tmt.org)
@@ -203,6 +206,7 @@
     * [HelloGitHub](https://github.com/521xueweihan/HelloGitHub): GitHub 上有趣、入门级的开源项目
     * [C++算法大全](https://github.com/TheAlgorithms/C-Plus-Plus)
 
+
   * ### 可视化
     * [花火](https://hanabi.data-viz.cn/index?lang=zh-CN)：中文数据可视化网站，可免费下载为gif和MP4
     * [Flourish](https://flourish.studio/)：国家数据可视化网站，但不可免费下载为gif和MP4  
@@ -211,6 +215,7 @@
     
   * ### 教程
     * [Data To Fish](https://datatofish.com): 有很多语言具体应用的教程，比如python和r怎么做回归。
+    * [Data Visualization A practical introduction](https://socviz.co/)：杜克大学R语言数据科学课本
     * [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer): 程序员指导
     * [Vim 从入门到精通](https://github.com/wsdjeg/vim-galore-zh_cn)
     * [一个人工智能的诞生](https://jibencaozuo.com/zh-Hans/)：交互式机器学习教程
@@ -462,11 +467,11 @@
 
 感谢林小靖分享的大量网站！
 
-感谢张路路，黄崧，余捻坤，李立新，庄明阳，吕澈秋，徐伟伟，刘畅，李嘉轩，傅煜铭，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东！
+感谢张路路，黄崧，余捻坤，李立新，庄明阳，吕澈秋，徐伟伟，刘畅，李嘉轩，傅煜铭，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧！
 
 感谢以上所有网站的作者！
 
-感谢辛依倩！
+感谢女友辛依倩的支持！
 
 
 
