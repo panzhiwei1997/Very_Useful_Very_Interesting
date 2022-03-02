@@ -233,6 +233,7 @@
   * [杜克大学学术写作课程](https://sites.duke.edu/scientificwriting/)
   * [英语台词社](http://www.taicishe.com/): 它支持强大的台词分类功能，包括：热门电影台词、豆瓣高分电影台词、热门英文电视剧台词、豆瓣高分英文剧台词。
   * [可扩充词库的英语词典软件](http://blog.sina.com.cn/s/blog_71d6b76b0102weeu.html)
+  * [Wordle Solver](https://wordfinderx.com/wordle/):Wordle游戏助手，可以筛选包含给定字母给定长度的单词
 
 
 
@@ -366,12 +367,11 @@
   * [桌游中常见的游戏机制](https://www.gameres.com/313588.html)
   
 * ## 电子游戏
-
-
   * [steam社区翻墙](https://www.dogfight360.com/blog/686/)
   * [小霸王在线游戏](https://www.yikm.net/)
   * [网易云游戏平台](https://cg.163.com/#/mobile)
   * [daniwell official website](https://aidn.jp/): 一个莫名其妙的沙雕网站
+  * [Wordle](https://www.nytimes.com/games/wordle/index.html): 猜词游戏Wordle
 
 * ## 影音
   * [Listen 1](https://github.com/listen1/listen1_chrome_extension)：搜歌听歌，就用Listen1。
@@ -412,6 +412,7 @@
 # 其他
 * ## 工具箱
   * [青柠起始页](https://a.maorx.cn/): 好用的主页
+  * [LKS推荐站](https://xiangjianan.gitee.io/lks/):B站up主LKS整理的良心网站合集
   * [热铁盒](https://www.retiehe.com/):实用工具箱
   * [网易见外](https://jianwai.youdao.com/index/0): 一个工具箱，每天2小时免费视频翻译、文档翻译。
   * [毛若昕的主页](https://maorx.cn/): 有一些有趣的工具
