@@ -236,7 +236,7 @@
   * [英语台词社](http://www.taicishe.com/): 它支持强大的台词分类功能，包括：热门电影台词、豆瓣高分电影台词、热门英文电视剧台词、豆瓣高分英文剧台词。
   * [可扩充词库的英语词典软件](http://blog.sina.com.cn/s/blog_71d6b76b0102weeu.html)
   * [Wordle Solver](https://wordfinderx.com/wordle/):Wordle游戏助手，可以筛选包含给定字母给定长度的单词
-
+  * [反向词典](https://wantwords.net/):中英文同义词词典
 
 
 
@@ -392,7 +392,7 @@
   * [Wallhaven](https://wallhaven.cc/): 免费壁纸
   * [WallpaperHub](https://wallpaperhub.app/): 免费壁纸
   * [Paper Quilling Art](https://pissang.github.io/paper-quilling-art/): 一款衍纸艺术生成器
-
+  * [AI生成动漫头像](https://waifulabs.com/generate)
 
 
 
