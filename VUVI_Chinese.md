@@ -107,6 +107,8 @@
     * [Desmos](https://www.desmos.com/calculator?lang=zh-CN): 函数画图
     * [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/): 提取图像中的数据点
     * [nbviewer](https://nbviewer.jupyter.org/): Github打开notebook经常会卡或者失败，把链接复制到这个网站可以很快打开。
+    * [卫星与太空垃圾实时信息](http://stuffin.space/)
+
 
   * ### 教程与课程
     * [AstroHammer](https://gitmemory.cn/repo/ChenYangyao/project-astro-hammer):Astro Techniques for Beginners
@@ -373,6 +375,7 @@
   * [网易云游戏平台](https://cg.163.com/#/mobile)
   * [daniwell official website](https://aidn.jp/): 一个莫名其妙的沙雕网站
   * [Wordle](https://www.nytimes.com/games/wordle/index.html): 猜词游戏Wordle
+  * [全网游戏直播](http://live.yj1211.work/index/home/areas)
 
 * ## 影音
   * [Listen 1](https://github.com/listen1/listen1_chrome_extension)：搜歌听歌，就用Listen1。
@@ -414,10 +417,11 @@
 # 其他
 * ## 工具箱
   * [青柠起始页](https://a.maorx.cn/): 好用的主页
-  * [LKS推荐站](https://xiangjianan.gitee.io/lks/):B站up主LKS整理的良心网站合集
+  * [LKs推荐站](https://xiangjianan.gitee.io/lks/):B站up主LKs整理的良心网站合集
   * [热铁盒](https://www.retiehe.com/):实用工具箱
   * [网易见外](https://jianwai.youdao.com/index/0): 一个工具箱，每天2小时免费视频翻译、文档翻译。
   * [毛若昕的主页](https://maorx.cn/): 有一些有趣的工具
+  * [书签地球](https://www.bookmarkearth.com/): 收藏夹分享网站
 
 * ## 工具
   * [在线尺子](http://achizi.com/): 输入屏幕尺寸和分辨率，生成直尺。
@@ -472,7 +476,7 @@
 ## 致谢
 感谢周泰对该项目初期建设的贡献！
 
-感谢林小靖分享的大量网站！
+感谢林小靖，LKs分享的大量网站！
 
 感谢张路路，黄崧，余捻坤，李立新，庄明阳，吕澈秋，徐伟伟，刘畅，李嘉轩，傅煜铭，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧！
 
