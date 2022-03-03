@@ -319,7 +319,7 @@
   * [联图云光盘](http://discx.yuntu.io/): 一个宝藏书籍光盘网站，它收录了126450张书籍光盘  
   * [免费电子书](https://github.com/ruanyf/free-books)
   * [鸠摩搜书](https://www.jiumodiary.com/)：电子书搜索引擎
-
+  * [zlibrary](https://zh.u1lib.org/)：全球最大数字图书馆
 
 
 * ## Office
@@ -376,7 +376,8 @@
   * [daniwell official website](https://aidn.jp/): 一个莫名其妙的沙雕网站
   * [Wordle](https://www.nytimes.com/games/wordle/index.html): 猜词游戏Wordle
   * [全网游戏直播](http://live.yj1211.work/index/home/areas)
-
+  * [吸血鬼幸存者](https://poncle.itch.io/vampire-survivors)：steam上好评如潮的rouge-lite游戏的网页demo版
+  * 
 * ## 影音
   * [Listen 1](https://github.com/listen1/listen1_chrome_extension)：搜歌听歌，就用Listen1。
   * [岳云鹏孙越爆笑相声合辑](https://www.ximalaya.com/xiangsheng/11219907/)
@@ -419,9 +420,13 @@
   * [青柠起始页](https://a.maorx.cn/): 好用的主页
   * [LKs推荐站](https://xiangjianan.gitee.io/lks/):B站up主LKs整理的良心网站合集
   * [热铁盒](https://www.retiehe.com/):实用工具箱
+  * [即时工具](https://www.67tool.com/):实用工具箱
   * [网易见外](https://jianwai.youdao.com/index/0): 一个工具箱，每天2小时免费视频翻译、文档翻译。
   * [毛若昕的主页](https://maorx.cn/): 有一些有趣的工具
   * [书签地球](https://www.bookmarkearth.com/): 收藏夹分享网站
+
+
+
 
 * ## 工具
   * [在线尺子](http://achizi.com/): 输入屏幕尺寸和分辨率，生成直尺。
@@ -444,7 +449,7 @@
   * [朋友圈转发截图生成工具](https://akarin.dev/WechatMomentScreenshot/?from=singlemessage#mdui-dialog)
   * [ip查询](https://ip.tool.chinaz.com/)
   * [微软文本转语音](https://azure.microsoft.com/zh-cn/services/cognitive-services/text-to-speech/#features)
-
+  * [买购网](https://www.maigoo.com/): 各种各样的十大榜单
 
 
 
