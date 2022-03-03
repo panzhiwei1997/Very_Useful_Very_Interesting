@@ -205,7 +205,7 @@
     * [GitHub中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
     * [HelloGitHub](https://github.com/521xueweihan/HelloGitHub): GitHub 上有趣、入门级的开源项目
     * [C++算法大全](https://github.com/TheAlgorithms/C-Plus-Plus)
-
+    * [CodingFont](https://www.codingfont.com/):帮你选出喜欢的编程字体。
 
   * ### 可视化
     * [花火](https://hanabi.data-viz.cn/index?lang=zh-CN)：中文数据可视化网站，可免费下载为gif和MP4
@@ -276,6 +276,7 @@
     * [中文科幻数据库](https://csfdb.scifi-wiki.com/)
     * [最全中文诗歌古典文集数据库](https://github.com/chinese-poetry/chinese-poetry)
     * [科技爱好者周刊](https://github.com/ruanyf/weekly)
+    * [中国古籍资源库](http://www.nlc.cn/dsb_zyyfw/gj/gjzyk/)
 
 
 
@@ -379,6 +380,7 @@
   * [免费音乐](https://github.com/ruanyf/weekly/blob/master/docs/free-music.md)
   * [IPTV资源](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8): 直播源相关资源汇总
   * [Mixkit](https://mixkit.co/)：网站免费提供了丰富的视频和动画素材
+  * [Video Game Music](https://downloads.khinsider.com/)：免费游戏音乐下载
 
 * ## 图片
   * [在线抠图](https://www.remove.bg/zh/upload)：在线抠图
@@ -437,6 +439,10 @@
   * [世界大学排名查询](https://www.forwardpathway.com/worldranking)
   * [朋友圈转发截图生成工具](https://akarin.dev/WechatMomentScreenshot/?from=singlemessage#mdui-dialog)
   * [ip查询](https://ip.tool.chinaz.com/)
+  * [微软文本转语音](https://azure.microsoft.com/zh-cn/services/cognitive-services/text-to-speech/#features)
+
+
+
 
   
 
