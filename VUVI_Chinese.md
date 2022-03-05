@@ -237,7 +237,7 @@
   * [可扩充词库的英语词典软件](http://blog.sina.com.cn/s/blog_71d6b76b0102weeu.html)
   * [Wordle Solver](https://wordfinderx.com/wordle/):Wordle游戏助手，可以筛选包含给定字母给定长度的单词
   * [反向词典](https://wantwords.net/):中英文同义词词典
-
+  * [zerotohero](https://www.zerotohero.ca/):世界各种语言（包括中国方言）的学习
 
 
 
@@ -273,6 +273,7 @@
     * [秘塔写作猫](https://xiezuocat.com/#/editor?docId=6131737&new=true): 一个不可多得的AI智能写作工具，支持实时错误提示，全文改写，翻译，甚至古文改写
     * [微软爱写作](http://aimwriting.mtutor.engkoo.com/): 利用AI对英文作文进行打分和修改的网站。覆盖8种考试类型
     * [AI对对联](https://ai.binwang.me/couplet/)
+    * [彩云小梦](https://if.caiyunai.com/#/)：AI续写
   
   * ### 数据库
     * [中文科幻数据库](https://csfdb.scifi-wiki.com/)
@@ -377,7 +378,8 @@
   * [Wordle](https://www.nytimes.com/games/wordle/index.html): 猜词游戏Wordle
   * [全网游戏直播](http://live.yj1211.work/index/home/areas)
   * [吸血鬼幸存者](https://poncle.itch.io/vampire-survivors)：steam上好评如潮的rouge-lite游戏的网页demo版
-  * 
+  * [人生重开模拟器](http://liferestart.syaro.io/public/index.html)
+   
 * ## 影音
   * [Listen 1](https://github.com/listen1/listen1_chrome_extension)：搜歌听歌，就用Listen1。
   * [岳云鹏孙越爆笑相声合辑](https://www.ximalaya.com/xiangsheng/11219907/)
@@ -393,6 +395,7 @@
   * [Wallhaven](https://wallhaven.cc/): 免费壁纸
   * [WallpaperHub](https://wallpaperhub.app/): 免费壁纸
   * [Paper Quilling Art](https://pissang.github.io/paper-quilling-art/): 一款衍纸艺术生成器
+  * [SVG背景图在线生成](https://cn.pattern.monster/)
   * [AI生成动漫头像](https://waifulabs.com/generate)
 
 
@@ -424,7 +427,7 @@
   * [网易见外](https://jianwai.youdao.com/index/0): 一个工具箱，每天2小时免费视频翻译、文档翻译。
   * [毛若昕的主页](https://maorx.cn/): 有一些有趣的工具
   * [书签地球](https://www.bookmarkearth.com/): 收藏夹分享网站
-
+  * [优优网](https://uiiiuiii.com/tool/online): 在线神器收集
 
 
 
@@ -450,8 +453,10 @@
   * [ip查询](https://ip.tool.chinaz.com/)
   * [微软文本转语音](https://azure.microsoft.com/zh-cn/services/cognitive-services/text-to-speech/#features)
   * [买购网](https://www.maigoo.com/): 各种各样的十大榜单
-
-
+  * [后续](https://houxu.app/): 追踪热点新闻的后续
+  * [一种字体的在线生成器](http://yurafuca.com/5000choyen/index_cn.html)
+  * [tasteatlas](https://www.tasteatlas.com/search): 世界食物地图
+  * [Fantasy-Map-Generator](https://azgaar.github.io/Fantasy-Map-Generator/): 幻想地图生成器
 
   
 
@@ -462,7 +467,8 @@
   * [上海交通大学课程分享](https://github.com/c-hj/SJTU-Courses)
   * [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
   * [西安交通大学课程资料共享计划](https://github.com/cantjie/XJTU-Share)
-
+  * [国家中小学智慧教育平台](https://www.zxx.edu.cn/syncClassroom)：从小学到高中的在线课程
+  * 
 * ## 资源
   * [Greasy Fork](https://greasyfork.org/zh-CN): 一个提供浏览器用户脚本的网站。
   * [免费软件](https://github.com/ruanyf/weekly/blob/master/docs/free-software.md)
@@ -470,6 +476,7 @@
   * [Slant](https://www.slant.co/): 一个帮助你找到最好的产品和工具的一个实用网站
 
 * ## 攻略
+  * [中国法律服务网](https://ai.12348.gov.cn/pc/): 智能法律咨询
   * [MOVIsicOOD](https://github.com/panzhiwei1997/MOVIsicOOD):一个发烧友的影评和食评
   * [买房购房知识](https://github.com/houshanren/hangzhou_house_knowledge)
   * [围棋教程](https://tieba.baidu.com/p/3413670740?red_tag=0900211857)
@@ -481,9 +488,9 @@
 ## 致谢
 感谢周泰对该项目初期建设的贡献！
 
-感谢林小靖，LKs分享的大量网站！
+感谢LKs分享的大量网站！
 
-感谢张路路，黄崧，余捻坤，李立新，庄明阳，吕澈秋，徐伟伟，刘畅，李嘉轩，傅煜铭，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧！
+感谢林小靖，张路路，黄崧，余捻坤，李立新，庄明阳，吕澈秋，徐伟伟，刘畅，李嘉轩，傅煜铭，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧！
 
 感谢以上所有网站的作者！
 
