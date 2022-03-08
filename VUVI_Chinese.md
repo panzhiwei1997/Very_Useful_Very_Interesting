@@ -321,7 +321,7 @@
   * [免费电子书](https://github.com/ruanyf/free-books)
   * [鸠摩搜书](https://www.jiumodiary.com/)：电子书搜索引擎
   * [zlibrary](https://zh.u1lib.org/)：全球最大数字图书馆
-
+  * [报告查一查](http://report.seedsufe.com/report)：轻量级行研工具
 
 * ## Office
   * [Prezi](http://prezi.com/): 比ppt酷炫的文稿演示方法
