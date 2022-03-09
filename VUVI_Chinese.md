@@ -379,6 +379,7 @@
   * [全网游戏直播](http://live.yj1211.work/index/home/areas)
   * [吸血鬼幸存者](https://poncle.itch.io/vampire-survivors)：steam上好评如潮的rouge-lite游戏的网页demo版
   * [人生重开模拟器](http://liferestart.syaro.io/public/index.html)
+  * [打字比赛](https://play.typeracer.com/)
    
 * ## 影音
   * [Listen 1](https://github.com/listen1/listen1_chrome_extension)：搜歌听歌，就用Listen1。
@@ -448,6 +449,7 @@
   * [地铁通](http://www.metroman.cn/)
   * [地图选择器](http://datav.aliyun.com/tools/atlas/)：可以下载到各省，各市，各县的svg格式的地图素材。这些素材导入PPT中都是可以编辑的。可以单独更改颜色和轮廓。
   * [中国色](http://zhongguose.com/): 中国传统颜色色彩搭配网站
+  * [Adobe color](https://color.adobe.com/zh/create/color-wheel): 调色盘生成器
   * [世界大学排名查询](https://www.forwardpathway.com/worldranking)
   * [朋友圈转发截图生成工具](https://akarin.dev/WechatMomentScreenshot/?from=singlemessage#mdui-dialog)
   * [ip查询](https://ip.tool.chinaz.com/)
