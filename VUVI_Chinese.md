@@ -388,7 +388,8 @@
   * [IPTV资源](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8): 直播源相关资源汇总
   * [Mixkit](https://mixkit.co/)：网站免费提供了丰富的视频和动画素材
   * [Video Game Music](https://downloads.khinsider.com/)：免费游戏音乐下载
-
+  * [TuneFind](https://www.tunefind.com/)：寻找电视和电影中的音乐
+   
 * ## 图片
   * [在线抠图](https://www.remove.bg/zh/upload)：在线抠图
   * [免费照片](https://github.com/ruanyf/weekly/blob/master/docs/free-photos.md)
@@ -483,7 +484,7 @@
   * [买房购房知识](https://github.com/houshanren/hangzhou_house_knowledge)
   * [围棋教程](https://tieba.baidu.com/p/3413670740?red_tag=0900211857)
   * [WallesPKU](https://blog.wallesspku.space/blog/post/hiaoxui/clash-zh): 无障碍浏览国外网站
-
+  * [防疫政策查询](https://i.snssdk.com/feoffline/ugc_activities/html/epidemic-prevention-sftr/)
 
 
 
