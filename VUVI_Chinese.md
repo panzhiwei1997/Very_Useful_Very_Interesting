@@ -27,7 +27,7 @@
     * [课程与资源](#课程与资源)
     * [可视化](#可视化)
     * [教程](#教程)
-  * [英语](#英语)
+  * [语言](#语言)
   * [物理](#物理)
   * [数学与统计](#数学与统计)
   * [化学](#化学)
@@ -226,7 +226,8 @@
 
 
 
-* ## 英语
+* ## 语言
+  * [DeepL](https://www.deepl.com/translator)：号称全世界最准确的翻译网站
   * [英语近义词在线词典](https://www.thesaurus.com/)
   * [Maspeak](https://maspeak.com/):一个让你趣味性学习多种语言单词的实用网站，它支持学习的语言包括：法语、英语、西班牙语、意大利语、德语、阿拉语、俄语、韩语、日语。
   * [English-corpora](https://www.english-corpora.org/coca/): 可以确保你的英语词组搭配不chinglish
@@ -239,7 +240,7 @@
   * [反向词典](https://wantwords.net/):中英文同义词词典
   * [zerotohero](https://www.zerotohero.ca/):世界各种语言（包括中国方言）的学习
   * [Grammar](https://www.grammar.com/):检查英语语法错误
-
+  * [能不能好好说话](https://lab.magiconch.com/nbnhhsh/):缩略词词典
 
 * ## 物理
   * [李新征的主页](https://www.math.pku.edu.cn/teachers/lidf/)：内有群论、量子多体理论讲义。
@@ -389,7 +390,8 @@
   * [Mixkit](https://mixkit.co/)：网站免费提供了丰富的视频和动画素材
   * [Video Game Music](https://downloads.khinsider.com/)：免费游戏音乐下载
   * [TuneFind](https://www.tunefind.com/)：寻找电视和电影中的音乐
-   
+  * [LALALAI](https://www.lalal.ai/)：伴奏
+     
 * ## 图片
   * [在线抠图](https://www.remove.bg/zh/upload)：在线抠图
   * [免费照片](https://github.com/ruanyf/weekly/blob/master/docs/free-photos.md)
@@ -435,6 +437,7 @@
 
 * ## 工具
   * [在线尺子](http://achizi.com/): 输入屏幕尺寸和分辨率，生成直尺。
+  * [alltoall](https://www.alltoall.net/): 号称最全的免费在线格式转换工具
   * [Aconvert](https://www.aconvert.com/pdf): 在线格式转换工具，比如转pdf
   * [Convertio](https://convertio.co/zh/): 在线格式转换工具
   * [office-converter](https://cn.office-converter.com/): 在线格式转换工具
@@ -448,7 +451,6 @@
   * [Google Earth](https://www.google.com/earth/): 虚拟地球仪
   * [BiliBili Evolved](https://github.com/the1812/Bilibili-Evolved/blob/master/features.md)
   * [地铁通](http://www.metroman.cn/)
-  * [地图选择器](http://datav.aliyun.com/tools/atlas/)：可以下载到各省，各市，各县的svg格式的地图素材。这些素材导入PPT中都是可以编辑的。可以单独更改颜色和轮廓。
   * [中国色](http://zhongguose.com/): 中国传统颜色色彩搭配网站
   * [Adobe color](https://color.adobe.com/zh/create/color-wheel): 调色盘生成器
   * [世界大学排名查询](https://www.forwardpathway.com/worldranking)
@@ -460,7 +462,7 @@
   * [一种字体的在线生成器](http://yurafuca.com/5000choyen/index_cn.html)
   * [tasteatlas](https://www.tasteatlas.com/search): 世界食物地图
   * [Fantasy-Map-Generator](https://azgaar.github.io/Fantasy-Map-Generator/): 幻想地图生成器
-
+  * [Windy](https://www.windy.com/39.910/116.390?temp,34.470,109.556,5): 强大的天气预报网站
   
 
 * ## 课程
@@ -471,13 +473,15 @@
   * [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
   * [西安交通大学课程资料共享计划](https://github.com/cantjie/XJTU-Share)
   * [国家中小学智慧教育平台](https://www.zxx.edu.cn/syncClassroom)：从小学到高中的在线课程
-  * 
+   
 * ## 资源
   * [Greasy Fork](https://greasyfork.org/zh-CN): 一个提供浏览器用户脚本的网站。
   * [免费软件](https://github.com/ruanyf/weekly/blob/master/docs/free-software.md)
   * [Fosshub](https://www.fosshub.com/): 免费软件
   * [Slant](https://www.slant.co/): 一个帮助你找到最好的产品和工具的一个实用网站
-
+  * [地图选择器](http://datav.aliyun.com/tools/atlas/)：可以下载到各省，各市，各县的svg格式的地图素材。这些素材导入PPT中都是可以编辑的。可以单独更改颜色和轮廓。
+  * [标准地图](http://bzdt.ch.mnr.gov.cn/index.html)
+  
 * ## 攻略
   * [中国法律服务网](https://ai.12348.gov.cn/pc/): 智能法律咨询
   * [MOVIsicOOD](https://github.com/panzhiwei1997/MOVIsicOOD):一个发烧友的影评和食评
@@ -485,7 +489,7 @@
   * [围棋教程](https://tieba.baidu.com/p/3413670740?red_tag=0900211857)
   * [WallesPKU](https://blog.wallesspku.space/blog/post/hiaoxui/clash-zh): 无障碍浏览国外网站
   * [防疫政策查询](https://i.snssdk.com/feoffline/ugc_activities/html/epidemic-prevention-sftr/)
-
+  * [Wikihow](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5)：号称互联网上最值得信赖的指南网站
 
 
 ## 致谢
