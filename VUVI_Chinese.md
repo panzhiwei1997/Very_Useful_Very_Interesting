@@ -67,6 +67,7 @@
     * [Interesting_Astro_Wiki](https://github.com/panzhiwei1997/Very_Useful_Very_Interesting/wiki/Interesting_Astro_Arxiv):分享讨论今日有趣的arxiv文章
     * [饕餮](https://taotie.readthedocs.io/en/latest/index.html): 黄崧的一个非常非常非常强的天文资源整理网站。
     * [物理、天文学常数](http://www.astro.wisc.edu/~dolan/constants.html)
+    * [Unit conversions]([http://treasuremap.space/status](https://www.stsci.edu/~strolger/docs/UNITS.txt)): 天文单位转换表
     * [天文学名词](https://nadc.china-vo.org/astrodict/): 官方天文英汉词典
     * [COSMOS](https://astronomy.swin.edu.au/cosmos/): 一个类似天文学词典的网站
     * [天体物理词典](http://eaa.crcpress.com/default.asp)
