@@ -136,6 +136,7 @@
     * [王然](http://kavli.pku.edu.cn/~rwang/)
     * [李立新](http://kavli.pku.edu.cn/~lxl/professional/html/links.html):内有丰富的推荐网站
     * [邵立晶](https://friendshao.github.io/about/)
+    * [Masafusa Onoue](https://www.masafusaonoue.com/)
     * [Yue Shen](http://quasar.astro.illinois.edu/)
     * [邹虎](http://batc.bao.ac.cn/~zouhu/doku.php?id=projects:start): 内有地外行星python处理教程
     * [黄崧](http://dr-guangtou.github.io/)
