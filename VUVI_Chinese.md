@@ -104,6 +104,7 @@
     * [Altitude/Azimuth of Stars](https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/horizontal_rhip_en.cgi)
     * [宇宙学计算器](https://ned.ipac.caltech.edu/help/cosmology_calc.html)
     * [双星系粒子模拟](https://wienkers.com/resources/particle-simulation/galaxy/)
+    * [引力波探测模拟](https://gw-universe.org/)
     * [积分计算器](https://www.wolframalpha.com/calculators/integral-calculator)
     * [Desmos](https://www.desmos.com/calculator?lang=zh-CN): 函数画图
     * [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/): 提取图像中的数据点
