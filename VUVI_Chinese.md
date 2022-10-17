@@ -77,6 +77,8 @@
     * [AAS Job Register](https://jobregister.aas.org): 找天文学工作
     * [AstroBites](https://astrobites.org/): 天文读者文摘
     * [Observatory Statuses](http://treasuremap.space/status): 疫情期间望远镜信息
+    * [NASA Hubble Fellowship Program](https://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program): Hubble Fellow官网
+    * [NHFP的申请资源](https://www.nhfp-equity.org/resources-for-applicants)
 
   * ### 数据库
     * [ADS](https://ui.adsabs.harvard.edu/): 天文文献网站
