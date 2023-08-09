@@ -24,6 +24,7 @@
   * [计算机](#计算机)
     * [Python文档](#Python文档)
     * [Python包](#Python包)
+    * [AI](#AI)
     * [课程与资源](#课程与资源)
     * [可视化](#可视化)
     * [教程](#教程)
@@ -106,8 +107,6 @@
     * [Altitude/Azimuth of Stars](https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/horizontal_rhip_en.cgi)
     * [Omni Calculator](https://www.omnicalculator.com/): 几百种计算器，包括物理、天文、数学、生活等各种领域
     * [宇宙学计算器CALTech](https://ned.ipac.caltech.edu/help/cosmology_calc.html)
-    * [积分计算器](https://www.wolframalpha.com/calculators/integral-calculator)
-    * [泊松分布计算器](https://stattrek.com/online-calculator/poisson)
     * [双星系粒子模拟](https://wienkers.com/resources/particle-simulation/galaxy/)
     * [引力波探测模拟](https://gw-universe.org/)
     * [Desmos](https://www.desmos.com/calculator?lang=zh-CN): 函数画图
@@ -134,6 +133,7 @@
     * [DESI](https://www.desi.lbl.gov/)
     * [JWST for scientists](https://www.stsci.edu/jwst/)
     * [JWST CEERS](https://ceers.github.io/)
+    * [JWST ASPIRE](https://aspire-quasar.github.io/index.html)
     * [LIGO](https://ligo.org)
     * [SKA](https://www.skatelescope.org)
     * [TMT](https://www.tmt.org)
@@ -212,7 +212,8 @@
       * LOESS: to uncover mean trends from noisy one-dimensional or two-dimensional data using the LOESS approach.
       * AdaMet: An Adaptive Metropolis package for Bayesian analisys.
 
-
+  * ### AI
+    * [魔咒百科词典](https://aitag.top/)：简单易用的AI绘画tag生成器
 
   * ### 课程与资源
     * [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
@@ -254,6 +255,7 @@
   * [Wordle Solver](https://wordfinderx.com/wordle/):Wordle游戏助手，可以筛选包含给定字母给定长度的单词
   * [反向词典](https://wantwords.net/):中英文同义词词典
   * [zerotohero](https://www.zerotohero.ca/):世界各种语言（包括中国方言）的学习
+  * [Grammarly](https://www.grammarly.com/):检查错误,也支持改写
   * [Grammar](https://www.grammar.com/):检查英语语法错误
   * [能不能好好说话](https://lab.magiconch.com/nbnhhsh/):缩略词词典
 
@@ -267,6 +269,10 @@
   * [王再文的主页](https://www.math.pku.edu.cn/teachers/lidf/)：内有丰富的优化、大数据、数值代数资料、课程。
   * [MIT线性代数笔记](https://github.com/apachecn/mit-18.06-linalg-notes)
   * [博弈论游戏大全](https://www.cs.cmu.edu/afs/cs/academic/class/15859-f01/www/notes/comb.pdf)
+  * [积分计算器](https://www.wolframalpha.com/calculators/integral-calculator)
+  * [定积分计算器](https://zh.numberempire.com/definiteintegralcalculator.php)
+  * [泊松分布计算器](https://stattrek.com/online-calculator/poisson)
+  * [泊松分布计算器2](https://www.osgeo.cn/app/sb131)
 
 
 
