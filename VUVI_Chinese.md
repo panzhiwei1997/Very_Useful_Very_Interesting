@@ -99,17 +99,17 @@
 
   * ### 在线工具
     * [SDSSDR16 explorer](http://skyserver.sdss.org/dr16/en/tools/explore/summary.aspx)
-    * [SDSSDR16 SAS](https://dr16.sdss.org/optical/spectrum/search)
     * [SDSS casjob](http://skyserver.sdss.org/CasJobs/)
     * [SciServer](https://www.sciserver.org/about/)：是上面那个casjob的主页，还支持在线计算，分享文件等功能。[(pdf)](https://ui.adsabs.harvard.edu/abs/2020A%26C....3300412T/abstract)
     * [CMD](http://stev.oapd.inaf.it/cgi-bin/cmd): 恒星演化轨迹
     * [Astrometry.net](http://astrometry.net/): 图像匹配天区位置
     * [Altitude/Azimuth of Stars](https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/horizontal_rhip_en.cgi)
+    * [Omni Calculator](https://www.omnicalculator.com/): 几百种计算器，包括物理、天文、数学、生活等各种领域
     * [宇宙学计算器CALTech](https://ned.ipac.caltech.edu/help/cosmology_calc.html)
-    * [宇宙学计算器UCLA](https://astro.ucla.edu/~wright/CosmoCalc.html)
+    * [积分计算器](https://www.wolframalpha.com/calculators/integral-calculator)
+    * [泊松分布计算器](https://stattrek.com/online-calculator/poisson)
     * [双星系粒子模拟](https://wienkers.com/resources/particle-simulation/galaxy/)
     * [引力波探测模拟](https://gw-universe.org/)
-    * [积分计算器](https://www.wolframalpha.com/calculators/integral-calculator)
     * [Desmos](https://www.desmos.com/calculator?lang=zh-CN): 函数画图
     * [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/): 提取图像中的数据点
     * [nbviewer](https://nbviewer.jupyter.org/): Github打开notebook经常会卡或者失败，把链接复制到这个网站可以很快打开。
@@ -126,11 +126,14 @@
     * [Galaxy Morphology](http://ned.ipac.caltech.edu/level5/Sept11/Buta/Buta_contents.html)
     * [AstroBetter](https://www.astrobetter.com/): 专业天文学家的技巧分享
     * [Press release的指导](https://www.spacetelescope.org/about_us/scientist_guidelines/#1)
+    * [S/N介绍](https://slittlefair.staff.shef.ac.uk/teaching/phy241/lectures/l09/)
+    * [S/N in optical astronomy](https://www.ucolick.org/~bolte/AY257/s_n.pdf)
 
   * ### 望远镜与巡天
     * [CSST](http://www.nao.cas.cn/csst/)
     * [DESI](https://www.desi.lbl.gov/)
     * [JWST for scientists](https://www.stsci.edu/jwst/)
+    * [JWST CEERS](https://ceers.github.io/)
     * [LIGO](https://ligo.org)
     * [SKA](https://www.skatelescope.org)
     * [TMT](https://www.tmt.org)
@@ -138,6 +141,7 @@
     * [2MASS](https://irsa.ipac.caltech.edu/applications/2MASS/IM/interactive.html)
     * [UKIDSS](http://wsa.roe.ac.uk:8080/wsa/getImage_form.jsp?programmeID=&database=UKIDSSDR11PLUS&ra=&dec=&sys=J&filterID=all&xsize=1&ysize=1&obsType=object&frameType=stack&mfid=&fsid=&name=)
     * [WISE](https://irsa.ipac.caltech.edu/applications/wise/?__action=layout.showDropDown&view=Search)
+    * [GAIA](https://gea.esac.esa.int/archive/)
 
   * ### 天文学者主页
     * [傅煜铭](https://yumingfu.space/)
