@@ -213,7 +213,9 @@
       * AdaMet: An Adaptive Metropolis package for Bayesian analisys.
 
   * ### AI
+    * [ChatGPT](https://chat.openai.com/)
     * [魔咒百科词典](https://aitag.top/)：简单易用的AI绘画tag生成器
+    * [Tags Wiki](https://danbooru.donmai.us/wiki_pages/tag_groups)
 
   * ### 课程与资源
     * [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
@@ -390,6 +392,8 @@
 # 休闲
 * ## 桌游
   * [我的桌游收藏](https://github.com/panzhiwei1997/MyBoardGames/blob/main/Introduction.md)
+  * [BGA](https://boardgamearena.com/)：上百款桌游
+  * [殖民火星](http://tm.jaing.me/)
   * [桌游中常见的游戏机制](https://www.gameres.com/313588.html)
   
 * ## 电子游戏
@@ -484,7 +488,7 @@
   * [tasteatlas](https://www.tasteatlas.com/search): 世界食物地图
   * [Fantasy-Map-Generator](https://azgaar.github.io/Fantasy-Map-Generator/): 幻想地图生成器
   * [Windy](https://www.windy.com/39.910/116.390?temp,34.470,109.556,5): 强大的天气预报网站
-  
+  * [中国制霸](https://lab.magiconch.com/china-ex/): 省级行政区打卡填色地图
 
 * ## 课程
   * [蔻享](https://www.koushare.com/):很多高校的课程录屏
