@@ -84,6 +84,7 @@
   * ### 数据库
     * [ADS](https://ui.adsabs.harvard.edu/): 天文文献网站
     * [Arxiv](http://cn.arxiv.org/): 文献预印本网站
+    * [中国天文学预印本平台](http://astro.chinaxiv.org/)
     * [Benty-Fields](https://benty-fields.com/daily_arXiv): 可以给arxiv文章投票，支持机器学习推送文章
     * [Iarxiv](https://iarxiv.org/login): arxiv分类看
     * [Strasbourg(CDS数据库)](http://cdsportal.u-strasbg.fr/): SIMBAD, VIZIER...
