@@ -52,6 +52,7 @@
 * [**其他**](#其他)
   * [工具箱](#工具箱)
   * [工具](#工具-1)
+  * [配色](#配色)
   * [课程](#课程)
   * [资源](#资源)
   * [攻略](#攻略)
@@ -477,8 +478,6 @@
   * [Google Earth](https://www.google.com/earth/): 虚拟地球仪
   * [BiliBili Evolved](https://github.com/the1812/Bilibili-Evolved/blob/master/features.md)
   * [地铁通](http://www.metroman.cn/)
-  * [中国色](http://zhongguose.com/): 中国传统颜色色彩搭配网站
-  * [Adobe color](https://color.adobe.com/zh/create/color-wheel): 调色盘生成器
   * [世界大学排名查询](https://www.forwardpathway.com/worldranking)
   * [朋友圈转发截图生成工具](https://akarin.dev/WechatMomentScreenshot/?from=singlemessage#mdui-dialog)
   * [ip查询](https://ip.tool.chinaz.com/)
@@ -490,6 +489,12 @@
   * [Fantasy-Map-Generator](https://azgaar.github.io/Fantasy-Map-Generator/): 幻想地图生成器
   * [Windy](https://www.windy.com/39.910/116.390?temp,34.470,109.556,5): 强大的天气预报网站
   * [中国制霸](https://lab.magiconch.com/china-ex/): 省级行政区打卡填色地图
+    
+* ## 配色 
+  * [中国色](http://zhongguose.com/): 中国传统颜色色彩搭配网站
+  * [Adobe color](https://color.adobe.com/zh/create/color-wheel): 调色盘生成器
+  * [Color Space](https://mycolor.space/):一键生成颜色梯度
+  * [Color Palette Generator](https://www.toptal.com/designers/colourcode/analogic-complement-color-builder)
 
 * ## 课程
   * [蔻享](https://www.koushare.com/):很多高校的课程录屏
