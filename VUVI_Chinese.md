@@ -99,7 +99,7 @@
     * [LASD](http://lasd.lyman-alpha.com/): Lyman Alpha 星系数据库
     * [火星与冥王星陨石坑](https://nadc.china-vo.org/skyviewer/planet/#/mars)
     * [ESA SKY](https://sky.esa.int/esasky): 浏览全天sruvey的footprint
-    * [Legacy Survey Viewer](https://www.legacysurvey.org/viewer)
+    * [Legacy Survey Viewer](https://www.legacysurvey.org/viewer): 方便查看多种巡天的图像及源表
 
 
   * ### 在线工具
