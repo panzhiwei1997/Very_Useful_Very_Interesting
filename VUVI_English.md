@@ -57,6 +57,7 @@ It's hard to renew immediately, so if you don't want to miss something, you can 
   * [Desmos](https://www.desmos.com/calculator?lang=zh-CN): plot functions online
   * [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/): digitilize data points from iamge online
   * [nbviewer](https://nbviewer.jupyter.org/): quickly open notebook, in case for bugs in github
+  * [Browser.lol](https://browser.lol/): Use this virtual browser within your existing one to test website reachability from outside of your network.
 
 * ### Tutorials & Courses
   * [Astroplotlib](http://astroplotlib.stsci.edu/): examples of astroplot
