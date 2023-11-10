@@ -99,6 +99,7 @@
     * [LASD](http://lasd.lyman-alpha.com/): Lyman Alpha 星系数据库
     * [火星与冥王星陨石坑](https://nadc.china-vo.org/skyviewer/planet/#/mars)
     * [ESA SKY](https://sky.esa.int/esasky): 浏览全天sruvey的footprint
+    * [Legacy Survey Viewer](https://www.legacysurvey.org/viewer)
 
 
   * ### 在线工具
@@ -491,6 +492,7 @@
   * [Fantasy-Map-Generator](https://azgaar.github.io/Fantasy-Map-Generator/): 幻想地图生成器
   * [Windy](https://www.windy.com/39.910/116.390?temp,34.470,109.556,5): 强大的天气预报网站
   * [中国制霸](https://lab.magiconch.com/china-ex/): 省级行政区打卡填色地图
+  * [Browser.lol](https://browser.lol/): Use this virtual browser within your existing one to test website reachability from outside of your network.
     
 * ## 配色 
   * [中国色](http://zhongguose.com/): 中国传统颜色色彩搭配网站
@@ -530,7 +532,7 @@
 
 感谢LKs分享的大量网站！
 
-感谢林小靖，张路路，余捻坤，黄崧，李立新，庄明阳，吕澈秋，徐伟伟，刘畅，李嘉轩，傅煜铭，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱！
+感谢林小靖，张路路，余捻坤，黄崧，李立新，庄明阳，吕澈秋，徐伟伟，刘畅，李嘉轩，傅煜铭，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，黄齐丰！
 
 感谢以上所有网站的作者！
 
