@@ -57,7 +57,6 @@ It's hard to renew immediately, so if you don't want to miss something, you can 
   * [Desmos](https://www.desmos.com/calculator?lang=zh-CN): plot functions online
   * [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/): digitilize data points from iamge online
   * [nbviewer](https://nbviewer.jupyter.org/): quickly open notebook, in case for bugs in github
-  * [Browser.lol](https://browser.lol/): Use this virtual browser within your existing one to test website reachability from outside of your network.
 
 * ### Tutorials & Courses
   * [Astroplotlib](http://astroplotlib.stsci.edu/): examples of astroplot
@@ -168,6 +167,7 @@ It's hard to renew immediately, so if you don't want to miss something, you can 
   * [BiliBili Evolved](https://github.com/the1812/Bilibili-Evolved/blob/master/features.md)
   * [AI对对联](https://ai.binwang.me/couplet/)
   * [北大财务部](https://cwfw.pku.edu.cn/): 可以查工资奖学金信息
+  * [Browser.lol](https://browser.lol/): Use this virtual browser within your existing one to test website reachability from outside of your network.
 
 * ### Courses
   * [贵校课程资料民间整理](https://github.com/lib-pku/libpku)
