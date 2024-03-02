@@ -250,7 +250,7 @@
 
 
 * ## 语言
-  * [DeepL](https://www.deepl.com/translator)：号称全世界最准确的翻译网站
+  * [DeepL](https://www.deepl.com/translator)：翻译和AI改写网站
   * [英语近义词在线词典](https://www.thesaurus.com/)
   * [Maspeak](https://maspeak.com/):一个让你趣味性学习多种语言单词的实用网站，它支持学习的语言包括：法语、英语、西班牙语、意大利语、德语、阿拉语、俄语、韩语、日语。
   * [English-corpora](https://www.english-corpora.org/coca/): 可以确保你的英语词组搭配不chinglish
