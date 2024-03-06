@@ -109,6 +109,7 @@
     * [CMD](http://stev.oapd.inaf.it/cgi-bin/cmd): 恒星演化轨迹
     * [Astrometry.net](http://astrometry.net/): 图像匹配天区位置
     * [Altitude/Azimuth of Stars](https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/horizontal_rhip_en.cgi)
+    * [Object Visibility – STARALT](http://catserver.ing.iac.es/staralt/):获取天体可观测性的网站
     * [Omni Calculator](https://www.omnicalculator.com/): 几百种计算器，包括物理、天文、数学、生活等各种领域
     * [宇宙学计算器CALTech](https://ned.ipac.caltech.edu/help/cosmology_calc.html)
     * [双星系粒子模拟](https://wienkers.com/resources/particle-simulation/galaxy/)
@@ -533,7 +534,7 @@
 
 感谢LKs分享的大量网站！
 
-感谢林小靖，张路路，余捻坤，黄崧，李立新，庄明阳，吕澈秋，徐伟伟，刘畅，李嘉轩，傅煜铭，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，黄齐丰，saschazesiger，何子麒！
+感谢余捻坤，林小靖，张路路，黄崧，李立新，庄明阳，吕澈秋，徐伟伟，刘畅，李嘉轩，傅煜铭，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，黄齐丰，saschazesiger，何子麒！
 
 感谢以上所有网站的作者！
 
