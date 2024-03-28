@@ -206,6 +206,7 @@
     * [PyHammer](https://github.com/BU-hammerTeam/PyHammer)：恒星光谱证认
     * [DESK: Dusty-Evolved-Star-Kit](https://github.com/s-goldman/Dusty-Evolved-Star-Kit): 拟合DES
     * [PyQSOFit](https://github.com/legolason/PyQSOFit)：拟合类星体光谱
+    * [QSFit](https://gcalderone.github.io/QSFit.jl/)：QSFit in Julia for QSO spectral fitting
     * [QSOGEN](https://github.com/MJTemple/qsogen/)：生成类星体SED
     * [RedMonster](https://github.com/timahutchinson/redmonster):测量光谱红移
     * [Michele Cappellari Python and IDL Programs](https://www-astro.physics.ox.ac.uk/~mxc/software/):
@@ -217,6 +218,7 @@
       * LtsFit: to robustly fit a plane or a line to data with intrinsic scatter
       * LOESS: to uncover mean trends from noisy one-dimensional or two-dimensional data using the LOESS approach.
       * AdaMet: An Adaptive Metropolis package for Bayesian analisys.
+
 
   * ### AI
     * [ChatGPT](https://chat.openai.com/)
@@ -534,7 +536,7 @@
 
 感谢LKs分享的大量网站！
 
-感谢余捻坤，林小靖，张路路，黄崧，李立新，庄明阳，吕澈秋，徐伟伟，刘畅，傅煜铭，李嘉轩，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，黄齐丰，saschazesiger，何子麒！
+感谢余捻坤，林小靖，张路路，黄崧，李立新，庄明阳，吕澈秋，徐伟伟，傅煜铭，刘畅，李嘉轩，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，黄齐丰，saschazesiger，何子麒！
 
 感谢以上所有网站的作者！
 
