@@ -196,6 +196,8 @@
     * [Numpy](https://numpy.org/)
     * [Matplotlib](https://matplotlib.org/)
     * [Astropy](https://www.astropy.org/)
+    * [photutils](https://photutils.readthedocs.io/en/stable/#):做测光相关
+    * [specutils](https://specutils.readthedocs.io/en/stable/index.html#):光谱分析
     * [EMCEE](https://emcee.readthedocs.io/en/stable/):MCMC
     * [ZEUS](https://github.com/minaskar/zeus):MCMC
     * [Astroquery](https://astroquery.readthedocs.io/en/latest/index.html): 写query
@@ -536,7 +538,7 @@
 
 感谢LKs分享的大量网站！
 
-感谢余捻坤，林小靖，张路路，黄崧，李立新，庄明阳，吕澈秋，徐伟伟，傅煜铭，刘畅，李嘉轩，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，黄齐丰，saschazesiger，何子麒！
+感谢余捻坤，林小靖，张路路，庄明阳，黄崧，李立新，吕澈秋，徐伟伟，傅煜铭，刘畅，李嘉轩，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，黄齐丰，saschazesiger，何子麒！
 
 感谢以上所有网站的作者！
 
