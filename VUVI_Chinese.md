@@ -436,7 +436,7 @@
   * [Paper Quilling Art](https://pissang.github.io/paper-quilling-art/): 一款衍纸艺术生成器
   * [SVG背景图在线生成](https://cn.pattern.monster/)
   * [AI生成动漫头像](https://waifulabs.com/generate)
-
+  * [upscayl](https://www.upscayl.org/): 可以利用ai将低分辨率的图片转换成高分辨率的图片
 
 
 
@@ -538,7 +538,7 @@
 
 感谢LKs分享的大量网站！
 
-感谢余捻坤，林小靖，张路路，庄明阳，黄崧，李立新，吕澈秋，徐伟伟，傅煜铭，刘畅，李嘉轩，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，黄齐丰，saschazesiger，何子麒，王彧辰！
+感谢余捻坤，林小靖，张路路，庄明阳，黄崧，李立新，吕澈秋，徐伟伟，傅煜铭，刘畅，李嘉轩，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，黄齐丰，saschazesiger，何子麒，尹高成，王彧辰！
 
 感谢以上所有网站的作者！
 
