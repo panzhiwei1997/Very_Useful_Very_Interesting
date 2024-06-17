@@ -100,7 +100,7 @@
     * [火星与冥王星陨石坑](https://nadc.china-vo.org/skyviewer/planet/#/mars)
     * [ESA SKY](https://sky.esa.int/esasky): 浏览全天sruvey的footprint
     * [Legacy Survey Viewer](https://www.legacysurvey.org/viewer): 方便查看多种巡天的图像及源表
-
+    * [收集了SED/光谱拟合各种相关链接的网站](http://www.sedfitting.org/Welcome.html)
 
   * ### 在线工具
     * [SDSSDR16 explorer](http://skyserver.sdss.org/dr16/en/tools/explore/summary.aspx)
@@ -538,7 +538,7 @@
 
 感谢LKs分享的大量网站！
 
-感谢余捻坤，林小靖，张路路，庄明阳，黄崧，李立新，吕澈秋，徐伟伟，傅煜铭，刘畅，李嘉轩，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，黄齐丰，saschazesiger，何子麒！
+感谢余捻坤，林小靖，张路路，庄明阳，黄崧，李立新，吕澈秋，徐伟伟，傅煜铭，刘畅，李嘉轩，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，黄齐丰，saschazesiger，何子麒，王彧辰！
 
 感谢以上所有网站的作者！
 
