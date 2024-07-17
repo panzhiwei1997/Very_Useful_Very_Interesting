@@ -204,6 +204,7 @@
     * [sfdmap](https://github.com/kbarbary/sfdmap): 消光map
     * [Kapteyn](https://www.astro.rug.nl/software/kapteyn/index.html): 一系列工具
     * [VoigtFit](https://voigtfit.readthedocs.io/en/latest/)
+    * [LIME](https://lime-stable.readthedocs.io/en/latest/introduction/installation.html): A Line Measuring library. This library provides a set of tools to fit lines in astronomical spectra. Its design aims for a user-friendly workflow for both single lines and large data sets. The library provides tools for masking, detecting, profile fitting and storing the results. The output measurements are focused on the gas chemical and kinematic analysis. [paper](https://arxiv.org/pdf/2405.15072)
     * [ParaMonte: Parallel Monte Carlo Library](https://www.cdslab.org/paramonte/notes/overview/preface/)
     * [PyHammer](https://github.com/BU-hammerTeam/PyHammer)：恒星光谱证认
     * [DESK: Dusty-Evolved-Star-Kit](https://github.com/s-goldman/Dusty-Evolved-Star-Kit): 拟合DES
@@ -538,7 +539,7 @@
 
 感谢LKs分享的大量网站！
 
-感谢余捻坤，林小靖，张路路，庄明阳，黄崧，李立新，吕澈秋，徐伟伟，傅煜铭，刘畅，李嘉轩，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，黄齐丰，saschazesiger，何子麒，尹高成，王彧辰！
+感谢余捻坤，林小靖，张路路，庄明阳，黄崧，李立新，吕澈秋，傅煜铭，徐伟伟，刘畅，李嘉轩，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，黄齐丰，saschazesiger，何子麒，尹高成，王彧辰！
 
 感谢以上所有网站的作者！
 
