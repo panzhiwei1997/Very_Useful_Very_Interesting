@@ -88,6 +88,7 @@
     * [中国天文学预印本平台](http://astro.chinaxiv.org/)
     * [Benty-Fields](https://benty-fields.com/daily_arXiv): 可以给arxiv文章投票，支持机器学习推送文章
     * [Iarxiv](https://iarxiv.org/login): arxiv分类看
+    * [connectedpapers](https://www.connectedpapers.com/): 可以迅速将很多文献联系起来。Discover the most relevant prior and derivative works
     * [Strasbourg(CDS数据库)](http://cdsportal.u-strasbg.fr/): SIMBAD, VIZIER...
     * [Astro Data Lab](https://datalab.noao.edu/)
     * [SDSS SAS](https://data.sdss.org/sas/): SDSS 数据存储网站
@@ -150,8 +151,11 @@
     * [GAIA](https://gea.esac.esa.int/archive/)
 
   * ### 天文学者主页
-    * [傅煜铭](https://yumingfu.space/)
+    * [潘志伟](https://panzhiwei1997.github.io/)
     * [江林华](http://kavli.pku.edu.cn/~jiang/index.html)
+    * [王飞格](https://feigewang.github.io/cn.html)
+    * [傅煜铭](https://yumingfu.space/)
+    * [林小靖](https://littlelin1999.github.io/)
     * [王然](http://kavli.pku.edu.cn/~rwang/)
     * [李立新](http://kavli.pku.edu.cn/~lxl/professional/html/links.html):内有丰富的推荐网站
     * [邵立晶](https://friendshao.github.io/about/)
@@ -538,13 +542,13 @@
 ## 致谢
 感谢周泰对该项目初期建设的贡献！
 
-感谢LKs分享的大量网站！
+感谢LKs, 余捻坤分享的大量网站！
 
-感谢余捻坤，林小靖，张路路，庄明阳，黄崧，李立新，吕澈秋，傅煜铭，徐伟伟，刘畅，李嘉轩，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，黄齐丰，saschazesiger，何子麒，尹高成，王彧辰！
+感谢林小靖，张路路，庄明阳，黄崧，李立新，吕澈秋，傅煜铭，徐伟伟，刘畅，李嘉轩，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，黄齐丰，saschazesiger，何子麒，尹高成，王彧辰！
 
 感谢以上所有网站的作者！
 
-感谢女友辛依倩的支持！
+感谢妻子辛依倩的支持！
 
 
 
