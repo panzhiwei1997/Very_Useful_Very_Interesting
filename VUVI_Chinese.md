@@ -88,7 +88,7 @@
     * [中国天文学预印本平台](http://astro.chinaxiv.org/)
     * [Benty-Fields](https://benty-fields.com/daily_arXiv): 可以给arxiv文章投票，支持机器学习推送文章
     * [Iarxiv](https://iarxiv.org/login): arxiv分类看
-    * [Giiisp]([https://iarxiv.org/login](https://giiisp.com/#/arxiv?subjectId=&arxivFilterTimelineSelected=1&New%20submissionsPageTotal=280&Cross-listsPageTotal=280&ReplacementsPageTotal=280)): 一个能够每天准时看到arxiv的网站
+    * [Giiisp](https://giiisp.com/#/arxiv?subjectId=&arxivFilterTimelineSelected=1&New%20submissionsPageTotal=280&Cross-listsPageTotal=280&ReplacementsPageTotal=280): 一个能够每天准时看到arxiv的网站
     * [connectedpapers](https://www.connectedpapers.com/): 可以迅速将很多文献联系起来。Discover the most relevant prior and derivative works
     * [Strasbourg(CDS数据库)](http://cdsportal.u-strasbg.fr/): SIMBAD, VIZIER...
     * [Astro Data Lab](https://datalab.noao.edu/)
@@ -545,7 +545,7 @@
 
 感谢LKs, 余捻坤分享的大量网站！
 
-感谢林小靖，张路路，庄明阳，黄崧，李立新，吕澈秋，傅煜铭，徐伟伟，刘畅，李嘉轩，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，黄齐丰，saschazesiger，何子麒，尹高成，王彧辰，张子健！
+感谢林小靖，张路路，庄明阳，黄崧，李立新，吕澈秋，傅煜铭，徐伟伟，刘畅，李嘉轩，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，黄齐丰，saschazesiger，何子麒，尹高成，王彧辰，张子键！
 
 感谢以上所有网站的作者！
 
