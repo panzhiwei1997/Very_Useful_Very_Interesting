@@ -76,6 +76,7 @@
     * [Academictree](https://academictree.org/): 可以查询学者之间的师承关系。
     * [空间天文手册](http://ads.harvard.edu/books/hsaa/toc.html)
     * [AAS Job Register](https://jobregister.aas.org): 找天文学工作
+    * [International Astronomy Meetings](https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/): 天文最新会议发布和查找
     * [AstroBites](https://astrobites.org/): 天文读者文摘
     * [Observatory Statuses](http://treasuremap.space/status): 疫情期间望远镜信息
     * [NASA Hubble Fellowship Program](https://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program): Hubble Fellow官网
@@ -91,8 +92,10 @@
     * [connectedpapers](https://www.connectedpapers.com/): 可以迅速将很多文献联系起来。Discover the most relevant prior and derivative works
     * [Strasbourg(CDS数据库)](http://cdsportal.u-strasbg.fr/): SIMBAD, VIZIER...
     * [Astro Data Lab](https://datalab.noao.edu/)
+    * [Astrophysics Source Code Library](ASCL.net): 查找astrophysics source code的网站
     * [SDSS SAS](https://data.sdss.org/sas/): SDSS 数据存储网站
-    * [Filter Profile Service](http://svo2.cab.inta-csic.es/svo/theory/fps/): 望远镜filter数据库
+    * [Filter Profile Service](svo2.cab.inta-csic.es/theory/fps3): 望远镜filter数据库
+    * [splatalogue](splatalogue.online ): 查找天文谱线各种信息的网站查找天文谱线各种信息的网站
     * [ASD原子光谱数据库](https://physics.nist.gov/PhysRefData/ASD/lines_form.html):可用于查谱线
     * [Unified Astronomy Thesaurus (UAT)](https://astrothesaurus.org/concept-select/):标准化论文关键词的数据库
     * [影响因子数据库](https://academic-accelerator.com/Impact-Factor-IF/zh-CN/The-Astrophysical-Journal-Supplement-Series)
@@ -169,10 +172,10 @@
     * [Richard W. Pogge](http://www.astronomy.ohio-state.edu/~pogge/): 内有丰富课程资料
 
   * ### 天文学者or学生的Github
-    * [Zhiwei Pan](https://github.com/panzhiwei1997)
-    * [Jin Wu](https://github.com/fmajor)
+    * [潘志伟](https://github.com/panzhiwei1997)
+    * [吴晋(https://github.com/fmajor)
     * [Chang Liu](https://github.com/slowdivePTG/Notes)
-    * [Xiaojing Lin](https://github.com/LittleLin1999)
+    * [林小靖](https://github.com/LittleLin1999)
 
   * ### 软件
     * [SCAMP](https://www.astromatic.net/software/scamp): image匹配天区位置
@@ -420,6 +423,7 @@
   * [吸血鬼幸存者](https://poncle.itch.io/vampire-survivors)：steam上好评如潮的rouge-lite游戏的网页demo版
   * [人生重开模拟器](http://liferestart.syaro.io/public/index.html)
   * [打字比赛](https://play.typeracer.com/)
+  * [gamer520](https://www.gamer520.com/): 游戏白嫖网站
    
 * ## 影音
   * [Listen 1](https://github.com/listen1/listen1_chrome_extension)：搜歌听歌，就用Listen1。
@@ -430,6 +434,9 @@
   * [Video Game Music](https://downloads.khinsider.com/)：免费游戏音乐下载
   * [TuneFind](https://www.tunefind.com/)：寻找电视和电影中的音乐
   * [LALALAI](https://www.lalal.ai/)：伴奏
+  * [欧乐视频](https://www.olevod.com/)：免费追高清剧和电影
+  * [爱壹帆](https://www.yfsp.tv/)：免费追剧网址，资源非常全，清晰度不如欧乐视频
+ 
      
 * ## 图片
   * [在线抠图](https://www.remove.bg/zh/upload)：在线抠图
@@ -499,6 +506,8 @@
   * [后续](https://houxu.app/): 追踪热点新闻的后续
   * [一种字体的在线生成器](http://yurafuca.com/5000choyen/index_cn.html)
   * [tasteatlas](https://www.tasteatlas.com/search): 世界食物地图
+  * [观沧海](https://www.ageeye.cn/): 各种地图和幻想地图的网站
+  * [中国历史地理信息平台](https://timespace-china.fudan.edu.cn/FDCHGIS/): 中国历史地名查询网址
   * [Fantasy-Map-Generator](https://azgaar.github.io/Fantasy-Map-Generator/): 幻想地图生成器
   * [Windy](https://www.windy.com/39.910/116.390?temp,34.470,109.556,5): 强大的天气预报网站
   * [中国制霸](https://lab.magiconch.com/china-ex/): 省级行政区打卡填色地图
