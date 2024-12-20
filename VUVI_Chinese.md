@@ -68,12 +68,11 @@
     * [CSST信息概述](https://github.com/CSSTsci/GalaxyAGN_science_discussion/wiki/CSST-Summary)
     * [Interesting_Astro_Wiki](https://github.com/panzhiwei1997/Very_Useful_Very_Interesting/wiki/Interesting_Astro_Arxiv):分享讨论今日有趣的arxiv文章
     * [饕餮](https://taotie.readthedocs.io/en/latest/index.html): 黄崧的一个非常非常非常强的天文资源整理网站。
-    * [物理、天文学常数](http://www.astro.wisc.edu/~dolan/constants.html)
-    * [Unit conversions]([http://treasuremap.space/status](https://www.stsci.edu/~strolger/docs/UNITS.txt)): 天文单位转换表
+    * [物理、天文学常数](https://newton.ex.ac.uk/handbook/ALL/forms/PhysicsExamsConstants.pdf)
+    * [Unit conversions](https://www.stsci.edu/~strolger/docs/UNITS.txt): 天文单位转换表
     * [天文学名词](https://nadc.china-vo.org/astrodict/): 官方天文英汉词典
     * [COSMOS](https://astronomy.swin.edu.au/cosmos/): 一个类似天文学词典的网站
     * [天体物理词典](http://eaa.crcpress.com/default.asp)
-    * [astroparticle.online](https://astroparticle.online/standard-model/)：标准粒子模型
     * [Academictree](https://academictree.org/): 可以查询学者之间的师承关系。
     * [空间天文手册](http://ads.harvard.edu/books/hsaa/toc.html)
     * [AAS Job Register](https://jobregister.aas.org): 找天文学工作
@@ -157,7 +156,6 @@
     * [王飞格](https://feigewang.github.io/cn.html)
     * [傅煜铭](https://yumingfu.space/)
     * [林小靖](https://littlelin1999.github.io/)
-    * [王然](http://kavli.pku.edu.cn/~rwang/)
     * [李立新](http://kavli.pku.edu.cn/~lxl/professional/html/links.html):内有丰富的推荐网站
     * [邵立晶](https://friendshao.github.io/about/)
     * [Masafusa Onoue](https://www.masafusaonoue.com/)
@@ -173,7 +171,6 @@
   * ### 天文学者or学生的Github
     * [Zhiwei Pan](https://github.com/panzhiwei1997)
     * [Jin Wu](https://github.com/fmajor)
-    * [Cheqiu Lv](https://github.com/StickLyu)
     * [Chang Liu](https://github.com/slowdivePTG/Notes)
     * [Xiaojing Lin](https://github.com/LittleLin1999)
 
@@ -545,7 +542,7 @@
 
 感谢LKs, 余捻坤分享的大量网站！
 
-感谢林小靖，张路路，庄明阳，黄崧，李立新，吕澈秋，傅煜铭，徐伟伟，刘畅，李嘉轩，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，黄齐丰，saschazesiger，何子麒，尹高成，王彧辰，张子键！
+感谢徐福祥，林小靖，张路路，庄明阳，黄崧，李立新，吕澈秋，傅煜铭，徐伟伟，刘畅，李嘉轩，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，黄齐丰，saschazesiger，何子麒，尹高成，王彧辰，张子键！
 
 感谢以上所有网站的作者！
 
