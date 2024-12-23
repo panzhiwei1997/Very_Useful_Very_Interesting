@@ -491,6 +491,7 @@
   * [Convertio](https://convertio.co/zh/): 在线格式转换工具
   * [office-converter](https://cn.office-converter.com/): 在线格式转换工具
   * [白描网页版](https://web.baimiaoapp.com/): 图片文字提取转pdf
+  * [PDF解密去除限制](http://www.pdfdo.com/pdf-remove-restriction.aspx)
   * [Time.is](https://www.thesaurus.com/): 所有时区的精确时间
   * [printfriendly](https://www.printfriendly.com/): 漂亮地打印网页
   * [拷贝兔](https://cp.anyknew.com/): 一个完全免费的轻量级跨平台文件传输工具，非常实用并且好用。
