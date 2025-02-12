@@ -92,9 +92,9 @@
     * [connectedpapers](https://www.connectedpapers.com/): 可以迅速将很多文献联系起来。Discover the most relevant prior and derivative works
     * [Strasbourg(CDS数据库)](http://cdsportal.u-strasbg.fr/): SIMBAD, VIZIER...
     * [Astro Data Lab](https://datalab.noao.edu/)
-    * [Astrophysics Source Code Library](ASCL.net): 查找astrophysics source code的网站
+    * [Astrophysics Source Code Library](https://ASCL.net): 查找astrophysics source code的网站
     * [SDSS SAS](https://data.sdss.org/sas/): SDSS 数据存储网站
-    * [Filter Profile Service](https://svo2.cab.inta-csic.es/theory/fps3): 望远镜filter数据库
+    * [Filter Profile Service](http://svo2.cab.inta-csic.es/svo/theory/fps/): 望远镜filter数据库
     * [splatalogue](https://splatalogue.online): 查找天文谱线各种信息的网站查找天文谱线各种信息的网站
     * [ASD原子光谱数据库](https://physics.nist.gov/PhysRefData/ASD/lines_form.html):可用于查谱线
     * [Unified Astronomy Thesaurus (UAT)](https://astrothesaurus.org/concept-select/):标准化论文关键词的数据库
