@@ -516,7 +516,8 @@
   * [中国制霸](https://lab.magiconch.com/china-ex/): 省级行政区打卡填色地图
   * [Browser.lol](https://browser.lol/): Use this virtual browser within your existing one to test website reachability from outside of your network.
   * [Jiffy Reader](https://github.com/ansh/jiffyreader.com): 这个插件可以把网页转换成bionic reading
-   
+  * [Bionic for Zotero Reader](https://github.com/windingwind/bionic-for-zotero): 使zotero支持bionic reading
+  * [Wayback Machine](https://web.archive.org/): 可以查询网页的历史变更记录，查到过去某个时间点的网页是什么样子
     
 * ## 配色 
   * [中国色](http://zhongguose.com/): 中国传统颜色色彩搭配网站
@@ -552,11 +553,11 @@
 
 
 ## 致谢
-感谢周泰对该项目初期建设的贡献！
+感谢周泰对该项目的巨大贡献！
 
 感谢余捻坤,LKs分享的大量网站！
 
-感谢徐福祥，林小靖，张路路，庄明阳，黄崧，李立新，吕澈秋，傅煜铭，徐伟伟，刘畅，李嘉轩，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，黄齐丰，何子麒, saschazesiger，尹高成，王彧辰，张子键，孙文，刘语晨！
+感谢徐福祥，林小靖，张路路，庄明阳，黄崧，李立新，吕澈秋，傅煜铭，尹高成，徐伟伟，刘畅，李嘉轩，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，黄齐丰，何子麒, saschazesiger，王彧辰，张子键，孙文，刘语晨！
 
 感谢以上所有网站的作者！
 
