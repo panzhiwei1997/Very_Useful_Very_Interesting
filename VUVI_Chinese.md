@@ -112,6 +112,7 @@
     * [SciServer](https://www.sciserver.org/about/)：是上面那个casjob的主页，还支持在线计算，分享文件等功能。[(pdf)](https://ui.adsabs.harvard.edu/abs/2020A%26C....3300412T/abstract)
     * [CMD](http://stev.oapd.inaf.it/cgi-bin/cmd): 恒星演化轨迹
     * [Astrometry.net](http://astrometry.net/): 图像匹配天区位置
+    * [HiPS2FITS thumbnails matrix generator](https://alasky.cds.unistra.fr/hips-image-services/hips2fits/html): 可以快速cutout一些源在各个survey的image
     * [Altitude/Azimuth of Stars](https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/horizontal_rhip_en.cgi)
     * [Object Visibility – STARALT](http://catserver.ing.iac.es/staralt/):获取天体可观测性的网站
     * [Omni Calculator](https://www.omnicalculator.com/): 几百种计算器，包括物理、天文、数学、生活等各种领域
