@@ -85,6 +85,7 @@
   * ### 数据库
     * [ADS](https://ui.adsabs.harvard.edu/): 天文文献网站
     * [Arxiv](http://cn.arxiv.org/): 文献预印本网站
+    * [Alphaxiv](https://alphaxiv.org): arxiv进阶版，现在已经有社群讨论、论文评价、trending paper推介、基于Mistral OCR&Claude 3.7 thinking的论文要点提炼，以及代码复现。
     * [中国天文学预印本平台](http://astro.chinaxiv.org/)
     * [Benty-Fields](https://benty-fields.com/daily_arXiv): 可以给arxiv文章投票，支持机器学习推送文章
     * [Iarxiv](https://iarxiv.org/login): arxiv分类看
@@ -123,7 +124,7 @@
     * [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/): 提取图像中的数据点
     * [nbviewer](https://nbviewer.jupyter.org/): Github打开notebook经常会卡或者失败，把链接复制到这个网站可以很快打开。
     * [卫星与太空垃圾实时信息](http://stuffin.space/)
-  
+    * [国台天文大模型](https://nadc.china-vo.org/ai/)  
 
 
   * ### 教程与课程
@@ -558,7 +559,7 @@
 
 感谢余捻坤,LKs分享的大量网站！
 
-感谢徐福祥，林小靖，张路路，庄明阳，黄崧，李立新，吕澈秋，傅煜铭，尹高成，徐伟伟，刘畅，李嘉轩，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，黄齐丰，何子麒, saschazesiger，王彧辰，张子键，孙文，刘语晨，陈洁！
+感谢徐福祥，林小靖，张路路，庄明阳，黄崧，李立新，吕澈秋，傅煜铭，尹高成，张子键，徐伟伟，刘畅，李嘉轩，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，黄齐丰，何子麒, saschazesiger，王彧辰，孙文，刘语晨，陈洁，仇是！
 
 感谢以上所有网站的作者！
 
