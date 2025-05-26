@@ -416,7 +416,7 @@
   * [殖民火星](http://tm.jaing.me/)
   * [桌游中常见的游戏机制](https://www.gameres.com/313588.html)
   
-* ## 电子游戏
+* ## 游戏
   * [steam社区翻墙](https://www.dogfight360.com/blog/686/)
   * [小霸王在线游戏](https://www.yikm.net/)
   * [网易云游戏平台](https://cg.163.com/#/mobile)
@@ -427,6 +427,8 @@
   * [人生重开模拟器](http://liferestart.syaro.io/public/index.html)
   * [打字比赛](https://play.typeracer.com/)
   * [gamer520](https://www.gamer520.com/): 游戏白嫖网站
+  * [图寻](https://tuxun.fun/): 根据图片猜测所在城市
+  * [国际象棋](https://www.chess.com/)
    
 * ## 影音
   * [Listen 1](https://github.com/listen1/listen1_chrome_extension)：搜歌听歌，就用Listen1。
@@ -440,7 +442,8 @@
   * [欧乐视频](https://www.olevod.com/)：免费追高清剧和电影
   * [爱壹帆](https://www.yfsp.tv/)：免费追剧网址，资源非常全，清晰度不如欧乐视频
   * [66影视](https://www.66yingshi.com/)：免费追剧网址
-  * [在线之家](https://www.zxzj.pro/)：免费追剧网址 
+  * [在线之家](https://www.zxzj.pro/)：免费追剧网址
+  * [听懂一切](https://tingdong.cn/)：各种音频产品、乐器的真实效果、参数
 
      
 * ## 图片
@@ -453,7 +456,7 @@
   * [SVG背景图在线生成](https://cn.pattern.monster/)
   * [AI生成动漫头像](https://waifulabs.com/generate)
   * [upscayl](https://www.upscayl.org/): 可以利用ai将低分辨率的图片转换成高分辨率的图片
-
+  * [EMOJIALL](https://www.emojiall.com/zh-hans/all-emojis): 全部Emoji的列表，使用方便。
 
 
 
@@ -515,6 +518,7 @@
   * [观沧海](https://www.ageeye.cn/): 各种地图和幻想地图的网站
   * [中国历史地理信息平台](https://timespace-china.fudan.edu.cn/FDCHGIS/): 中国历史地名查询网址
   * [Fantasy-Map-Generator](https://azgaar.github.io/Fantasy-Map-Generator/): 幻想地图生成器
+  * [Watabou](https://watabou.github.io/): 地图生成器：城市、疆域、地下城、房子等
   * [Windy](https://www.windy.com/39.910/116.390?temp,34.470,109.556,5): 强大的天气预报网站
   * [中国制霸](https://lab.magiconch.com/china-ex/): 省级行政区打卡填色地图
   * [Browser.lol](https://browser.lol/): Use this virtual browser within your existing one to test website reachability from outside of your network.
@@ -544,6 +548,7 @@
   * [Slant](https://www.slant.co/): 一个帮助你找到最好的产品和工具的一个实用网站
   * [地图选择器](http://datav.aliyun.com/tools/atlas/)：可以下载到各省，各市，各县的svg格式的地图素材。这些素材导入PPT中都是可以编辑的。可以单独更改颜色和轮廓。
   * [标准地图](http://bzdt.ch.mnr.gov.cn/index.html)
+ 
   
 * ## 攻略
   * [中国法律服务网](https://ai.12348.gov.cn/pc/): 智能法律咨询
