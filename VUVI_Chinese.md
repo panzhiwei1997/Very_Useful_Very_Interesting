@@ -176,9 +176,11 @@
 
   * ### 天文学者or学生的Github
     * [潘志伟](https://github.com/panzhiwei1997)
-    * [吴晋(https://github.com/fmajor)
+    * [吴晋](https://github.com/fmajor)
     * [Chang Liu](https://github.com/slowdivePTG/Notes)
     * [林小靖](https://github.com/LittleLin1999)
+    * [Yuchen Wang](https://github.com/ycwang-astro)：目前含有3个Python包。pyttop: table/catalog operations and plotting，有的功能和TOPCAT有些相似，doc: https://pyttop.readthedocs.io/en/latest/。中文版介绍：https://mp.weixin.qq.com/s/zqjGQoYzgkrg6_fNkrfEKg。    vector-plot-extractor: 可以通过UI来从文章中的矢量图提取（散点、折线类）数据。介绍：https://mp.weixin.qq.com/s/id7eM4n6AW9g2aKc9bZ3Lg。    latextools:包含两个小脚本，可以用来从一套统一的作者信息列表生成各种journal LaTeX所要求的author & affiliation list代码，也有助于把LaTeX及其引用的图片等文件整理到一起。中文介绍：https://mp.weixin.qq.com/s/rgtxwTIwcdwA-7BYkWmoyA
+
 
   * ### 软件
     * [SCAMP](https://www.astromatic.net/software/scamp): image匹配天区位置
@@ -192,13 +194,14 @@
 
 
 * ## 计算机
-  * ### Python文档
+  * ### 文档
     * [Python字符串格式化输出的文档](https://pyformat.info/)
     * [Python Linestyle、marker、颜色表](https://www.cnblogs.com/darkknightzh/p/6117528.html)
     * [Python Colormap表](https://blog.csdn.net/lly1122334/article/details/88535217)
     * [天文数据基础与Python天文技术培训](https://hebl.china-vo.org/course/PIA2020/)
     * [PyGame教程](https://eyehere.net/2011/python-pygame-novice-professional-1/)
     * [Cigale教程](https://gitlab.lam.fr/ism-of-galaxies-2021/cigale-hands-on-session)
+    * [SED fitting的各种小技巧和坑](https://github.com/Abrygzy/sed_fitting_tricks):目前处于初创阶段，欢迎大家来分享经验
 
   * ### Python包
     * [Numpy](https://numpy.org/)
@@ -565,7 +568,7 @@
 
 感谢LKs,余捻坤,徐福祥分享的大量网站！
 
-感谢林小靖，张路路，庄明阳，黄崧，李立新，吕澈秋，傅煜铭，尹高成，张子键，徐伟伟，刘畅，李嘉轩，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，黄齐丰，何子麒, saschazesiger，王彧辰，孙文，刘语晨，陈洁，仇是的分享！
+感谢林小靖，张路路，庄明阳，黄崧，李立新，吕澈秋，傅煜铭，尹高成，张子键，黄齐丰，王彧辰，徐伟伟，刘畅，李嘉轩，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，何子麒, saschazesiger，孙文，刘语晨，陈洁，仇是的分享！
 
 感谢以上所有网站的作者！
 
