@@ -232,6 +232,7 @@
       * LtsFit: to robustly fit a plane or a line to data with intrinsic scatter
       * LOESS: to uncover mean trends from noisy one-dimensional or two-dimensional data using the LOESS approach.
       * AdaMet: An Adaptive Metropolis package for Bayesian analisys.
+    * [cmplstyle](https://pypi.org/project/cmplstyle/):A Python package providing matplotlib style for scientific plotting with traditional Chinese color palette.
 
 
   * ### AI
@@ -553,9 +554,10 @@
   * [标准地图](http://bzdt.ch.mnr.gov.cn/index.html)
  
   
-* ## 攻略
+* ## 攻略教程
   * [中国法律服务网](https://ai.12348.gov.cn/pc/): 智能法律咨询
   * [MOVIsicOOD](https://github.com/panzhiwei1997/MOVIsicOOD):一个发烧友的影评和食评
+  * [像老乡鸡那样做饭](https://github.com/Gar-b-age/CookLikeHOC):老乡鸡菜品教程
   * [买房购房知识](https://github.com/houshanren/hangzhou_house_knowledge)
   * [围棋教程](https://tieba.baidu.com/p/3413670740?red_tag=0900211857)
   * [WallesPKU](https://blog.wallesspku.space/blog/post/hiaoxui/clash-zh): 无障碍浏览国外网站
@@ -568,7 +570,7 @@
 
 感谢LKs,余捻坤,徐福祥分享的大量网站！
 
-感谢林小靖，张路路，庄明阳，黄崧，李立新，吕澈秋，傅煜铭，尹高成，张子键，黄齐丰，王彧辰，徐伟伟，刘畅，李嘉轩，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，何子麒, saschazesiger，孙文，刘语晨，陈洁，仇是的分享！
+感谢林小靖，张路路，傅煜铭，刘语晨，庄明阳，黄崧，李立新，吕澈秋，尹高成，张子键，黄齐丰，王彧辰，徐伟伟，刘畅，李嘉轩，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，何子麒, saschazesiger，孙文，陈洁，仇是的分享！
 
 感谢以上所有网站的作者！
 
