@@ -213,6 +213,7 @@
     * [ZEUS](https://github.com/minaskar/zeus):MCMC
     * [Astroquery](https://astroquery.readthedocs.io/en/latest/index.html): 写query
     * [sfdmap](https://github.com/kbarbary/sfdmap): 消光map
+    * [dustmaps](https://dustmaps.readthedocs.io/en/latest/index.html): 消光map
     * [Kapteyn](https://www.astro.rug.nl/software/kapteyn/index.html): 一系列工具
     * [VoigtFit](https://voigtfit.readthedocs.io/en/latest/)
     * [LIME](https://lime-stable.readthedocs.io/en/latest/introduction/installation.html): A Line Measuring library. This library provides a set of tools to fit lines in astronomical spectra. Its design aims for a user-friendly workflow for both single lines and large data sets. The library provides tools for masking, detecting, profile fitting and storing the results. The output measurements are focused on the gas chemical and kinematic analysis. [paper](https://arxiv.org/pdf/2405.15072)
@@ -570,7 +571,7 @@
 
 感谢LKs,余捻坤,徐福祥分享的大量网站！
 
-感谢林小靖，张路路，傅煜铭，刘语晨，庄明阳，黄崧，李立新，吕澈秋，尹高成，张子键，黄齐丰，王彧辰，徐伟伟，刘畅，李嘉轩，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，何子麒, saschazesiger，孙文，陈洁，仇是的分享！
+感谢傅煜铭，林小靖，张路路，刘语晨，庄明阳，黄崧，李立新，吕澈秋，尹高成，张子键，黄齐丰，王彧辰，徐伟伟，刘畅，李嘉轩，邱钰，吴晋，何勃亮，郑捷，邹虎，任致远，Greg，陶一寒，韩耕愚，张茂森，陈天翔，张李佳琦，刘成祺，杨枫，白浩东，Masafusa，孙凤梧，庞宇萱，何子麒, saschazesiger，孙文，陈洁，仇是的分享！
 
 感谢以上所有网站的作者！
 
