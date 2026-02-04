@@ -180,7 +180,7 @@
     * [吴晋](https://github.com/fmajor)
     * [Chang Liu](https://github.com/slowdivePTG/Notes)
     * [林小靖](https://github.com/LittleLin1999)
-    * [Yuchen Wang](https://github.com/ycwang-astro)：目前含有3个Python包。pyttop: table/catalog operations and plotting，有的功能和TOPCAT有些相似，doc: https://pyttop.readthedocs.io/en/latest/。中文版介绍：https://mp.weixin.qq.com/s/zqjGQoYzgkrg6_fNkrfEKg。    vector-plot-extractor: 可以通过UI来从文章中的矢量图提取（散点、折线类）数据。介绍：https://mp.weixin.qq.com/s/id7eM4n6AW9g2aKc9bZ3Lg。    latextools:包含两个小脚本，可以用来从一套统一的作者信息列表生成各种journal LaTeX所要求的author & affiliation list代码，也有助于把LaTeX及其引用的图片等文件整理到一起。中文介绍：https://mp.weixin.qq.com/s/rgtxwTIwcdwA-7BYkWmoyA
+    * [Yu-Chen Wang](https://github.com/ycwang-astro)：目前含有3个Python包。pyttop: table/catalog operations and plotting，有的功能和TOPCAT有些相似，doc: https://pyttop.readthedocs.io/ 中文版介绍：https://mp.weixin.qq.com/s/zqjGQoYzgkrg6_fNkrfEKg    vector-plot-extractor: 可以通过UI来从文章中的矢量图提取（散点、折线类）数据。介绍：https://mp.weixin.qq.com/s/id7eM4n6AW9g2aKc9bZ3Lg     latextools: 包含两个小脚本，可以用来从一套统一的作者信息列表生成各种journal LaTeX所要求的author & affiliation list代码，也有助于把LaTeX及其引用的图片等文件整理到一起。中文介绍：https://mp.weixin.qq.com/s/rgtxwTIwcdwA-7BYkWmoyA
 
 
   * ### 软件
