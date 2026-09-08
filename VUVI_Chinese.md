@@ -174,6 +174,7 @@
     * [Antony Lewis](https://cosmologist.info/): 宇宙学相关
     * [David H. Weinberg](http://www.astronomy.ohio-state.edu/~dhw/): 宇宙学、星系相关
     * [Richard W. Pogge](http://www.astronomy.ohio-state.edu/~pogge/): 内有丰富课程资料
+    * [庄明阳](https://mingyangzhuang.github.io)
 
   * ### 天文学者or学生的Github
     * [潘志伟](https://github.com/panzhiwei1997)
@@ -235,6 +236,7 @@
       * LOESS: to uncover mean trends from noisy one-dimensional or two-dimensional data using the LOESS approach.
       * AdaMet: An Adaptive Metropolis package for Bayesian analisys.
     * [cmplstyle](https://pypi.org/project/cmplstyle/):A Python package providing matplotlib style for scientific plotting with traditional Chinese color palette.
+    * [jwst_psfmc](https://github.com/mingyangzhuang/jwst_psfmc)：针对JWST（及HST）drizzle图像中空间相关噪声的MCMC PSF测光工具。
 
 
   * ### AI
@@ -356,9 +358,6 @@
 
 
 
-
-
-
 # 文档
 * ## 文献与电子书
   * [Library Genesis](http://gen.lib.rus.ec/): 一个很强大的电子书下载网站
@@ -395,8 +394,6 @@
   
 * ## 文档编辑教程
   * [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
-
-
 
 
 
