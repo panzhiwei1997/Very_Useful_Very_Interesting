@@ -79,6 +79,7 @@ It's hard to renew immediately, so if you don't want to miss something, you can 
   * [Song Huang](http://dr-guangtou.github.io/)
   * [Jin Wu's Github](https://github.com/fmajor)
   * [KIAAGravity](https://kiaagravity.github.io/)
+  * [Ming-Yang Zhuang](https://mingyangzhuang.github.io)
 
 * ### Softwares
   * [SCAMP](https://www.astromatic.net/software/scamp): image to match astrometry
@@ -107,6 +108,7 @@ It's hard to renew immediately, so if you don't want to miss something, you can 
   * [ParaMonte: Parallel Monte Carlo Library](https://www.cdslab.org/paramonte/notes/overview/preface/)
   * [PyHammer](https://github.com/BU-hammerTeam/PyHammer): a tool developed to allow rapid and automatic spectral classification of stars.
   * [DESK: Dusty-Evolved-Star-Kit](https://github.com/s-goldman/Dusty-Evolved-Star-Kit): an SED-fitting python package for fitting data from evolved stars (photometry or spectra)
+  * [jwst_psfmc](https://github.com/mingyangzhuang/jwst_psfmc): PSF photometry with MCMC for JWST (and HST) drizzled images, correcting for the spatially correlated noise introduced by drizzling.
 
 * ### Latex
   * [overleaf](https://www.overleaf.com/): The easy to use, online, collaborative LaTeX editor
