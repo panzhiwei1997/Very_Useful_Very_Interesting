@@ -170,17 +170,18 @@
     * [邹虎](http://batc.bao.ac.cn/~zouhu/doku.php?id=projects:start): 内有地外行星python处理教程
     * [黄崧](http://dr-guangtou.github.io/)
     * [王凯](https://www.kosmoswalker.com/about_me/resource.html)
+    * [庄明阳](https://mingyangzhuang.github.io)
     * [KIAAGravity](https://kiaagravity.github.io/)
     * [Antony Lewis](https://cosmologist.info/): 宇宙学相关
     * [David H. Weinberg](http://www.astronomy.ohio-state.edu/~dhw/): 宇宙学、星系相关
     * [Richard W. Pogge](http://www.astronomy.ohio-state.edu/~pogge/): 内有丰富课程资料
-    * [庄明阳](https://mingyangzhuang.github.io)
 
   * ### 天文学者or学生的Github
     * [潘志伟](https://github.com/panzhiwei1997)
     * [吴晋](https://github.com/fmajor)
     * [Chang Liu](https://github.com/slowdivePTG/Notes)
     * [林小靖](https://github.com/LittleLin1999)
+    * [庄明阳](https://github.com/mingyangzhuang)
     * [Yu-Chen Wang](https://github.com/ycwang-astro)：目前含有3个Python包。pyttop: table/catalog operations and plotting，有的功能和TOPCAT有些相似，doc: https://pyttop.readthedocs.io/ 中文版介绍：https://mp.weixin.qq.com/s/zqjGQoYzgkrg6_fNkrfEKg    vector-plot-extractor: 可以通过UI来从文章中的矢量图提取（散点、折线类）数据。介绍：https://mp.weixin.qq.com/s/id7eM4n6AW9g2aKc9bZ3Lg     latextools: 包含两个小脚本，可以用来从一套统一的作者信息列表生成各种journal LaTeX所要求的author & affiliation list代码，也有助于把LaTeX及其引用的图片等文件整理到一起。中文介绍：https://mp.weixin.qq.com/s/rgtxwTIwcdwA-7BYkWmoyA
 
 
@@ -188,9 +189,6 @@
     * [SCAMP](https://www.astromatic.net/software/scamp): image匹配天区位置
     * [Zotero](https://www.zotero.org/): 一个文献管理软件，标签系统很好用
     * [ClickHouse](https://clickhouse.tech/): 一个数据库软件
-
-
-
 
 
 
@@ -270,7 +268,6 @@
 
 
 
-
 * ## 语言
   * [DeepL](https://www.deepl.com/translator)：翻译和AI改写网站
   * [英语近义词在线词典](https://www.thesaurus.com/)
@@ -309,10 +306,8 @@
 
 
 
-
 * ## 化学
   * [AIST](https://sdbs.db.aist.go.jp/sdbs/cgi-bin/direct_frame_top.cgi): 有机物光谱数据库
-
 
 
 
@@ -342,19 +337,6 @@
 
 * ## 心理学
   * [心晴网](http://www.ixinqing.com/): 7000多本免费心理学电子书籍
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -394,9 +376,6 @@
   
 * ## 文档编辑教程
   * [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
-
-
-
 
 
 
@@ -464,7 +443,6 @@
 
 
 
-
 # 学校
 * ## 北京大学
   * [科维理天体物理研究所：KIAA](http://kiaa.pku.edu.cn/): 
@@ -473,7 +451,6 @@
   * [智慧场馆](https://epe.pku.edu.cn/venue/PKU/home):可以预定场地
   * [北大课表](http://dean.pku.edu.cn/pkudean/course/kcbzy.php?xs=001&xn=20-21&xq=2)
   * [教学媒体资源](https://resource.pku.edu.cn/index.php?r=course%2Findex)
-
 
 
 
@@ -490,7 +467,6 @@
   * [书签地球](https://www.bookmarkearth.com/): 收藏夹分享网站
   * [优优网](https://uiiiuiii.com/tool/online): 在线神器收集
   * [阿虚同学的储物间](https://axutongxue.com/): 几百个实用网站，支持搜索。
-
 
 
 * ## 工具
