@@ -411,6 +411,7 @@
   * [gamer520](https://www.gamer520.com/): 游戏白嫖网站
   * [图寻](https://tuxun.fun/): 根据图片猜测所在城市
   * [国际象棋](https://www.chess.com/)
+  * [Steam图书馆](https://www.steamdownload.cn/)：免费游戏下载站，9000+ 款 PC / Switch / 怀旧 / 手机游戏和 Galgame，免注册，夸克、百度、迅雷、UC 等多网盘备份，另有 AI 荐游
    
 * ## 影音
   * [Listen 1](https://github.com/listen1/listen1_chrome_extension)：搜歌听歌，就用Listen1。
