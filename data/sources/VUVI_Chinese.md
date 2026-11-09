@@ -143,6 +143,7 @@
     * [S/N in optical astronomy](https://www.ucolick.org/~bolte/AY257/s_n.pdf)
 
   * ### 望远镜与巡天
+    * [NEXUS主页](https://nexus-jwst.github.io/): JWST 多周期巡天项目主页，提供项目动态与数据访问入口。
     * [CSST](http://www.nao.cas.cn/csst/)
     * [DESI](https://www.desi.lbl.gov/)
     * [JWST for scientists](https://www.stsci.edu/jwst/)
@@ -399,6 +400,7 @@
   * [桌游中常见的游戏机制](https://www.gameres.com/313588.html)
   
 * ## 游戏
+  * [PokéBonk](https://pokebonk.com/): 免费的宝可梦同人 3D 生存游戏，可在浏览器中游玩，包含进化与成群敌人的生存挑战。
   * [steam社区翻墙](https://www.dogfight360.com/blog/686/)
   * [小霸王在线游戏](https://www.yikm.net/)
   * [网易云游戏平台](https://cg.163.com/#/mobile)

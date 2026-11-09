@@ -1,0 +1,818 @@
+{
+  "4c2cf0c95eaf": {
+    "name": "CSST science overview",
+    "description": "An overview of CSST science."
+  },
+  "f6b34f8134f2": {
+    "description": "Discuss interesting new astronomy papers on arXiv."
+  },
+  "df33ead8fc1c": {
+    "name": "Taotie",
+    "description": "An extensive collection of astronomy resources curated by Song Huang."
+  },
+  "2842b2da0352": {
+    "name": "Physics and astronomy constants"
+  },
+  "520225ea5541": {
+    "description": "An astronomical unit conversion reference."
+  },
+  "db86b5228eb4": {
+    "name": "Astronomy terminology",
+    "description": "An official English–Chinese astronomy dictionary."
+  },
+  "2e69590e1984": {
+    "name": "Encyclopedia of Astronomy and Astrophysics"
+  },
+  "4d79776b3ee6": {
+    "name": "Handbook of Space Astronomy and Astrophysics"
+  },
+  "0fc5750e5c48": {
+    "description": "Find upcoming astronomy conferences and meetings."
+  },
+  "25d31ebe1fc4": {
+    "description": "Historical observatory status information from the pandemic."
+  },
+  "c4ad942f5184": {
+    "description": "The official Hubble Fellowship program website."
+  },
+  "8e7cd2823687": {
+    "name": "NHFP application resources"
+  },
+  "d1d1d55f60ff": {
+    "description": "SciX, a successor and companion to ADS for scientific literature."
+  },
+  "7a3c9b2c1960": {
+    "description": "Discuss arXiv papers, discover trending research, and explore AI-assisted summaries and code reproduction."
+  },
+  "55cee957d71e": {
+    "description": "Explore arXiv papers as a star map."
+  },
+  "346699571d53": {
+    "name": "China Astronomy Preprint Platform"
+  },
+  "6a3c541d5be5": {
+    "description": "Vote on arXiv papers and receive personalized research recommendations."
+  },
+  "687bfaddf70d": {
+    "description": "Browse arXiv papers by category."
+  },
+  "038d94e3a73e": {
+    "description": "Browse daily arXiv updates."
+  },
+  "e431ee483675": {
+    "description": "An astronomy data platform."
+  },
+  "2fe53fe5c2f4": {
+    "description": "Find source code used in astrophysics research."
+  },
+  "01c947af450b": {
+    "description": "A database of telescope filter profiles."
+  },
+  "d4579eead904": {
+    "description": "Look up astronomical spectral lines."
+  },
+  "e1dce4669500": {
+    "description": "A controlled vocabulary for astronomy research keywords."
+  },
+  "47fe547288b6": {
+    "name": "Mars and Pluto craters"
+  },
+  "58b11b2308c5": {
+    "description": "Explore all-sky survey footprints."
+  },
+  "e7c7c9b16675": {
+    "description": "Browse images and source catalogs from multiple sky surveys."
+  },
+  "7187aafdd10e": {
+    "name": "SED fitting resources"
+  },
+  "901eee0dc3cc": {
+    "description": "The platform behind CasJobs, also offering online computing and file sharing."
+  },
+  "88cb6d71fa1f": {
+    "description": "Create image cutouts of sources across multiple surveys."
+  },
+  "14ff4bb33b4a": {
+    "description": "Check when a celestial object is observable."
+  },
+  "fa477f03032f": {
+    "description": "Calculators covering astronomy, physics, mathematics, and everyday life."
+  },
+  "ab630e2796c9": {
+    "name": "Caltech cosmology calculator"
+  },
+  "8a208ae65981": {
+    "name": "Galaxy particle simulation"
+  },
+  "694a734c1a58": {
+    "name": "Gravitational-wave detection simulation"
+  },
+  "599ede716989": {
+    "name": "Live satellites and space debris"
+  },
+  "a77413cd2a75": {
+    "name": "NADC astronomy AI assistant"
+  },
+  "25c59f818fab": {
+    "description": "A guide to the AASTeX journal manuscript template."
+  },
+  "fcac44635594": {
+    "description": "A collection of astronomy lectures."
+  },
+  "1562d11cfd24": {
+    "name": "Extragalactic astronomy course",
+    "description": "Course materials from the University of Virginia."
+  },
+  "601f85940508": {
+    "name": "Interstellar medium course",
+    "description": "Course materials by Christopher W. Churchill at New Mexico State University."
+  },
+  "353c4cf20d02": {
+    "name": "Press release guidelines for scientists"
+  },
+  "86b55d17a5bd": {
+    "name": "Introduction to signal-to-noise"
+  },
+  "dd19ebf55cfc": {
+    "name": "Zhiwei Pan"
+  },
+  "da405a8ca7c0": {
+    "name": "Linhua Jiang"
+  },
+  "d3aa28b77810": {
+    "name": "Feige Wang"
+  },
+  "8d10b5fc21c1": {
+    "name": "Yuming Fu"
+  },
+  "e2ac64ede6b5": {
+    "name": "Xiaojing Lin"
+  },
+  "dd3208df05ec": {
+    "name": "Lixin Li",
+    "description": "An academic homepage with a collection of recommended websites."
+  },
+  "d67898b07ee5": {
+    "name": "Lijing Shao"
+  },
+  "b91eb1ceda88": {
+    "name": "Hu Zou"
+  },
+  "4d1749320cbc": {
+    "name": "Song Huang"
+  },
+  "5736d46badc4": {
+    "name": "Kai Wang"
+  },
+  "ce334895fbbd": {
+    "name": "Ming-Yang Zhuang"
+  },
+  "0bcb8e9d21bf": {
+    "description": "Resources related to cosmology."
+  },
+  "c681b680467c": {
+    "description": "Research in cosmology and galaxies."
+  },
+  "8cba25add1af": {
+    "description": "An academic homepage with extensive course materials."
+  },
+  "b26d09022692": {
+    "name": "Zhiwei Pan on GitHub"
+  },
+  "cfdff9e26c35": {
+    "name": "Jin Wu on GitHub"
+  },
+  "49a19ba132f3": {
+    "name": "Xiaojing Lin on GitHub"
+  },
+  "3b3d746a14e8": {
+    "name": "Ming-Yang Zhuang on GitHub"
+  },
+  "90d3f4035c3e": {
+    "description": "Python tools including pyttop for table and catalog operations, vector-plot-extractor for retrieving data from vector figures, and latextools for journal author lists and LaTeX file organization. See the original entry for documentation and introductions."
+  },
+  "4a8054f31906": {
+    "name": "Python string formatting reference"
+  },
+  "95ae28a3688b": {
+    "name": "Python line styles, markers and colors"
+  },
+  "40b50ae358e0": {
+    "name": "Python colormap reference"
+  },
+  "96c8ad8baad8": {
+    "name": "Astronomical data and Python training"
+  },
+  "792ad94fad2d": {
+    "name": "PyGame tutorial"
+  },
+  "02e10931dc7f": {
+    "name": "CIGALE tutorial"
+  },
+  "df5bd3245dbb": {
+    "name": "SED fitting tips and pitfalls",
+    "description": "A community collection of SED fitting experiences and advice."
+  },
+  "266f367e9f08": {
+    "description": "Tools for astronomical photometry."
+  },
+  "1eca8db94dc2": {
+    "description": "Tools for spectral analysis."
+  },
+  "a770cddeefcb": {
+    "description": "Access astronomical dust and extinction maps."
+  },
+  "6a7670fb7039": {
+    "description": "Fit quasar spectra."
+  },
+  "a9b0cfb54fd5": {
+    "description": "Generate quasar spectral energy distributions."
+  },
+  "c84d2ef4e25e": {
+    "description": "Measure spectral redshifts."
+  },
+  "3d6549b9a777": {
+    "name": "AI art prompt tag generator",
+    "description": "An easy-to-use tag generator for AI art prompts."
+  },
+  "f5aa1408d036": {
+    "name": "Free programming books in Chinese"
+  },
+  "b3041b38df9b": {
+    "name": "Tsinghua OS Kernel Labs"
+  },
+  "842c43d79256": {
+    "name": "Tsinghua computer science courses"
+  },
+  "fe2e7d3f1bc5": {
+    "name": "Chinese GitHub rankings"
+  },
+  "a40b11d7b28d": {
+    "name": "C++ algorithms"
+  },
+  "66f015159927": {
+    "description": "Compare programming fonts and find your favorite."
+  },
+  "79be97faf56c": {
+    "name": "Hanabi",
+    "description": "A Chinese data visualization tool; the original listing notes GIF and MP4 export."
+  },
+  "dc98721c2af1": {
+    "description": "Create data visualizations; the original listing notes restrictions on free GIF and MP4 export."
+  },
+  "9d56af8a6e65": {
+    "description": "Interactive demonstrations of Markov-chain Monte Carlo methods."
+  },
+  "4575713f1f5c": {
+    "description": "Practical programming tutorials, including regression in Python and R."
+  },
+  "4aea9e8d2843": {
+    "description": "A practical R data visualization textbook used at Duke University."
+  },
+  "5b2560d344b9": {
+    "name": "Vim: from beginner to advanced"
+  },
+  "dd533b2f82f9": {
+    "name": "The birth of an AI",
+    "description": "An interactive introduction to machine learning."
+  },
+  "362466bc5c49": {
+    "description": "Translation and AI-assisted rewriting."
+  },
+  "4d281cd182a2": {
+    "name": "Thesaurus",
+    "description": "An English synonym dictionary. The source lists several aliases for this URL."
+  },
+  "3791b22f6a14": {
+    "description": "Learn vocabulary in a range of languages through interactive activities."
+  },
+  "dd76fd88f43d": {
+    "description": "Check English word combinations and usage in language corpora."
+  },
+  "84460b50f837": {
+    "name": "Duke academic writing course"
+  },
+  "82128584545c": {
+    "name": "English movie and TV quotes",
+    "description": "Browse English dialogue from films and television series."
+  },
+  "b81168465e3f": {
+    "name": "English dictionary with expandable vocabulary"
+  },
+  "32fcbb4d2137": {
+    "description": "Find words with specified letters and lengths for Wordle."
+  },
+  "d58aaf9a74a1": {
+    "name": "WantWords reverse dictionary",
+    "description": "A reverse dictionary and synonym tool for Chinese and English."
+  },
+  "83b9df535f86": {
+    "description": "Language learning resources, including Chinese regional languages."
+  },
+  "eff3c7547755": {
+    "description": "Check English writing and get rewriting suggestions."
+  },
+  "dbad13af1a15": {
+    "description": "Check English grammar."
+  },
+  "5d0fdb6d6785": {
+    "name": "Chinese abbreviation dictionary",
+    "description": "Look up Chinese internet abbreviations."
+  },
+  "bfe79efbf5a1": {
+    "name": "Xinzheng Li's homepage",
+    "description": "Lecture notes on group theory and quantum many-body theory. Other source entries point to the same URL."
+  },
+  "cce777ce7647": {
+    "name": "MIT linear algebra notes"
+  },
+  "0def8bd805cd": {
+    "name": "Game theory games"
+  },
+  "0b90f32f4f7f": {
+    "name": "Integral calculator"
+  },
+  "2c72403348c4": {
+    "name": "Definite integral calculator"
+  },
+  "d8cdcd9464d2": {
+    "name": "Poisson distribution calculator"
+  },
+  "40589ccbe87b": {
+    "name": "Poisson calculator — alternative"
+  },
+  "97428dc02584": {
+    "name": "Metaso Writing Cat",
+    "description": "AI-assisted writing, error checking, rewriting, and translation, including classical Chinese rewriting."
+  },
+  "1813b4b3db62": {
+    "name": "Microsoft AI Writing",
+    "description": "AI feedback and scoring for English essays across several exam formats."
+  },
+  "b1dc9d68cdc7": {
+    "name": "AI Chinese couplets"
+  },
+  "37fad21df84c": {
+    "name": "Caiyun Xiaomeng",
+    "description": "AI-assisted story continuation."
+  },
+  "b8d796158e7e": {
+    "name": "Chinese science fiction database"
+  },
+  "9dd03032adf2": {
+    "name": "Classical Chinese poetry collection"
+  },
+  "750ee15199c7": {
+    "name": "Technology Enthusiasts Weekly"
+  },
+  "af6e02cb0d4e": {
+    "name": "Chinese ancient books collection"
+  },
+  "4be6796a7eda": {
+    "name": "Xinqing psychology library",
+    "description": "A collection of psychology ebooks; the original listing describes more than 7,000 free books."
+  },
+  "172149323e3b": {
+    "description": "Search and download ebooks."
+  },
+  "dcea33159bf9": {
+    "description": "A scholarly publishing platform with a selection of free ebooks."
+  },
+  "e1b93e41ffc8": {
+    "description": "A directory of Sci-Hub access links."
+  },
+  "a3004e0f7306": {
+    "name": "National Library Reference Alliance",
+    "description": "Search books, papers, journals, newspapers, standards, reports, and audiovisual materials."
+  },
+  "54116e9c3c57": {
+    "description": "A free academic paper search service."
+  },
+  "097e9d3c7852": {
+    "name": "Yuntu book companion discs",
+    "description": "A collection of digital companion discs published with books."
+  },
+  "0a9c5e6986d8": {
+    "name": "Free ebooks"
+  },
+  "d50bfc95922a": {
+    "name": "Jiumo book search",
+    "description": "An ebook search engine."
+  },
+  "a4575e19f8bb": {
+    "description": "A digital library of books."
+  },
+  "6d84ee85f752": {
+    "name": "Report Search",
+    "description": "A lightweight tool for finding industry research reports."
+  },
+  "d5df9b6669c7": {
+    "description": "Create presentations with a spatial, zoomable format."
+  },
+  "b1c9802bcaeb": {
+    "name": "PPT Supermarket",
+    "description": "A collection of free presentation templates."
+  },
+  "8f6a98fb920d": {
+    "name": "1PPT",
+    "description": "Download free PowerPoint templates."
+  },
+  "574b6e0099ec": {
+    "description": "A vector icon library for presentations and other design work."
+  },
+  "67739aefd2f3": {
+    "name": "51yuansu",
+    "description": "Download transparent PNG design assets for presentations and other projects."
+  },
+  "d5f4701ee430": {
+    "description": "Microsoft's official template site; an account is required."
+  },
+  "8f536db41666": {
+    "name": "Lanren Excel",
+    "description": "Free Excel tutorials and learning resources."
+  },
+  "469b1e8ceab9": {
+    "name": "LaTeX binary relation symbols"
+  },
+  "5a8fc3e30d8c": {
+    "name": "LaTeX symbols"
+  },
+  "c01bf77dc445": {
+    "name": "Special characters in LaTeX and HTML"
+  },
+  "950322d7c34d": {
+    "name": "Special characters in LaTeX"
+  },
+  "7882edeb9e48": {
+    "description": "Create mind maps and flowcharts online."
+  },
+  "fdfc15f543b3": {
+    "description": "Draw flowcharts, mind maps, Gantt charts, UML diagrams, prototypes, and more online."
+  },
+  "a494b0fd0beb": {
+    "description": "Design presentations, posters, and other visual materials using templates."
+  },
+  "48f05d409d13": {
+    "name": "Chinese technical writing style guide"
+  },
+  "77ba13721969": {
+    "name": "My board game collection"
+  },
+  "c1c4a541f8a3": {
+    "description": "Play hundreds of board games online."
+  },
+  "7bd1a3b3be66": {
+    "name": "Terraforming Mars"
+  },
+  "4304fb6fe330": {
+    "name": "Common board game mechanisms"
+  },
+  "5848ead010c5": {
+    "name": "Steam Community access tool"
+  },
+  "4837c21daa49": {
+    "name": "Yikm retro games"
+  },
+  "1cad717418dc": {
+    "name": "NetEase cloud gaming"
+  },
+  "d96067d60c37": {
+    "description": "A playful collection of unusual interactive web experiences."
+  },
+  "6e2fb680dfbc": {
+    "description": "The Wordle word-guessing game."
+  },
+  "ef8af8e842bf": {
+    "name": "Game livestream directory"
+  },
+  "505142e5e440": {
+    "name": "Vampire Survivors",
+    "description": "A browser demo of the roguelite game."
+  },
+  "2d20259ef3d6": {
+    "name": "Life Restart Simulator"
+  },
+  "a84dd8801ecf": {
+    "name": "TypeRacer typing races"
+  },
+  "77d9a024790e": {
+    "description": "A game download site listed in the original collection."
+  },
+  "36b46ba34ea8": {
+    "name": "Tuxun",
+    "description": "Guess a location from photographs."
+  },
+  "0986d09f32bd": {
+    "name": "Chess.com"
+  },
+  "6965bf72acb0": {
+    "description": "Find and listen to music across services."
+  },
+  "91e30fcf28db": {
+    "name": "Yue Yunpeng and Sun Yue comedy collection"
+  },
+  "071149a072ac": {
+    "name": "Free music"
+  },
+  "1fa59ffbde56": {
+    "name": "IPTV resources",
+    "description": "A collection of IPTV livestream resources."
+  },
+  "fc70167b1d29": {
+    "description": "Listen to live radio stations around the world. Browse by country, genre, or language and play in your browser without registering."
+  },
+  "19f92f070cb4": {
+    "description": "Free video and animation assets."
+  },
+  "e3515e62425e": {
+    "description": "Download video game music."
+  },
+  "f9d45b98c1b4": {
+    "description": "Find music used in television and films."
+  },
+  "4cda24498d9b": {
+    "description": "Create instrumental accompaniments from audio."
+  },
+  "378fb5eca8cf": {
+    "name": "Olevod",
+    "description": "A streaming site for films and television, described as free in the original listing."
+  },
+  "9728fa34ba90": {
+    "name": "Yifan TV",
+    "description": "A streaming site with a large film and television catalog, as described in the original listing."
+  },
+  "0cea8598b2b0": {
+    "name": "66 Film and TV",
+    "description": "A television streaming site listed in the original collection."
+  },
+  "b8e53095ebeb": {
+    "name": "ZXZJ",
+    "description": "A television streaming site listed in the original collection."
+  },
+  "dd7ccfef4643": {
+    "name": "Tingdong audio reference",
+    "description": "Compare the sound and specifications of audio products and musical instruments."
+  },
+  "dfb8418fbddd": {
+    "name": "remove.bg",
+    "description": "Remove image backgrounds online."
+  },
+  "52193e6ea7c5": {
+    "name": "Free photos"
+  },
+  "10aa87d36a69": {
+    "description": "A collection of stock photos and videos available for free download."
+  },
+  "08ea1366ea8a": {
+    "description": "Free desktop wallpapers."
+  },
+  "94aa9e430d61": {
+    "description": "Generate paper-quilling-style artwork."
+  },
+  "37ad491dbdde": {
+    "name": "SVG pattern generator"
+  },
+  "37a9b11f1322": {
+    "name": "Waifu Labs anime portraits"
+  },
+  "a1ae3b93f7cf": {
+    "description": "Use AI to upscale low-resolution images."
+  },
+  "463bb3d12408": {
+    "description": "Browse and look up emoji."
+  },
+  "0f8a4e34e575": {
+    "name": "Kavli Institute for Astronomy and Astrophysics"
+  },
+  "1219b3ebf881": {
+    "name": "Peking University finance portal",
+    "description": "Look up salary and scholarship information."
+  },
+  "1e4e4414a3d6": {
+    "name": "Peking University room booking",
+    "description": "Reserve small classrooms and meeting rooms."
+  },
+  "6f62a544b807": {
+    "name": "Peking University venue booking",
+    "description": "Reserve campus facilities."
+  },
+  "fb7f9c61ac37": {
+    "name": "Peking University timetable"
+  },
+  "09b64f4dfcb2": {
+    "name": "Peking University teaching media"
+  },
+  "5a084dd07b38": {
+    "name": "Lime Start Page",
+    "description": "A customizable browser start page."
+  },
+  "c1576b38122f": {
+    "name": "LKs recommended websites",
+    "description": "A website collection curated by the Bilibili creator LKs."
+  },
+  "163b97c1d18c": {
+    "name": "Retiehe",
+    "description": "A collection of useful online tools."
+  },
+  "04c05f5a95c7": {
+    "name": "67tool",
+    "description": "A collection of useful online tools."
+  },
+  "02735bcaded8": {
+    "name": "NetEase Jianwai",
+    "description": "Tools for video and document translation; the original listing describes a daily free allowance."
+  },
+  "09eeb4373505": {
+    "name": "Ruoxin Mao's homepage",
+    "description": "A personal collection of interesting tools."
+  },
+  "01af70ec02c2": {
+    "name": "Bookmark Earth",
+    "description": "Share and discover browser bookmarks."
+  },
+  "a70416fa24ee": {
+    "name": "UiiiUiii",
+    "description": "A collection of online tools and design resources."
+  },
+  "69ca07d41d65": {
+    "name": "Axu's Storage Room",
+    "description": "A searchable collection of hundreds of useful websites."
+  },
+  "0903e0714bf5": {
+    "name": "Online ruler",
+    "description": "Create an on-screen ruler using your display size and resolution."
+  },
+  "1fc14483fcff": {
+    "description": "Convert files between a wide range of formats online."
+  },
+  "5ccf80426577": {
+    "description": "Convert files online, including PDF conversion."
+  },
+  "86d0042d144d": {
+    "description": "Convert file formats online."
+  },
+  "a1565b017ca4": {
+    "description": "Convert file formats online."
+  },
+  "b47effd553a6": {
+    "name": "Baimiao OCR",
+    "description": "Extract text from images and convert it to PDF."
+  },
+  "4bad1e2a5e4e": {
+    "name": "PDF restriction removal"
+  },
+  "f198821c49b6": {
+    "description": "Format web pages for clean printing."
+  },
+  "dc7f16da5114": {
+    "name": "Copy Rabbit",
+    "description": "A lightweight, free tool for transferring files across devices."
+  },
+  "116897ced0b7": {
+    "description": "Transfer files between devices."
+  },
+  "e5c6ecc20cbb": {
+    "name": "My Graph Paper",
+    "description": "Create printable graph and notebook paper."
+  },
+  "fb2bd2837701": {
+    "description": "Explore a virtual globe."
+  },
+  "cf45e4630dd4": {
+    "name": "MetroMan"
+  },
+  "5e81d2c7117a": {
+    "name": "World university ranking lookup"
+  },
+  "0577ec89c0c7": {
+    "name": "WeChat Moments screenshot generator"
+  },
+  "e75c721a808e": {
+    "name": "IP address lookup"
+  },
+  "3fb80581ef3d": {
+    "name": "Microsoft text-to-speech"
+  },
+  "71557648279f": {
+    "name": "Maigoo",
+    "description": "Browse ranked lists of products and services."
+  },
+  "f9c718717f1c": {
+    "name": "Houxu",
+    "description": "Follow developments in ongoing news stories."
+  },
+  "1b2a9f0609c9": {
+    "name": "Online font generator"
+  },
+  "bbbd80024b15": {
+    "description": "Explore food through a world map."
+  },
+  "7158e302d5d9": {
+    "name": "Ageeye maps",
+    "description": "Explore real-world and fictional maps."
+  },
+  "45a54b06872e": {
+    "name": "Chinese historical geographic information",
+    "description": "Look up historical place names in China."
+  },
+  "ab973994ef80": {
+    "description": "Generate fantasy maps."
+  },
+  "8cf4d7e7066e": {
+    "description": "Generate maps of cities, regions, dungeons, and buildings."
+  },
+  "23257b283f93": {
+    "description": "Explore weather forecasts on an interactive map."
+  },
+  "4f3db1cc3396": {
+    "name": "China travel map",
+    "description": "Color provinces on a map to record places you have visited."
+  },
+  "d7fe4d86b132": {
+    "description": "A browser extension that applies bionic-reading-style text formatting."
+  },
+  "2f015741e674": {
+    "description": "Add bionic-reading-style formatting to the Zotero reader."
+  },
+  "e739b316e496": {
+    "description": "View archived versions of web pages from different points in time."
+  },
+  "dcaf490d9de6": {
+    "name": "Traditional Chinese Colors",
+    "description": "Explore traditional Chinese colors and palettes."
+  },
+  "ffcbcc0aeecf": {
+    "description": "Create color palettes."
+  },
+  "e7db18503740": {
+    "description": "Generate color gradients."
+  },
+  "ea8ea2bc0fcf": {
+    "name": "Koushare",
+    "description": "Recorded lectures and courses from universities."
+  },
+  "3b3f011397e0": {
+    "name": "Peking University course collection"
+  },
+  "3c6d283fd01e": {
+    "name": "Zhejiang University course resources"
+  },
+  "f632192cf351": {
+    "name": "Shanghai Jiao Tong University course sharing"
+  },
+  "e97ce75c9376": {
+    "name": "USTC course resources"
+  },
+  "e8e007a516f7": {
+    "name": "Xi'an Jiaotong University course sharing"
+  },
+  "5847ebe84ab7": {
+    "name": "National Smart Education Platform",
+    "description": "Online courses from primary through secondary school in China."
+  },
+  "00002a466ca6": {
+    "description": "Discover and share browser user scripts."
+  },
+  "05070bbea5ac": {
+    "name": "Free software"
+  },
+  "735b28ae0d25": {
+    "description": "Compare products and tools through community recommendations."
+  },
+  "3d7227c7a3db": {
+    "name": "DataV map selector",
+    "description": "Download editable SVG maps of Chinese provinces, cities, and counties for presentations."
+  },
+  "ab185b9dedc9": {
+    "name": "Standard maps of China"
+  },
+  "5fccd052e113": {
+    "name": "China Legal Services",
+    "description": "An online legal information and consultation service."
+  },
+  "36c11e41bc04": {
+    "description": "Film and food reviews by an enthusiast."
+  },
+  "bddc5e1ce671": {
+    "name": "Cook like Laoxiangji",
+    "description": "Recipes for dishes from the Laoxiangji restaurant chain."
+  },
+  "65738702dcd8": {
+    "name": "Home-buying guides"
+  },
+  "49788d92ae9a": {
+    "name": "Go tutorials"
+  },
+  "15ef3eca8a13": {
+    "description": "Guidance on accessing websites from different networks."
+  },
+  "618507eb0f4d": {
+    "name": "Historical pandemic policy lookup"
+  },
+  "c73426274d69": {
+    "description": "A collection of illustrated how-to guides."
+  },
+  "8aa8e7bf7f73": {
+    "description": "Discover connections between papers and find relevant prior and derivative research."
+  }
+}

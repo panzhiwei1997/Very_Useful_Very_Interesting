@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#090b10"><meta name="description" content="揽尽天下妙网。一个以天文科研为起点，探索工具、知识与生活的实用网站收藏集。分类浏览，中英文搜索，发现下一件好工具。">
+<title>VUVI · 揽尽天下妙网</title>
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="assets/style.css">
+<script src="assets/catalog.js" defer></script><script src="assets/i18n.js" defer></script><script src="assets/app.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#resources">跳到资源列表</a>
+<aside class="sidebar" id="sidebar">
+ <a href="#" class="brand" aria-label="VUVI 首页"><span class="brand-mark" aria-hidden="true"><span></span></span><span>VUVI<small>好奇心，自有引力。</small></span></a>
+ <div class="side-section">你的引力空间</div>
+ <nav aria-label="资源导航"><button class="nav-item active" data-category="all"><span class="nav-icon">◈</span>全部探索<span class="count" id="all-count"></span></button><button class="nav-item" id="favorites"><span class="nav-icon">♡</span>我的收藏<span class="count" id="favorite-count">0</span></button></nav>
+ <div class="side-section category-heading">按主题发现 <span>10</span></div><nav id="category-nav" aria-label="主题分类"></nav>
+ <div class="side-bottom"><div class="tiny-stars">✦ <span>✧</span></div><strong>好奇心，是一种引力。</strong><p>让散落在互联网的好工具，<br>汇入你的知识宇宙。</p><a href="https://github.com/panzhiwei1997/Very_Useful_Very_Interesting" target="_blank" rel="noopener noreferrer">在 GitHub 一起完善 <span>↗</span></a></div>
+</aside>
+<div class="mobile-backdrop" id="backdrop" hidden></div>
+<main>
+ <header class="topbar"><div><button class="icon-button menu-button" id="menu" aria-label="打开分类导航" aria-expanded="false">☰</button><span class="breadcrumb">资源宇宙 <span>/</span> <b id="breadcrumb-current">全部探索</b></span></div><div class="top-actions"><div class="language-switch" role="group" aria-label="Language / 语言"><button type="button" data-language="zh" aria-pressed="true" lang="zh-CN">中文</button><button type="button" data-language="en" aria-pressed="false" lang="en">EN</button></div><span class="edition">A UNIVERSE WORTH COLLECTING</span><a class="github-link" href="https://github.com/panzhiwei1997/Very_Useful_Very_Interesting" target="_blank" rel="noopener noreferrer"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 .8a11.2 11.2 0 0 0-3.5 21.8c.56.1.77-.24.77-.54v-2.1c-3.13.68-3.79-1.33-3.79-1.33-.51-1.3-1.25-1.65-1.25-1.65-1.02-.7.08-.69.08-.69 1.13.08 1.72 1.16 1.72 1.16 1 1.72 2.63 1.22 3.27.93.1-.73.39-1.23.71-1.51-2.5-.29-5.13-1.25-5.13-5.54 0-1.22.44-2.22 1.15-3-.12-.29-.5-1.43.11-2.98 0 0 .94-.3 3.08 1.15a10.6 10.6 0 0 1 5.6 0c2.14-1.45 3.08-1.15 3.08-1.15.61 1.55.23 2.69.11 2.98.71.78 1.15 1.78 1.15 3 0 4.3-2.64 5.25-5.15 5.53.4.35.76 1.03.76 2.07v3.13c0 .3.2.65.77.54A11.2 11.2 0 0 0 12 .8Z"/></svg>GitHub <span>↗</span></a></div></header>
+ <div class="page">
+ <section class="hero" aria-labelledby="hero-title"><div class="hero-copy"><div class="eyebrow"><span></span> GOOD THINGS HAVE GRAVITY.</div><h1 id="hero-title">揽尽天下<span>妙网</span><i>✦</i></h1><p>以好奇心为引力，让好网站在这里相遇。<br>从科研到生活，把值得探索的工具，收入你的宇宙。</p><div class="hero-stats"><strong id="total-stat">—</strong> 个精选资源 <span></span><strong>10</strong> 个探索主题 <span></span>中英文合辑</div></div>
+ <div class="blackhole-scene" aria-hidden="true">
+ <svg class="blackhole" viewBox="0 0 680 440" fill="none">
+ <defs>
+  <radialGradient id="hole-glow"><stop offset="0.25" stop-color="#000" stop-opacity="0"/><stop offset=".42" stop-color="#d45221" stop-opacity=".12"/><stop offset=".55" stop-color="#f88539" stop-opacity=".28"/><stop offset=".72" stop-color="#a54728" stop-opacity=".06"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+  <radialGradient id="rim"><stop offset=".66" stop-color="#030409"/><stop offset=".72" stop-color="#08080a"/><stop offset=".77" stop-color="#fcd7a4"/><stop offset=".8" stop-color="#ef8c50"/><stop offset=".86" stop-color="#9c462d" stop-opacity=".5"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+  <linearGradient id="disk" x1="85" y1="220" x2="600" y2="220" gradientUnits="userSpaceOnUse"><stop stop-color="#bc4b27" stop-opacity="0"/><stop offset=".22" stop-color="#ec7f3e"/><stop offset=".5" stop-color="#ffe6b8"/><stop offset=".78" stop-color="#e49b65"/><stop offset="1" stop-color="#ad4d35" stop-opacity="0"/></linearGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="8"/></filter><filter id="soft-glow"><feGaussianBlur stdDeviation="2.7"/></filter>
+ </defs>
+ <g class="distant-orbits"><ellipse cx="346" cy="223" rx="278" ry="126" transform="rotate(-18 346 223)" stroke="#aa764a" stroke-opacity=".15" stroke-dasharray="2 8"/><ellipse cx="346" cy="223" rx="316" ry="154" transform="rotate(-18 346 223)" stroke="#586074" stroke-opacity=".15"/></g>
+ <ellipse cx="350" cy="221" rx="258" ry="189" fill="url(#hole-glow)"/>
+ <g transform="rotate(-14 350 220)">
+ <ellipse cx="350" cy="220" rx="219" ry="51" stroke="url(#disk)" stroke-width="14" filter="url(#blur)" opacity=".65"/>
+ <ellipse cx="350" cy="220" rx="211" ry="47" stroke="url(#disk)" stroke-width="3" opacity=".8"/>
+ <ellipse cx="350" cy="220" rx="237" ry="62" stroke="url(#disk)" stroke-width="1" opacity=".4"/>
+ <circle cx="350" cy="213" r="111" fill="url(#rim)"/>
+ <circle cx="350" cy="213" r="78" fill="#020307"/>
+ <path d="M100 222c70 4 129 41 250 41s184-37 250-41" stroke="url(#disk)" stroke-width="15" filter="url(#blur)"/>
+ <path d="M100 222c70 4 129 41 250 41s184-37 250-41" stroke="url(#disk)" stroke-width="4" filter="url(#soft-glow)"/>
+ <path d="M100 222c70 4 129 41 250 41s184-37 250-41" stroke="url(#disk)" stroke-width="1.6"/>
+ <path d="M126 233c82 11 136 40 224 40s157-30 225-40" stroke="url(#disk)" stroke-width=".8" opacity=".65"/>
+ </g>
+ <g fill="#bfc7dd"><circle cx="129" cy="93" r="1.5"/><circle cx="542" cy="78" r="1"/><circle cx="603" cy="275" r="1.7"/><circle cx="187" cy="344" r="1"/><circle cx="451" cy="350" r="1.5"/><circle cx="287" cy="54" r="1"/><circle cx="72" cy="255" r="1.5"/></g>
+ <g class="captured-stars" fill="#e6b485"><circle cx="168" cy="152" r="3"/><circle cx="564" cy="178" r="2.2"/><circle cx="240" cy="322" r="2"/></g>
+ <path d="M535 105v12m-6-6h12M99 298v10m-5-5h10" stroke="#e2ba98" stroke-opacity=".65"/>
+ <text x="407" y="378" fill="#786f65" font-family="monospace" font-size="8" letter-spacing="2.8">THE INTERNET, DRAWN TOGETHER.</text>
+ </svg><span class="orbit-label label-code">&lt;/&gt; CODE</span><span class="orbit-label label-ideas">✧ IDEAS</span><span class="orbit-label label-science">SCIENCE ·</span>
+ </div>
+ </section>
+ <section class="search-area" aria-label="搜索资源"><div class="search-box"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4.5 4.5"/></svg><label class="sr-only" for="search">搜索名称、关键词或用途</label><input id="search" type="search" placeholder="搜索这个宇宙：网站、工具，或你想做的事…" autocomplete="off"><button id="clear-search" class="icon-button" aria-label="清空搜索" hidden>×</button><kbd>/</kbd><button id="search-submit">探索一下 <span>↗</span></button></div><div class="search-hints"><span>试着搜</span><button data-query="找相关论文">找相关论文</button><button data-query="提取图里的数据">提取图里的数据</button><button data-query="免费 PPT">免费 PPT</button><button data-query="配色">配色灵感</button><span class="search-note">中英文 · 用途匹配 · 拼写容错</span></div></section>
+ <section class="collections" id="collections" aria-label="探索专题">
+ <button data-collection="astronomy" class="collection astro"><span class="collection-icon">✧</span><div><small>ORBIT 01 / 科研</small><h2>向宇宙提问</h2><p>天文数据库、巡天与科研工具</p></div><span class="collection-arrow">↗</span></button>
+ <button data-collection="design" class="collection design"><span class="collection-icon">✳</span><div><small>ORBIT 02 / 灵感</small><h2>给灵感一个出口</h2><p>色彩、图像与好用的创作工具</p></div><span class="collection-arrow">↗</span></button>
+ <button data-collection="play" class="collection leisure"><span class="collection-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M7 6h10q4 0 5 11c0 4-4 3-6-1H8c-2 4-6 5-6 1Q3 6 7 6Z"/><path d="M7 9v6m-3-3h6m6-2h1m2 3h1"/></svg></span><div><small>ORBIT 03 / 休闲</small><h2>给快乐留点时间</h2><p>桌游、游戏、音乐与影音</p></div><span class="collection-arrow">↗</span></button>
+ </section>
+ <section class="resources-section" id="resources" aria-labelledby="results-title"><div class="section-heading"><div><span class="section-kicker" id="section-kicker">WITHIN YOUR ORBIT</span><h2 id="results-title">引力收藏集 <span id="result-count"></span></h2></div><button class="random-button" id="random">✧ 随机跃迁</button></div><div class="filters"><div id="subcategories" class="chips" aria-label="细分类别"></div><div class="filter-controls"><label class="sr-only" for="source-filter">收录来源</label><select id="source-filter"><option value="all">全部来源</option><option value="zh">中文版收录</option><option value="en">英文版收录</option><option value="en-only">英文版独有</option></select><label class="sr-only" for="sort">排序</label><select id="sort"><option value="recommended">探索优先</option><option value="name">名称 A–Z</option></select><div class="view-toggle" aria-label="显示方式"><button id="grid-view" class="selected" aria-label="卡片视图" aria-pressed="true">▦</button><button id="list-view" aria-label="列表视图" aria-pressed="false">☷</button></div></div></div><div class="result-context" id="result-context" role="status" aria-live="polite"></div><section id="category-picks" class="category-picks" aria-labelledby="category-picks-title" hidden><h3 id="category-picks-title" class="resource-group-title">近日推荐</h3><div id="recommended-cards" class="cards"></div></section><h3 id="other-resources-title" class="resource-group-title" hidden>其他资源</h3><div id="cards" class="cards"></div><div class="empty" id="empty" hidden><span>⌕</span><h3>还没找到这颗星</h3><p>试试更短的关键词，或清除筛选后继续探索。</p><button id="reset">清除筛选</button></div><div class="load-area"><button id="load-more">探索更远一点 <span>↓</span></button><p id="showing"></p></div></section>
+ <footer><a href="#" class="footer-brand">VUVI<span>◉</span></a><p>合万人之智，揽尽天下妙网。<span><a class="author-link" href="https://panzhiwei1997.github.io/" target="_blank" rel="noopener noreferrer">网站作者：潘志伟 ↗</a></span></p></footer>
+ </div>
+</main>
+<dialog id="detail"><div class="dialog-top"><span class="eyebrow">RESOURCE NOTES</span><button class="icon-button" id="close-detail" aria-label="关闭详情">×</button></div><div id="detail-content"></div></dialog><div class="toast" id="toast" role="status"></div>
+<noscript><p>请启用 JavaScript 浏览网站、使用分类和搜索。Please enable JavaScript to browse and search the directory.</p></noscript>
+</body></html>

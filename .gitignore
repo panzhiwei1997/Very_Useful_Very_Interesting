@@ -1,3 +1,5 @@
-
-Very_Useful_Very_Interesting.wiki/
+dist/
+__pycache__/
 .DS_Store
+preview-*.png
+Very_Useful_Very_Interesting.wiki/
